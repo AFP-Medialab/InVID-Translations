@@ -2,7 +2,7 @@
 navbar_tools	Tools	Outils	Herramientas	Εργαλεία	Գործիքներ
 navbar_analysis_video	Video analysis	Analyse Vidéo	Análisis de vídeo	Βίντεο ανάλυση	Տեսանյութի վերլուծություն
 navbar_analysis_image	Image analysis	Analyse d'image	Análisis de imagen	ανάλυση εικόνας	Պատկերի վերլուծություն
-navbar_keyframes	Keyframes	Images clés	Fotogramas clave	Χαρακτηριστικά καρέ	Ստեղնաշարեր
+navbar_keyframes	Keyframes	Images clés	Fotogramas clave	Χαρακτηριστικά καρέ	Բանալի կադրեր
 navbar_thumbnails	Thumbnails	Imagettes	Miniaturas	Μικρογραφίες	Մանրապատկեր
 navbar_twitter	Twitter search	Recherche Tw.	Búsqueda Tw.	Tw. Αναζήτηση	Twitter որոնում
 navbar_magnifier	Magnifier	Loupe	Lupa	Μεγεθυντικός φακός	Խոշորացույց
@@ -41,10 +41,10 @@ category_video	Video	Vidéo	Video	βίντεο	Տեսանյութ
 category_image	Image	Image	Imagen	Εικόνα	Պատկեր
 category_search	Search	Recherche	Busqueda	Αναζήτηση	Որոնել
 category_data	Data analysis	Analyse des données	Análisis de datos	Ανάλυση δεδομένων	Տվյալների վերլուծություն
-navbar_conversation	Twitter Conversation	Conversation sur Twitter	Conversación en Twitter	Συζήτηση στο Twitter	Twitter- ի զրույցը
+navbar_conversation	Twitter Conversation	Conversation sur Twitter	Conversación en Twitter	Συζήτηση στο Twitter	Twitter-ի զրույց
 navbar_conversation_description	It provides a straightforward way of exploring a Twitter based conversation.	Cet outil permet d'explorer une conversation sur Twitter	Esta herramienta permite explorar una conversación en Twitter	Παρέχει έναν απλό τρόπο εξερεύνησης μιας συνομιλίας με βάση το Twitter.	Այն ապահովում է Twitter-ում զրույցը ուսումնասիրելու պարզ միջոց:
-navbar_twitter_crowdtangle	CSV Analysis	Analyse CSV	Analisis CSV	Ανάλυση CSV	CSV- ի վերլուծություն
-navbar_twitter_crowdtangle_description	It performs social network analysis from a CrowdTangle export	Il effectue une analyse de réseau social à partir d'un export de CrowdTangle	Realiza un análisis de redes sociales desde una exportación de CrowdTangle.	Εκτελεί ανάλυση κοινωνικού δικτύου από την εξαγωγή Crowdtangle	Այն իրականացնում է սոցիալական ցանցի վերլուծություն CrountTangle արտահանմամբ
+navbar_twitter_crowdtangle	CSV Analysis	Analyse CSV	Analisis CSV	Ανάλυση CSV	CSV-ի վերլուծություն
+navbar_twitter_crowdtangle_description	It performs social network analysis from a CrowdTangle export	Il effectue une analyse de réseau social à partir d'un export de CrowdTangle	Realiza un análisis de redes sociales desde una exportación de CrowdTangle.	Εκτελεί ανάλυση κοινωνικού δικτύου από την εξαγωγή Crowdtangle	Այն իրականացնում է սոցիալական ցանցի վերլուծություն CrowdTangle արտահանմամբ
 navbar_deepfake_image	Deepfake	Deepfake	Deepfake	Deepfake	Դիփֆեյք
 navbar_deepfake_image_description	It uses a detection algorithm to return the probabilty that an image contains a manipulated deepfake	Il utilise un algorithme de détection pour retourner la probabilité qu'une image contienne un deepfake manipulé.	Utiliza un algoritmo de detección para devolver la probabilidad de que una imagen contenga un deepfake manipulado	Χρησιμοποιεί έναν αλγόριθμο ανίχνευσης για να επιστρέψει την πιθανότητα ότι μια εικόνα περιέχει ένα χειραγωγημένο deepfake	Այն օգտագործում է հայտնաբերման ալգորիթմ` հավանականությունը վերադարձնելու համար, որ պատկերը պարունակում է մանիպուլյացիայի խորքային
 navbar_geolocation	Geolocalizer	Géolocalisation	Geolocalizador	Geolocalizer	Տեղորոշիչ
