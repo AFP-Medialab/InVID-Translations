@@ -20,32 +20,32 @@ twitterStats_verified_no	no	non	no	ναι	ոչ
 twitterStats_verified_yes	yes	oui	si	οχι	այո
 lang_choices	Language :	Langue :	Lengua :	Γλώσσα:	Լեզու :
 lang_all	none	aucun	ninguno	κανένα	ոչ ոք
-lang_fr	French	Français	Francés	Γαλλικά	Ֆրանսիական
+lang_fr	French	Français	Francés	Γαλλικά	Ֆրանսերեն
 lang_en	English	Anglais	Inglés	Αγγλικά	Անգլերեն
 lang_es	Spanish	Espagnol	Español	Ισπανικά	Իսպաներեն
-lang_ar	Arabic	Arabe	Árabe	Αράβικα	Արաբական
+lang_ar	Arabic	Arabe	Árabe	Αράβικα	Արաբերեն
 lang_de	German	Allemand	Alemán	Γερμανικά	Գերմաներեն
 lang_it	Italian	Italien	Italiano	Ιταλικά	Իտալերեն
 lang_id	Indonesian	Indonésien	Indonesio	Ινδονησιακά	Ինդոնեզերեն
 lang_pt	Portuguese	Portugais	Portugués	Πορτογαλικά	Պորտուգալերեն
-lang_ko	Korean	Coréen	Coreano	Κορεάτικα	Կորեական
-lang_tr	Turkish	Turc	Turco	Τούρκικα	Թուրքական
-lang_ru	Russian	Russe	Ruso	Ρώσικα	Ռուս
+lang_ko	Korean	Coréen	Coreano	Κορεάτικα	Կորեերեն
+lang_tr	Turkish	Turc	Turco	Τούρκικα	Թուրքերեն
+lang_ru	Russian	Russe	Ruso	Ρώσικα	Ռուսերեն
 lang_nl	Dutch	Néerlandais	Holandés	Ολλανδικά	Հոլանդերեն
 lang_hi	Hindi	Indou	Hindú	Χίντι	Հինդի
 lang_no	Norwegian	Norvégien	Noruego	Νορβηγικά	Նորվեգերեն
-lang_sv	Swedish	Suédois	Sueco	Σουηδικά	Շվեդական
+lang_sv	Swedish	Suédois	Sueco	Σουηδικά	Շվեդերեն
 lang_fi	Finnish	Finlandais	Finlandés	Φινλανδικά	Ֆիններեն
 lang_da	Danish	Danois	Danés	Δανικά	Դանիերեն
-lang_pl	Polish	Polonais	Polaco	Πολωνικά	Լեհական
-lang_hu	Hungarian	Hongrois	Húngaro	Ούγγρικα	Հունգարական
+lang_pl	Polish	Polonais	Polaco	Πολωνικά	Լեհերեն
+lang_hu	Hungarian	Hongrois	Húngaro	Ούγγρικα	Հունգարերեն
 lang_fa	Farsi	Persan	Farsi	Φαρσί	Պարսկերեն
 lang_he	Hebrew	Hébreu	Hebreo	Εβραϊκά	Եբրայերեն
 lang_ur	Urdu	Ourdou	Urdu	Ουρντού	Ուրդու
 lang_th	Thai	Thaï	Tailandés	Ταϊλανδέζικα	Թայերեն
-button_submit	Submit	Envoyer	Enviar	Υποβολή	Ներկայացնել
+button_submit	Submit	Envoyer	Enviar	Υποβολή	Վերլուծել
 default_sna_error	Twitter analysis failed due to an unknown cause.	L'analyse de Twitter a été interrompue pour une raison inconnue.	El análisis de Twitter se ha interrumpido por una causa desconocida.	Η ανάλυση του Twitter απέτυχε λόγω άγνωστης αιτίας.	Twitter- ի վերլուծությունը ձախողվեց անհայտ պատճառի պատճառով:
-twitterSnaErrorMessage	An error occurred while processing tweets	Une erreur s'est produite lors du traitement des tweets	Se produjo un error en el procesamiento de tweets	Παρουσιάστηκε σφάλμα κατά την επεξεργασία των tweets	Թվիթեր մշակելիս սխալ է տեղի ունեցել
+twitterSnaErrorMessage	An error occurred while processing tweets	Une erreur s'est produite lors du traitement des tweets	Se produjo un error en el procesamiento de tweets	Παρουσιάστηκε σφάλμα κατά την επεξεργασία των tweets	Թվիթները մշակելիս սխալ է տեղի ունեցել
 top_users_pie_chart_title	Most active users	Utilisateurs les plus actifs	Usuarios más activos	Πιο ενεργοί χρήστες	Առավել ակտիվ օգտվողներ
 mention_cloud_chart_title	Most mentioned accounts	Compte les plus mentionnés	Usuarios más mencionados	Λογαριασμοί που έχουν αναφερθεί πιο πολύ	Նշված հաշիվները
 user_time_chart_title	Propagation timeline	Frise chronologique de propagation	Línea de tiempo de propagación	Χρονοδιάγραμμα διάδοσης	Propagation Timeline
