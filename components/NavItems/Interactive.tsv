@@ -2,7 +2,7 @@
 quiz_unlock_message	To display explanations, unlock them from About menu	Pour afficher les explications, débloquez les depuis le menu A propos	Desbloquear las explicaciones de Interactivo desde el menú Sobre nosotros	Για προβολή επεξηγήσεων ξεκλειδώσετε την επιλογή από το μενού 'Σχετικά'	Բացատրություններ ցուցադրելու համար դրանք բացեք ցանկից
 quiz_title	Spot the fake !	Trouvez le faux !	¡Detectar la falsificación!	Εντοπίστε το ψεύτικο!	Գտեք ֆեկքը
 quiz_similarity	Similarity search	Recherche de similarités	Búsqueda de similaridades	Αναζήτηση ομοιότητας	Նմանությունների որոնում
-quiz_similarity	Forensic search	Recherche Forensic	Búsqueda Forensic	Aναζήτηση αυθεντικότητας εικόνων	Հետաքննական որոնում
+quiz_forensic	Forensic search	Recherche Forensic	Búsqueda Forensic	Aναζήτηση αυθεντικότητας εικόνων	Հետաքննական որոնում
 quiz_keyframes	Keyframes	Images clés	Fotogramas claves	Χαρακτηριστικά καρέ	Բանալի կադրեր
 quiz_explanations	Explanations	Explications	Explicaciones	Επεξηγήσεις	Բացատրություններ
 quiz_item_url_1	https://reveal-mklab.iti.gr/forensics/imgs/example0_big.jpg	https://reveal-mklab.iti.gr/forensics/imgs/example0_big.jpg	https://reveal-mklab.iti.gr/forensics/imgs/example0_big.jpg	https://reveal-mklab.iti.gr/forensics_demo/Tsakalotos.jpg	https://reveal-mklab.iti.gr/forensics/imgs/example0_big.jpg
