@@ -2,8 +2,8 @@
 magnifier_title	Image Magnifier	Inspecteur d'image	Amplificador de imagen	Μεγεθυντικός φακός εικόνας	Պատկերի խոշորացույց
 magnifier_urlbox	Image link	Adresse URL de l'image	URL de la imagen	Διεύθυνση URL εικόνας	Պատկերի հղում
 magnifier_urlbox_placeholder	Paste the link here	Coller le lien ici	Pegar el enlace	Επικολλήστε τον σύνδεσμο εδώ	Տեղադրեք պատկերի URL-ը այստեղ
-button_localfile	Load local file	Fichier local	Cargar fichero local	Τοπικό αρχείο	Վերբեռնել ֆայլ ձեր սարքից
-button_submit	Submit	Envoyer	Enviar	Υποβολή	Ուղարկել
+button_localfile	Load local file	Fichier local	Cargar fichero local	Τοπικό αρχείο	Վերբեռնել ֆայլ համակարգչից
+button_submit	Submit	Envoyer	Enviar	Υποβολή	Դիտել
 please_give_a_correct_link	Please give a correct link	Donner un lien valide s'il vous plaît	Por favor, dé un enlace válido	Παρακαλώ εισάγετε έναν σωστό σύνδεσμο	Խնդրում ենք տրամադրել վավեր հղում
 magnifier_google	Google Image	Google Image	Google imágenes	Εικόνα Google	Google Image
 magnifier_baidu	Baidu Image	Baidu Image	Baidu imágenes	Εικόνα Baidu	Baidu Image

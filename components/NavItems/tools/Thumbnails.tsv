@@ -1,8 +1,8 @@
 	en	fr	es	el	hy
 youtube_title	YouTube thumbnails reverse search	Recherche inversée des imagettes YouTube	Búsqueda inversa de miniaturas YouTube	Αντίστροφη αναζήτηση μικρογραφιών YouTube	YouTube-ի մանրապատկերներով որոնում 
-api_input	Copy and paste a Youtube	Copier et coller une adresse YouTube	Copiar y pegar un enlace de YouTube	Κάντε αντιγραφή και επικόλληση μιας διεύθυνσης URL Youtube	Տեղադրեք տեսանյութի URL-ը YouTube-ից
-youtube_input	YouTube video URL	Adresse de la vidéo YouTube	Enlace del video YouTube	Διεύθυνση URL YouTube βίντεο	YouTube-ում տեսանյութի URL-ը
-button_submit	Submit	Envoyer	Enviar	Υποβολή	Ուղարկել
+api_input	Copy and paste a Youtube	Copier et coller une adresse YouTube	Copiar y pegar un enlace de YouTube	Κάντε αντιγραφή και επικόλληση μιας διεύθυνσης URL Youtube	Տեղադրեք տեսանյութի URL-ը ՅուԹուբից
+youtube_input	YouTube video URL	Adresse de la vidéo YouTube	Enlace del video YouTube	Διεύθυνση URL YouTube βίντεο	ՅուԹուբում տեսանյութի URL-ը
+button_submit	Submit	Envoyer	Enviar	Υποβολή	Վերլուծել
 openTabs	Open Tabs	Ouvrir les onglets	Abrir pestañas	Άνοιγμα καρτελών	Բացել ներդիրներում
 show_result	Display results	Montrer les résultats	Mostrar los resultados	Εμφάνιση αποτελεσμάτων	Ցուցադրել արդյունքները
 cardheader_link	Source of the video	Source de la vidéo	Fuente del vídeo	Πηγή του βίντεο	Տեսանյութի աղբյուրը

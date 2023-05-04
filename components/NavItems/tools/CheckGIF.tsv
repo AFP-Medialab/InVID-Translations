@@ -10,8 +10,8 @@ cardTitle_generatedGIF	Preview of the GIF	Vue préalable du GIF	Vista previa del
 slider_title	Speed of the animation	Vitesse de l'animation	Velocidad de la animación	Ταχύτητα της κίνησης	Անիմացիայի արագությունը
 slider_label_slow	Slow	Lente	Lento	Αργός	Դանդաղ
 slider_label_fast	Fast	Rapide	Rápido	Γρήγορα	Արագ
-button_download	Download GIF	Télécharger le GIF	Descargar GIF	Λήψη GIF	Ներբեռնեք GIF
-button_video	Download as Video	Télécharger en Vidéo	Descargar como vídeo	Λήψη ως βίντεο	Ներբեռնեք որպես տեսանյութ
+button_download	Download GIF	Télécharger le GIF	Descargar GIF	Λήψη GIF	Ներբեռնել GIF-ի տեսքով
+button_video	Download as Video	Télécharger en Vidéo	Descargar como vídeo	Λήψη ως βίντεο	Ներբեռնել տեսանյութի տեսքով
 cardTitle_source	Source of the images	Source des images	Fuente de las imágenes	Πηγή των εικόνων	Պատկերների աղբյուրը
 title_URL	Links	Liens	Enlaces	Συνδέσεις	Հղումներ
 description_URL	The two images are provided with two URL links	Les deux images sont fournies avec deux liens urls	Se proveen las dos imágenes con dos enlaces	Οι δύο εικόνες που παρέχονται με δύο συνδέσεις URL	Երկու պատկերներն ապահովված են երկու URL հղումներով

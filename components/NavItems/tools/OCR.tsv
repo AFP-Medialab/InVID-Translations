@@ -7,7 +7,7 @@ ocr_no_text	No text has been found in the image	Pas de texte trouvé dans l'imag
 ocr_too_big	Your uploaded image must be below 4MB in size	Votre image doit avoir une taille inférieure à 4Mb	Su imagen debe tener un tamaño inferior a 4Mb	Η μεταφορτωμένη εικόνα σας πρέπει να έχει μέγεθος μικρότερο από 4 MB	Ձեր վերբեռնված պատկերը չպետք է 4ՄԲ-ից մեծ լինի
 service_error	Service currently unavailable. Please contact support through the feedback button if the problem persists	Service actuellement indisponible. Veuillez contacter le support via le bouton de feedback si le problème persiste.	El servicio no está disponible actualmente. Por favor, póngase en contacto con el soporte a través del botón de feedback si el problema persiste.	Η υπηρεσία αυτή τη στιγμή δεν είναι διαθέσιμη. Παρακαλούμε επικοινωνήστε με την υποστήριξη μέσω του κουμπιού ανατροφοδότησης εάν το πρόβλημα παραμένει.	Ծառայությունը ներկայումս անհասանելի է: Խնդրում ենք կապվել աջակցության հետ հետադարձ կապի կոճակի միջոցով, եթե խնդիրը ավելի ուշ չկարգավորվի։
 button_localfile	Load local file	Charger un fichier local	Cargar fichero local	Τοποθετήστε τοπικό αρχείο	Բեռնել ֆայլ համակարգչից
-button_submit	Submit	Envoyer	Enviar	Υποβολή	Ուղարկել
+button_submit	Submit	Envoyer	Enviar	Υποβολή	Վերլուծել
 button_remove	Remove	Supprimer	Eliminar	Αφαιρώ	Հեռացնել
 ocr_search_yandex	Yandex	Yandex	Yandex	Γιάντεξ	Յանդեքս
 ocr_search_bing	Bing	Bing	Bing	Bing	Բինգ
