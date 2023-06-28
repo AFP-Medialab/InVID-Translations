@@ -1,6 +1,6 @@
 	en	fr	es	el	ar
 api_title	Video contextual verification	Vérification du contexte de la vidéo	Verificación del contexto del video	Επαλήθευση βίντεο μέσω ανάλυσης δεικτών εγκυρότητας	التحقق من سياق الفيديو
-api_input	Youtube or Facebook link	Adresse YouTube ou Facebook	Enlace de YouTube o Facebook 	Σύνδεσμος Youtube ή Facebook	رابط يوتيوب أو فيسبوك أو تويتر
+api_input	Youtube or Facebook link	Adresse YouTube ou Facebook	Enlace de YouTube o Facebook 	Σύνδεσμος Youtube ή Facebook	رابط يوتيوب أو فيسبوك
 api_input_placeholder	Paste here the link	Coller ici le lien	Pegar aquí el enlace	Επικολλήστε εδώ το σύνδεσμο	الصق الرابط هنا
 api_repro	Reprocess	Retraiter	Volver a procesar	Επανεπεξεργασία	إعادة المعالجة
 api_comments	All comments	Tous les commentaires	Todos los comentarios	Όλα τα σχόλια	كل التعليقات
@@ -88,7 +88,7 @@ image_link	Image link	Lien de l'image	Enlace de imágen	Σύνδεσμος ει�
 twitter_search	Search on Twitter	Rechercher sur Twitter	Buscar en Twitter	Αναζήτηση στο Twitter	إبحث في تويتر
 comments_links	Number of comments that contain links	Nombre de commentaires contenant des liens	Número de comentarios que contienen enlaces	Αριθμός σχολίων που περιέχουν συνδέσμους	عدد التعليقات التي تحتوي على روابط
 facebook_tip	This kind of Facebook link or shortener is not working properly. Try to click on the video and to get the url address instead.	Ce genre de lien ou raccourci de Facebook ne fonctionne pas correctement. Cliquez sur la vidéo et récupérer le lien de la barre d'adresse URL.	Este tipo de enlace o de acortador de Facebook no funciona correctamente. Intenté cliquear sobre el video y de recuperar el enlace en la barra de URL.	ΜΑυτό το είδος του συνδέσμου Facebook ή του shortener δεν λειτουργεί σωστά. Προσπαθήστε να κάνετε κλικ στο βίντεο και να λάβετε τη διεύθυνση url.	هذا النوع من روابط فيسبوك أو الروابط المختصرة لا يعمل بشكل صحيح. حاول النقر على الفيديو والحصول على رابط جديد بدلاً من ذلك.
-api_input_image	Facebook link	Adresse Facebook 	Enlace de Facebook	Σύνδεσμος Facebook 	رابط فيسبوك أو تويتر
+api_input_image	Facebook link	Adresse Facebook 	Enlace de Facebook	Σύνδεσμος Facebook 	رابط فيسبوك
 image_description	Image description	Description de l'image	Descripción de la imagen	περιγραφή εικόνας	وصف الصورة
 video_description	Video description	Description de la vidéo	Descripción del video	Περιγραφή βίντεο	وصف الفيديو
 twitter_reply	All replies	Toutes les réponses	Todas las respuestas	Όλες οι απαντήσεις	جميع الردود
