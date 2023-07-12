@@ -45,6 +45,7 @@ category_video	Video	Vidéo	Video	βίντεο	فيديو
 category_image	Image	Image	Imagen	Εικόνα	صورة	
 category_search	Search	Recherche	Busqueda	Αναζήτηση	بحث	
 category_data	Data analysis	Analyse des données	Análisis de datos	Ανάλυση δεδομένων	تحليل البيانات	
+category_other	Other tools
 navbar_conversation	Twitter Conversation	Conversation sur Twitter	Conversación en Twitter	Συζήτηση στο Twitter	محادثة تويتر	
 navbar_conversation_description	It provides a straightforward way of exploring a Twitter based conversation.	Cet outil permet d'explorer une conversation sur Twitter	Esta herramienta permite explorar una conversación en Twitter	Παρέχει έναν απλό τρόπο εξερεύνησης μιας συνομιλίας με βάση το Twitter.	يوفر طريقة مباشرة لاستكشاف محادثة على تويتر.	
 navbar_twitter_crowdtangle	CSV Analysis	Analyse CSV	Analisis CSV	Ανάλυση CSV	تحليل CSV	
