@@ -8,7 +8,7 @@ navbar_quiz	Demo	Demo	Demo	Διαδήλωση	العرض التوضيحي
 navbar_analysis	Video analysis	Analyse	Video análisis	Ανάλυση	تحليل الفيديو
 navbar_keyframes	Keyframes	Images clés	Fotogramas clave	Χαρακτηριστικά καρέ	إطارات المفاتيح
 navbar_thumbnails	Thumbnails	Imagettes	Miniaturas	Μικρογραφίες	الصورة المصغرة
-navbar_twitter	Tw. search	Recherche Tw.	Búsqueda Tw.	Αναζήτηση στο Twitter	بحث عبر تويتر
+navbar_twitter	X. search	Recherche X.	Búsqueda X.	Αναζήτηση στο X	بحث عبر تويتر
 navbar_magnifier	Magnifier	Loupe	Lupa	Μεγεθυντικός φακός	المكبر
 navbar_metadata	Metadata	Metadonnées	Metadatos	Μεταδεδομένα	البيانات الوصفية
 navbar_rights	Video rights	Droits vidéo	Derechos video	Δικαιώματα βίντεο	حقوق الفيديو
@@ -43,3 +43,4 @@ navbar_category_search	Search	Recherche	Busqueda	Αναζήτηση	بحث
 navbar_category_data	Data analysis	Analyse des données	Análisis de datos	Ανάλυση δεδομένων	تحليل البيانات
 navbar_category_other	Other tools	Autres outils
 navbar_collapse	Hide	Masquer	Ocultar	Απόκρυψη	إخفاء
+
