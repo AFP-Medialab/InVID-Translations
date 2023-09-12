@@ -23,3 +23,12 @@ deepfake_image_diffusion_name	Diffusion model
 deepfake_image_diffusion_description	This method aims to detect if the image has been generated through a diffusion model neural network.
 deepfake_image_detection_alert	This image has been detected as generated with a 	
 deepfake_image_detection_alert_2	 algorithm	
+deepfake_video_title	Detection results
+deepfake_video_videoreport_name	Deepfake Video Report
+deepfake_video_videoreport_description	This method aims to detect if the person's face has been replaced in the video.
+deepfake_video_ftcn_name	Fully Temporal Convolution Network
+deepfake_video_ftcn_description	This method aims to detect temporal anomalies for videos with faces.
+deepfake_video_facereenact_name	Face Reenactment
+deepfake_video_facereenact_description	This method aims to detect if the faces in the video have been synthesized with a transfer from a source face shape to a target face while preserving the appearance and the identity of the target face.
+deepfake_video_detection_alert	This video has been detected as generated with a 	
+deepfake_video_detection_alert_2	 algorithm	
