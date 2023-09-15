@@ -13,7 +13,7 @@ deepfake_image_link	Image link	Lien image	Link de la imagen	Σύνδεσμος �
 deepfake_video_link	Video link	Lien vidéo	Link del video	Σύνδεσμος βίντεο	رابط الفيديو
 deepfake_title_what	What is Thumbnails				ما هي الصورة المصغرة (الغلاف)
 deepfake_filters_explanation_image	Explanation image	Explication de l'image	Explicación de la imagen		شرح الصورة
-deepfake_filters_explanation_cideo	Explanation video	Explication de la vidéo	Explicación del video			شرح الفيديو
+deepfake_filters_explanation_cideo	Explanation video	Explication de la vidéo	Explicación del video		شرح الفيديو
 deepfake_image_title	Detection results	Résultats de la détection	Resultados de la detección
 deepfake_image_faceswap_name	Faceswap	Changement de visage	Cambio de rostro
 deepfake_image_faceswap_description	This method aims to detect if the person's face has been replaced in the picture.	Cette méthode vise à détecter si le visage de la personne a été remplacé dans l'image.	Este metodo trata de detectar si el rostro de la persona fue cambiado en la imagen.
