@@ -26,7 +26,7 @@ cookies_message	We use your browser local storage for your preferences (language
 navbar_analysis_image	Image Analysis	Analyse d'image	Análisis de Imagen	Ανάλυση εικόνας	تحليل الصور
 navbar_analysis_video	Video Analysis	Analyse Vidéo	Análisis de Vídeo	Βίντεο ανάλυση	تحليل الفيديو
 navbar_twitter_crowdtangle	CSV Analysis	Analyse CSV	Analisis CSV	Ανάλυση CSV	تحليل CSV
-navbar_deepfake_image	Deepfake	Deepfake	Deepfake	Deepfake	تزييف عميق
+navbar_deepfake_image	Synthetic image detector	Détecteur d'images synthétiques	Detector de imágenes sintéticas	ανίχνευση συνθετικής εικόνας	تزييف عميق
 navbar_geolocation	Geolocalizer	Géolocalisation	Geolocalizador	Geolocalizer	تحديد الموقع الجغرافي
  
 navbar_verification	Verification	Vérification	Verificación	Επαλήθευση	تحقُق
