@@ -27,7 +27,7 @@ navbar_analysis_image	Image Analysis	Analyse d'image	Análisis de Imagen	Ανά�
 navbar_analysis_video	Video Analysis	Analyse Vidéo	Análisis de Vídeo	Βίντεο ανάλυση	تحليل الفيديو
 navbar_twitter_crowdtangle	CSV Analysis	Analyse CSV	Analisis CSV	Ανάλυση CSV	تحليل CSV
 navbar_synthetic_image_detection	Synthetic image 	Images synthétiques	Imágenes sintéticas	Συνθετική εικόνα	صورة اصطناعية
-navbar_deepfake_image	Synthetic image 	Images synthétiques	Imágenes sintéticas	Συνθετική εικόνα	صورة اصطناعية
+navbar_deepfake_image	Deepfake	Deepfake	Deepfake	Deepfake	تزييف عميق
 navbar_geolocation	Geolocalizer	Géolocalisation	Geolocalizador	Geolocalizer	تحديد الموقع الجغرافي
 navbar_verification	Verification	Vérification	Verificación	Επαλήθευση	تحقُق
 navbar_verification_short	Verifi...	Vérifi...	Verifi...	Επαλή...	verifi ...
