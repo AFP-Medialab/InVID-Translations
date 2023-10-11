@@ -10,3 +10,5 @@ geo_lat	Latitude	Latitude	Latitud	Γεωγραφικό πλάτος	خط الع�
 geo_lon	Longitude	Longitude	Longitud	Γεωγραφικό μήκος	خط الطول
 geo_map	Map	Carte	Mapa	Χάρτης	الخريطة
 button_remove	Remove	Supprimer	Eliminar	Αφαιρώ	إزالة
+please_give_a_correct_link	Please give a correct link	Donner un lien valide s'il vous plaît	Por favor, dé un enlace válido	Παρακαλώ δώστε έναν σωστό σύνδεσμο	يرجى إعطاء رابط صحيح
+geo_error_400  Error download Erreur de téléchargement  Error al descargar Σφάλμα λήψης حدث خطأ أثناء التنزيل
