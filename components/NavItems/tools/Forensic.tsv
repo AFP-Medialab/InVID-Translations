@@ -17,6 +17,7 @@ forensic_error_empty_parameter	An unknown issue occured. Please check the URL an
 forensic_error_missing_image_report	The image was not submitted. Please check the URL and try again	L'image n'a pas été soumise. Veuillez vérifier l'URL et réessayer	La imagen no fue enviada. Por favor, compruebe la URL e inténtelo de nuevo	Η εικόνα δεν υποβλήθηκε. Παρακαλώ ελέγξτε τη διεύθυνση URL και δοκιμάστε ξανά	لم يتم تقديم الصورة. يرجى التحقق من عنوان URL والمحاولة مرة أخرى
 forensic_error_analysis_not_triggered	The analysis has not been triggered for this image. Please check the URL and try again	L'analyse n'a pas été déclenchée pour cette image. Veuillez vérifier l'URL et réessayer	El análisis no se ha activado para esta imagen. Por favor, compruebe la URL e inténtelo de nuevo	Η ανάλυση δεν έχει ξεκινήσει για αυτή την εικόνα. Παρακαλώ ελέγξτε τη διεύθυνση URL και δοκιμάστε ξανά	لم يتم تشغيل التحليل لهذه الصورة. يرجى التحقق من عنوان URL وحاول مرة أخرى
 forensic_error_404	Service not found	Le service n'existe pas	Servicio no encontrado	Η ΥΠΗΡΕΣΙΑ δεν ΒΡΕΘΗΚΕ	لم يتم العثور على الخدمة
+forensic_error_undefined	Service error	Erreur service	Error de servicio	Σφάλμα σέρβις	خطأ في الخدمة
 forensic_title_adq1_report	Double Quantization	DQ	DQ	Διπλός Κβαντισμός (Double Quantization)	توضيح مضاعف (مزدوج)
 forensic_title_ela_report	Error Level Analysis	ELA	ELA	Ανάλυση Επιπέδου Σφάλματος (Error Level Analysis)	تحليل مستوى الخطأ
 forensic_title_median_report	Median Noise	Median Noise	Ruido mediano	Ενδιάμεσος Θόρυβος (Median Noise)	الضوضاء المتوسطة
