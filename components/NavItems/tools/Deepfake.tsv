@@ -13,7 +13,7 @@ deepfake_image_link	Image link	Lien image	Link de la imagen	Σύνδεσμος �
 deepfake_video_link	Video link	Lien vidéo	Link del video	Σύνδεσμος βίντεο	رابط الفيديو
 deepfake_title_what	What are Thumbnails	Que sont les vignettes	¿Qué son las miniaturas?	Τι είναι οι μικρογραφίες	ما هي الصورة المصغرة (الغلاف)
 deepfake_filters_explanation_image	Explanation image	Explication de l'image	Explicación de la imagen	Επεξήγηση εικόνα	شرح الصورة
-deepfake_filters_explanation_cideo	Explanation video	Explication de la vidéo	Explicación del video	Επεξήγηση βίντεο	شرح الفيديو
+deepfake_filters_explanation_video	Explanation video	Explication de la vidéo	Explicación del video	Επεξήγηση βίντεο	شرح الفيديو
 deepfake_image_title	Detection results	Résultats de la détection	Resultados de la detección	Αποτελέσματα ανίχνευσης	نتائج الكشف
 deepfake_image_faceswap_name	Faceswap	Changement de visage	Cambio de rostro	Αντικατάσταση προσώπων	تبديل الوجه
 deepfake_image_faceswap_description	This method aims to detect if the person's face has been replaced in the picture.	Cette méthode vise à détecter si le visage de la personne a été remplacé dans l'image.	Este metodo trata de detectar si el rostro de la persona fue cambiado en la imagen.	Αυτή η μέθοδος στοχεύει να ανιχνεύσει εάν το πρόσωπο του ατόμου έχει αντικατασταθεί στην εικόνα.	تهدف هذه الطريقة إلى اكتشاف ما إذا كان وجه الشخص قد تم استبداله في الصورة.
