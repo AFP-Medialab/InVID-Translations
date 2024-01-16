@@ -7,7 +7,7 @@ internal	Server Error!	Erreur du serveur!	¡Error del Servidor!	Σφάλμα Δ�
 notfound	Channel Not Found!	Chaîne introuvable!	¡Canal no encontrado!	Κανάλι δεν βρέθηκε!	لم يتم العثور على القناة!	Kanal nicht gefunden!
 unexpected	Unexpected error!	Erreur inattendue!	¡Error inesperado!	Απρόσμενο σφάλμα!	خطأ غير متوقع!	Unerwarteter Fehler!
 improvement	Improvement	Amélioration	Mejora	Βελτίωση	تحسين	Verbesserung
-bug	Bug	Bug	Bug	Σφάλμα	خلل	Insekt
+bug	Bug	Bug	Bug	Σφάλμα	خلل	Bug
 feature	Feature	Fonctionnalité	Característica	Χαρακτηριστικό	ميزة	Besonderheit
 title	Send Feedback	Envoyer un commentaire	Enviar un comentario	Στείλετε τα σχόλιά σας	ارسل انطباعك	Feedback abschicken
 remove	Remove	Retirer	Eliminar	Αφαίρεσε	إزالة	Entfernen
@@ -18,3 +18,5 @@ sending	Sending feedback...	Envoi de commentaires ...	Enviando comentarios ...	�
 sent	Sent!	Envoyé!	Expedido!	Εστάλη!	تم الإرسال	Gesendet!
 submit_text	Send Feedback	Envoyer des commentaires	Enviar comentarios	Στείλετε τα σχόλιά σας	ارسل انطباعك	Feedback abschicken
 button	Feedback	Feedback	Feedback	Σχόλια	التغذية الراجعة	Rückmeldung
+email	Email	E-mail	E-mail	ηλεκτρονικό ταχυδρομείο	البريد الإلكتروني
+email_error	Please enter a valid email address	Veuillez saisir une adresse e-mail valide	Por favor, introduzca una dirección de correo electrónico válida	Παρακαλώ εισάγετε μια έγκυρη διεύθυνση email	الرجاء إدخال عنوان بريد إلكتروني صحيح
