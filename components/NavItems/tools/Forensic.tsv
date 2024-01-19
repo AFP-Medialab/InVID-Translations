@@ -19,6 +19,7 @@ forensic_error_analysis_not_triggered	The analysis has not been triggered for th
 forensic_error_404	Service not found	Le service n'existe pas	Servicio no encontrado	Η ΥΠΗΡΕΣΙΑ δεν ΒΡΕΘΗΚΕ	لم يتم العثور على الخدمة	Service nicht gefunden
 forensic_error_500	Service internal error	Erreur interne du service	Error interno del servicio	Εσωτερικό σφάλμα σέρβις	خطأ داخلي في الخدمة	Interner Servicefehler
 forensic_error_undefined	Service error	Erreur service	Error de servicio	Σφάλμα σέρβις	خطأ في الخدمة	Servicefehler
+forensic_error_bad_request_download_error	Please give a correct link	Donner un lien valide s'il vous plaît	Por favor, dé un enlace válido	Παρακαλώ εισάγετε έναν σωστό σύνδεσμο	يرجى إعطاء رابط صحيح
 forensic_title_adq1_report	Double Quantization	DQ	DQ	Διπλός Κβαντισμός (Double Quantization)	توضيح مضاعف (مزدوج)	Doppelquantisierung
 forensic_title_ela_report	Error Level Analysis	ELA	ELA	Ανάλυση Επιπέδου Σφάλματος (Error Level Analysis)	تحليل مستوى الخطأ	Fehlerpegelanalyse
 forensic_title_median_report	Median Noise	Median Noise	Ruido mediano	Ενδιάμεσος Θόρυβος (Median Noise)	الضوضاء المتوسطة	Mittleres Geräusch
