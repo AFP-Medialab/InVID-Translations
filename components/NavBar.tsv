@@ -29,17 +29,17 @@ navbar_twitter_crowdtangle	CSV Analysis	Analyse CSV	Analisis CSV	Ανάλυση 
 navbar_synthetic_image_detection	Synthetic image	Images synthétiques	Imágenes sintéticas	Συνθετική εικόνα	Immagine sintetica	صورة اصطناعية	Synthetische Medien
 navbar_deepfake_image	Deepfake	Deepfake	Deepfake	Deepfake	Deepfake	تزييف عميق	Deepfake
 navbar_geolocation	Geolocalizer	Géolocalisation	Geolocalizador	Geolocalizer	Geolocalizzazione	تحديد الموقع الجغرافي	Geolocalator
-navbar_verification	Verification	Vérification	Verificación	Επαλήθευση	تحقُق	Überprüfung
+navbar_verification	Verification	Vérification	Verificación	Επαλήθευση	Verifica	تحقُق	Überprüfung
 navbar_verification_short	Verifi...	Vérifi...	Verifi...	Επαλή...	Verifi...	verifi ...	Verifi ...
 navbar_learning	Learning	Apprendre	Aprender	Μάθηση	Apprendimento	التعلم	Lernen
 navbar_learning_short	Learning	Appre...	Aprend...	Μάθηση	Apprend...	التعلم	Lernen
 navbar_more	More	Plus	Más	Περισσότερα	Più	المزيد	Mehr
-navbar_more_short	More	Plus	Más	Περισσ...	المزيد	Mehr
+navbar_more_short	More	Plus	Más	Περισσ...	Di più	المزيد	Mehr
 navbar_deepfake_video	Deepfake	Deepfake	Deepfake	Deepfake	Deepfake	تزييف عميق	Deepfake
 navbar_category_general	General	Général	General	Γενικά	Generale	عام	Allgemein
 navbar_category_video	Video	Vidéo	Video	βίντεο	Video	فيديو	Video
 navbar_category_image	Image	Image	Imagen	Εικόνα	Immagine	صورة	Bild
 navbar_category_search	Search	Recherche	Busqueda	Αναζήτηση	Ricerca	بحث	Suchen
 navbar_category_data	Data analysis	Analyse des données	Análisis de datos	Ανάλυση δεδομένων	Analisi dei dati	تحليل البيانات	Datenanalyse
-navbar_category_other	Other tools	Autres outils	Otras herramientas	Άλλα εργαλεία	Nascondere	أدوات أخرى	Andere Werkzeuge
+navbar_category_other	Other tools	Autres outils	Otras herramientas	Άλλα εργαλεία	Altri strumenti	أدوات أخرى	Andere Werkzeuge
 navbar_collapse	Hide	Masquer	Ocultar	Απόκρυψη	Nascondere	إخفاء	Verstecken
