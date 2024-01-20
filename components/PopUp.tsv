@@ -1,10 +1,10 @@
-	en	fr	es	el	it
-open_website	Open Toolbox	Ouvrir le plugin	Abrir el plugin	Άνοιγμα Σετ Εργαλείων	Aprire la toolbox.
-open_assistant	Open Assistant	Ouvrir l'assistant	Abrir el assistente	Άνοιγμα Βοηθού	Attivare l'assistente
-open_assistant_on_page	Assistant for Current Page	Assistant pour cette page	Assistente para este sitio	Βοηθός για τρέχουσα σελίδα	Assistente per la pagina corrente
-open_classroom	Open Classroom	Ouvrir la salle de classe	Abrir la aula	Άνοιγμα Αίθουσας Διδασκαλίας	Aprire l'aula
-video_urls	Videos Urls	Urls de vidéos	Vídeos urls	Διευθύνσεις Urls των βίντεο	URLS video
-copy	Copy	Copier	Copiar	Αντιγραφή	Copia
-no_video_found	No video found	Pas de vidéo	Ningún vídeo	Δεν βρέθηκε κανένα βίντεο	Nessun video trovato
-images_url	Images	Images	Imágenes	Εικόνες	Immagini
-no_images	No images	Pas d'images	Ningunas imágenes	Χωρίς εικόνες	Nessuna immagine
+	en	fr	es	el	it	ar	de
+open_website	Open Toolbox	Ouvrir le plugin	Abrir el plugin	Άνοιγμα Σετ Εργαλείων	Aprire la toolbox	افتح صندوق الأدوات	Werkzeugkasten öffnen
+open_assistant	Open Assistant	Ouvrir l'assistant	Abrir el assistente	Άνοιγμα Βοηθού	Attivare l'assistente	افتح المساعد	Assistenten öffnen
+open_assistant_on_page	Assistant for Current Page	Assistant pour cette page	Assistente para este sitio	Βοηθός για τρέχουσα σελίδα	Assistente per la pagina corrente	مساعد للصفحة الحالية	Assistent für die aktuelle Seite
+open_classroom	Open Classroom	Ouvrir la salle de classe	Abrir la aula	Άνοιγμα Αίθουσας Διδασκαλίας	Aprire l'aula	فتح الفصل الدراسي	Klassenzimmer öffnen
+video_urls	Videos Urls	Urls de vidéos	Vídeos urls	Διευθύνσεις Urls των βίντεο	URLS video	روابط الفيديوهات	Videos-URLs
+copy	Copy	Copier	Copiar	Αντιγραφή	Copia	نسخ	Kopieren
+no_video_found	No video found	Pas de vidéo	Ningún vídeo	Δεν βρέθηκε κανένα βίντεο	Nessun video trovato	لم يتم العثور على فيديو	Kein Video gefunden
+images_url	Images	Images	Imágenes	Εικόνες	Immagini	الصور	Bilder
+no_images	No images	Pas d'images	Ningunas imágenes	Χωρίς εικόνες	Nessuna immagine	لا توجد صور	Keine Bilder

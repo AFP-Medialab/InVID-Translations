@@ -1,42 +1,45 @@
-	en	fr	es	el	it
-navbar_tools	Tools	Outils	Herramientas	Εργαλεία	Strumenti
-navbar_about	About	A propos	Sobre nosotros	Σχετικά με	Chi siamo
-navbar_tuto	Tutorial	Tutoriel	Guía	Οδηγός	Tutorial
-navbar_twitter_sna	Twitter SNA.	Twitter SNA.	Twitter SNA.	Twitter SNA.	Twitter SNA.
-navbar_classroom	Classroom	Salle de cours	Aula	ΣΧΟΛΙΚΗ ΑΙΘΟΥΣΑ	Aula
-navbar_quiz	Demo	Demo	Demo	Διαδήλωση	Demo
-navbar_analysis	Video analysis	Analyse	Video análisis	Ανάλυση	Analisi video
-navbar_keyframes	Keyframes	Images clés	Fotogramas clave	Χαρακτηριστικά καρέ	Fotogrammi chiave
-navbar_thumbnails	Thumbnails	Imagettes	Miniaturas	Μικρογραφίες	Thumbnails.
-navbar_twitter	Tw. search	Recherche Tw.	Búsqueda Tw.	Αναζήτηση στο Twitter	Tw. ricerca
-navbar_magnifier	Magnifier	Loupe	Lupa	Μεγεθυντικός φακός	Lente d'ingrandimento
-navbar_metadata	Metadata	Metadonnées	Metadatos	Μεταδεδομένα	Metadati
-navbar_rights	Video rights	Droits vidéo	Derechos video	Δικαιώματα βίντεο	Copyright video
-navbar_forensic	Forensic	Forensic	Forensic	Αυθεντικότητας Εικόνων	Forensic
-navbar_factCheck	Fact Check	Factuel	Factual	Έλεγχος γεγονότων	Fact-checking
-navbar_covidsearch	Factcheck search	Recherche de Factchecks	Búsqueda de chequeos	Αναζήτηση Factcheck	Ricerca di factchecks
-navbar_assistant	Assistant	Assistant	Asistente	Βοηθός	Assistente
-navbar_xnetwork	Xnetwork	Xnetwork	Xnetwork	Xnetwork	Xnetwork.
-navbar_ocr	OCR	OCR	OCR	OCR	OCR
-navbar_gif	CheckGif	CheckGif	CheckGif	CheckGif	CheckGif
-cookies_decline	Decline	Refuser	Rechazar	Aπόρριψη	Rifiutare
-cookies_accept	Accept	Accepter	Aceptar	Αποδοχή	Accettare
-cookies_message	We use your browser local storage for your preferences (language, features) to make it work properly. We do not use any cookies : therefore no personal data will be saved and your browsing data will not be tracked. Nevertheless, we need your consent to use Google Analytics for the sole purpose of understanding which tools are being used and how, in order to enhance the verification plugin. If you do not consent, Google Analytics will be disabled as well as your preferences when you close your session.	Cette extension utilise le stockage local de votre navigateur afin d'y stocker vos préférences (langue, outils). Nous n'utilisons pas de cookies : aucune donnée personnelle (y compris vos données de navigation) n'est enregistrée. Nous avons en revanche besoin de votre autorisation pour utiliser Google Analytics, uniquement pour mieux comprendre les usages des outils de vérification afin d'améliorer le plugin. Si vous ne donnez pas votre autorisation, Google Analytics sera désactivé ainsi que vos paramètres si vous relancer une nouvelle session.	El plugin utiliza el almacenamiento local de su navegador para conservar sus preferencias (lengua, herramientas). No usamos cookies, no se guardan datos personales y tampoco datos de su navegación. Usamos en cambio Google Analytics con el único objetivo de entender mejor el uso de las herramientos y usar ese conocimiento para mejorar el plugin. Por lo tanto, necesitamos su autorización. Si no da su consentimiento, Google Analytics será desactivado y tambien sus preferencias si cierra su sessión.	Χρησιμοποιούμε τον τοπικό αποθηκευτικό χώρο του προγράμματος περιήγησης για τις προτιμήσεις σας (γλώσσα, λειτουργίες), ώστε να λειτουργεί σωστά. Δεν χρησιμοποιούμε cookies : επομένως δεν αποθηκεύονται προσωπικά δεδομένα και δεν παρακολουθούνται τα δεδομένα περιήγησής σας. Ωστόσο, χρειαζόμαστε τη συγκατάθεσή σας για να χρησιμοποιήσουμε το Google Analytics με μοναδικό σκοπό να κατανοήσουμε ποια εργαλεία χρησιμοποιούνται και πώς, προκειμένου να βελτιώσουμε το πρόσθετο επαλήθευσης. Εάν δεν συναινέσετε, το Google Analytics θα απενεργοποιηθεί καθώς και οι προτιμήσεις σας όταν κλείσετε τη συνεδρία σας.	Utilizziamo la memoria locale del browser per le tue preferenze (lingua, funzionalità) per farlo funzionare correttamente. Non usiamo alcun cookie: pertanto nessun dato personale verrà salvato e i dati di navigazione non saranno tracciati. Tuttavia, abbiamo bisogno del tuo consenso a utilizzare Google Analytics al solo scopo di comprensione quali strumenti vengono utilizzati e come, al fine di migliorare il plug-in di verifica. Se non acconsenti, Google Analytics sarà disabilitato così come le tue preferenze quando chiudi la sessione.
-navbar_analysis_image	Image Analysis	Analyse d'image	Análisis de Imagen	Ανάλυση εικόνας	Analisi dell'immagine
-navbar_analysis_video	Video Analysis	Analyse Vidéo	Análisis de Vídeo	Βίντεο ανάλυση	Analisi video
-navbar_twitter_crowdtangle	CSV Analysis	Analyse CSV	Analisis CSV	Ανάλυση CSV	Analisi CSV
-navbar_deepfake_image	Deepfake	Deepfake	Deepfake	Deepfake	Deepfake
-navbar_geolocation	Geolocalizer	Géolocalisation	Geolocalizador	Geolocalizer	Geolocalizzazione
-navbar_verification	Verification	Vérification	Verificación	Επαλήθευση	Verificazióne
-navbar_verification_short	Verifi...	Vérifi...	Verifi...	Επαλή...	Verifi...
-navbar_learning	Learning	Apprendre	Aprender	Μάθηση	Apprendimento
-navbar_learning_short	Learning	Appre...	Aprend...	Μάθηση	Apprend...
-navbar_more	More	Plus	Más	Περισσότερα	Più
-navbar_more_short	More	Plus	Más	Περισσ...	Più
-navbar_deepfake_video	Deepfake	Deepfake	Deepfake	Deepfake	Deepfake
-navbar_category_general	General	Général	General	Γενικά	Generale
-navbar_category_video	Video	Vidéo	Video	βίντεο	Video
-navbar_category_image	Image	Image	Imagen	Εικόνα	Immagine
-navbar_category_search	Search	Recherche	Busqueda	Αναζήτηση	Ricerca
-navbar_category_data	Data analysis	Analyse des données	Análisis de datos	Ανάλυση δεδομένων	Analisi dei dati
-navbar_collapse	Hide	Masquer	Ocultar	Απόκρυψη	Nascondere
+	en	fr	es	el	it	ar	de
+navbar_tools	Tools	Outils	Herramientas	Εργαλεία	Strumenti	الأدوات	Werkzeuge
+navbar_about	About	A propos	Sobre nosotros	Σχετικά με	Chi siamo	حول	Um
+navbar_tuto	Tutorial	Tutoriel	Guía	Οδηγός	Tutorial	الدورة التعليمية	Lernprogramm
+navbar_twitter_sna	Twitter SNA.	Twitter SNA.	Twitter SNA.	Twitter SNA.	Twitter SNA.	تحليل الشبكة الاجتماعية - تويتر	Twitter Sna.
+navbar_classroom	Classroom	Salle de cours	Aula	ΣΧΟΛΙΚΗ ΑΙΘΟΥΣΑ	Aula	قاعة الدراسة	Klassenzimmer
+navbar_quiz	Demo	Demo	Demo	Διαδήλωση	Demo	العرض التوضيحي	Demo
+navbar_analysis	Video analysis	Analyse	Video análisis	Ανάλυση	Analisi video	تحليل الفيديو	Videoanalyse
+navbar_keyframes	Keyframes	Images clés	Fotogramas clave	Χαρακτηριστικά καρέ	Fotogrammi chiave	إطارات المفاتيح	Keyframes
+navbar_thumbnails	Thumbnails	Imagettes	Miniaturas	Μικρογραφίες	Thumbnails	الصورة المصغرة	Miniaturansichten
+navbar_twitter	X. search	Recherche X.	Búsqueda X.	Αναζήτηση στο X	X ricerca	بحث عبر تويتر	X. Suche
+navbar_magnifier	Magnifier	Loupe	Lupa	Μεγεθυντικός φακός	Lente d'ingrandimento	المكبر	Lupe
+navbar_metadata	Metadata	Metadonnées	Metadatos	Μεταδεδομένα	Metadati	البيانات الوصفية	Metadaten
+navbar_rights	Video rights	Droits vidéo	Derechos video	Δικαιώματα βίντεο	Copyright video	حقوق الفيديو	Videorechte
+navbar_forensic	Forensic	Forensic	Forensic	Αυθεντικότητας Εικόνων	Forensic	التحقق الرقمي	Forensisch
+navbar_factCheck	Fact Check	Factuel	Factual	Έλεγχος γεγονότων	Fact-checking	تدقيق	Faktencheck
+navbar_covidsearch	Factcheck search	Recherche de Factchecks	Búsqueda de chequeos	Αναζήτηση Factcheck	Ricerca di factchecks	بحث التحقق من المعلومات	FACTCHECK -Suche
+navbar_assistant	Assistant	Assistant	Asistente	Βοηθός	Assistente	المساعد	Assistent
+navbar_xnetwork	Xnetwork	Xnetwork	Xnetwork	Xnetwork	Xnetwork	Xnetwork	Xnetwork
+navbar_ocr	OCR	OCR	OCR	OCR	OCR	التعرف البصري على الحروف	OCR
+navbar_gif	CheckGif	CheckGif	CheckGif	CheckGif	CheckGif	تحقق من Gif	Checkgif
+navbar_archiving	Archiving	Archivage	Archivar	Αρχειοθέτηση	Archiviazione	الأرشفة	Archivierung
+cookies_decline	Decline	Refuser	Rechazar	Aπόρριψη	Rifiutare	رفض	Abfall
+cookies_accept	Accept	Accepter	Aceptar	Αποδοχή	Accettare	قبول	Akzeptieren
+cookies_message	We use your browser local storage for your preferences (language, features) to make it work properly. We do not use any cookies : therefore no personal data will be saved and your browsing data will not be tracked. Nevertheless, we need your consent to use Matomo for the sole purpose of understanding which tools are being used and how, in order to enhance the verification plugin. If you do not consent, Matomo will be disabled as well as your preferences when you close your session.	Cette extension utilise le stockage local de votre navigateur afin d'y stocker vos préférences (langue, outils). Nous n'utilisons pas de cookies : aucune donnée personnelle (y compris vos données de navigation) n'est enregistrée. Nous avons en revanche besoin de votre autorisation pour utiliser Matomo, uniquement pour mieux comprendre les usages des outils de vérification afin d'améliorer le plugin. Si vous ne donnez pas votre autorisation, Matomo sera désactivé ainsi que vos paramètres si vous relancer une nouvelle session.	El plugin utiliza el almacenamiento local de su navegador para conservar sus preferencias (lengua, herramientas). No usamos cookies, no se guardan datos personales y tampoco datos de su navegación. Usamos en cambio Matomo con el único objetivo de entender mejor el uso de las herramientos y usar ese conocimiento para mejorar el plugin. Por lo tanto, necesitamos su autorización. Si no da su consentimiento, Matomo será desactivado y tambien sus preferencias si cierra su sessión.	Χρησιμοποιούμε τον τοπικό αποθηκευτικό χώρο του προγράμματος περιήγησης για τις προτιμήσεις σας (γλώσσα, λειτουργίες), ώστε να λειτουργεί σωστά. Δεν χρησιμοποιούμε cookies : επομένως δεν αποθηκεύονται προσωπικά δεδομένα και δεν παρακολουθούνται τα δεδομένα περιήγησής σας. Ωστόσο, χρειαζόμαστε τη συγκατάθεσή σας για να χρησιμοποιήσουμε το Matomo με μοναδικό σκοπό να κατανοήσουμε ποια εργαλεία χρησιμοποιούνται και πώς, προκειμένου να βελτιώσουμε το πρόσθετο επαλήθευσης. Εάν δεν συναινέσετε, το Matomo θα απενεργοποιηθεί καθώς και οι προτιμήσεις σας όταν κλείσετε τη συνεδρία σας.	Utilizziamo la memoria locale del browser per le tue preferenze (lingua, funzionalità) per farlo funzionare correttamente. Non usiamo alcun cookie: pertanto nessun dato personale verrà salvato e i dati di navigazione non saranno tracciati. Tuttavia, abbiamo bisogno del tuo consenso a utilizzare Google Analytics al solo scopo di comprensione quali strumenti vengono utilizzati e come, al fine di migliorare il plug-in di verifica. Se non acconsenti, Google Analytics sarà disabilitato così come le tue preferenze quando chiudi la sessione.	نحن نستخدم التخزين المحلي للمتصفح لتفضيلاتك (اللغة والميزات) لجعله يعمل بشكل صحيح. لا نستخدم أي ملفات تعريف الارتباط: وبالتالي لن يتم حفظ أي بيانات شخصية ولن يتم تتبع بيانات التصفح الخاصة بك. ومع ذلك، نحتاج إلى موافقتك على استخدام Matomo للغرض الوحيد المتمثل في فهم الأدوات التي يتم استخدامها، من أجل تحسين المكون الإضافي للتحقق. إذا لم توافق، فسيتم تعطيل Matomo وكذلك تفضيلاتك عند إغلاق جلستك.	Wir verwenden Ihren Browser -lokalen Speicher für Ihre Einstellungen (Sprache, Funktionen), damit sie ordnungsgemäß funktioniert. Wir verwenden keine Cookies: Daher werden keine personenbezogenen Daten gespeichert und Ihre Browserdaten werden nicht verfolgt. Dennoch brauchen wir Ihre Zustimmung, um Matomo zu verwenden, um zu verstehen, welche Tools verwendet werden und wie, um das Verifizierungs -Plugin zu verbessern. Wenn Sie nicht zustimmen, ist Matomo sowohl deaktiviert als auch Ihre Einstellungen, wenn Sie Ihre Sitzung schließen.
+navbar_analysis_image	Image Analysis	Analyse d'image	Análisis de Imagen	Ανάλυση εικόνας	Analisi dell'immagine	تحليل الصور	Bildanalyse
+navbar_analysis_video	Video Analysis	Analyse Vidéo	Análisis de Vídeo	Βίντεο ανάλυση	Analisi video	تحليل الفيديو	Videoanalyse
+navbar_twitter_crowdtangle	CSV Analysis	Analyse CSV	Analisis CSV	Ανάλυση CSV	Analisi CSV	تحليل CSV	CSV -Analyse
+navbar_synthetic_image_detection	Synthetic image	Images synthétiques	Imágenes sintéticas	Συνθετική εικόνα	Immagine sintetica	صورة اصطناعية	Synthetische Medien
+navbar_deepfake_image	Deepfake	Deepfake	Deepfake	Deepfake	Deepfake	تزييف عميق	Deepfake
+navbar_geolocation	Geolocalizer	Géolocalisation	Geolocalizador	Geolocalizer	Geolocalizzazione	تحديد الموقع الجغرافي	Geolocalator
+navbar_verification	Verification	Vérification	Verificación	Επαλήθευση	تحقُق	Überprüfung
+navbar_verification_short	Verifi...	Vérifi...	Verifi...	Επαλή...	Verifi...	verifi ...	Verifi ...
+navbar_learning	Learning	Apprendre	Aprender	Μάθηση	Apprendimento	التعلم	Lernen
+navbar_learning_short	Learning	Appre...	Aprend...	Μάθηση	Apprend...	التعلم	Lernen
+navbar_more	More	Plus	Más	Περισσότερα	Più	المزيد	Mehr
+navbar_more_short	More	Plus	Más	Περισσ...	المزيد	Mehr
+navbar_deepfake_video	Deepfake	Deepfake	Deepfake	Deepfake	Deepfake	تزييف عميق	Deepfake
+navbar_category_general	General	Général	General	Γενικά	Generale	عام	Allgemein
+navbar_category_video	Video	Vidéo	Video	βίντεο	Video	فيديو	Video
+navbar_category_image	Image	Image	Imagen	Εικόνα	Immagine	صورة	Bild
+navbar_category_search	Search	Recherche	Busqueda	Αναζήτηση	Ricerca	بحث	Suchen
+navbar_category_data	Data analysis	Analyse des données	Análisis de datos	Ανάλυση δεδομένων	Analisi dei dati	تحليل البيانات	Datenanalyse
+navbar_category_other	Other tools	Autres outils	Otras herramientas	Άλλα εργαλεία	Nascondere	أدوات أخرى	Andere Werkzeuge
+navbar_collapse	Hide	Masquer	Ocultar	Απόκρυψη	Nascondere	إخفاء	Verstecken

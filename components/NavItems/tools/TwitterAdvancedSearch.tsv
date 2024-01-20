@@ -1,15 +1,16 @@
-	en	fr	es	el	it
-twitter_title	Twitter advanced search	Recherche avancée Twitter	Búsqueda avanzada Twitter	Σύνθετη αναζήτηση στο Twitter	Twitter Ricerca avanzata
-twitter_termbox	Keyword or #	Mot clé ou #	Palabra clave o #	Λέξη κλειδί ή #	Parola chiave o #
-twitter_tw-account	From (Twitter account name)	De (Nom de compte Twitter)	De (Nombre de una cuenta de Twitter)	Από (Όνομα λογαριασμού Twitter)	Da (nome account Twitter)
-twitter_filter	Filter (e.g. safe, media, retweets, native_video, periscope, vine, images, twimg or links)	Filtre (ex. safe, media, retweets, native_video, periscope, vine, images, twimg or links)	Filtro (ej. safe, media, retweets, native_video, periscope, vine, images, twimg or links)	Φίλτρο (π.χ. safe, media, retweets, native_video, periscope, vine, images, twimg or links)	Filtro (ad esempio safe, media, retweet, nativo_video, periscopio, vine, immages, twimg or links)
-twitter_lang	Language (e.g. en, fr, de, es, ru, ja, zh...)	Langue (ex: en, fr, de, es ru, ja, zh...)	Idioma (ej: en, fr, de, es ru, ja, zh...)	Γλώσσα (π.χ. en, fr, de, es, ru, ja, zh, gr ...)	Linguaggio (ad es. en, fr, de, es, ru, ja, zh ...)
-twitter_geocode	Geocode (e.g. -22.912214,-43.230182,1km or -22.912214,-43.230182,1mi)	Geocode (ex: -22.912214,-43.230182,1km ou -22.912214,-43.230182,1mi)	Geocodigo (ej: -22.912214,-43.230182,1km ou -22.912214,-43.230182,1mi)	Συντεταγμένες ( π.χ. -22.912214,-43.230182,1χλμ. ή -22.912214,-43.230182,1μίλια)	Geocodice (ad esempio -22.912214, -43.23012214, -43.230182,1km o -22.912214, -43.230182,1mi)
-twitter_near	Near (city name)	Proche de : (nom de ville)	Cerca de (nombre de ciudad)	Κοντά (όνομα πόλης)	Vicino a (nome della città)
-twitter_within	Within (e.g. 15mi or 15km)	Dans (ex: 15mi ou 15km)	Dentro de (ej: 15mi o 15 km)	Εντός (π.χ. 15μίλια ή 15χλμ)	All'interno (ad es. 15mi o 15 km)
-twitter_from_date	Since	Depuis	Desde	Από	Da
-twitter_to_date	Until	Jusqu'à	Hasta	Εως	Fino a
-twitter_local_time	Local time	Heure locale	Hora local	Τοπική ώρα	Ora locale
-twitter_gmt	GMT	GMT	GMT	GMT	GMT
-button_submit	Submit	Envoyer	Enviar	Υποβολή	Invia
-cardheader_parameters	Search parameters	Paramètres de recherche	Parámetros de búsqueda	Παράμετροι αναζήτησης	Cerca parametri
+	en	fr	es	el	it	ar	de
+twitter_title	X (ex-Twitter) advanced search	Recherche avancée X (ex-Twitter)	Búsqueda avanzada X (ex-Twitter)	Σύνθετη αναζήτηση στο X (ex-Twitter	Twitter Ricerca avanzata)	البحث المتقدم على تويتر	X (Ex-Twitter) Erweiterte Suche
+twitter_termbox	Keyword or #	Mot clé ou #	Palabra clave o #	Λέξη κλειδί ή #	Parola chiave o #	الكلمة الرئيسية أو #	Schlüsselwort oder #
+twitter_tw-account	From (X account name)	De (Nom de compte X)	De (Nombre de una cuenta de X)	Από (Όνομα λογαριασμού X)	من (اسم حساب تويتر)	Von (x -Kontoname)	Da (nome account Twitter)
+twitter_filter	Filter (e.g. safe, media, retweets, native_video, periscope, vine, images, twimg or links)	Filtre (ex. safe, media, retweets, native_video, periscope, vine, images, twimg or links)	Filtro (ej. safe, media, retweets, native_video, periscope, vine, images, twimg or links)	Φίλτρο (π.χ. safe, media, retweets, native_video, periscope, vine, images, twimg or links)	Filtro (ad esempio safe, media, retweet, nativo_video, periscopio, vine, immages, twimg or links)	الفلتر (على سبيل المثال، آمن، وسائط، إعادة تغريد، الفيديو الأصلي، مكبر، vine، صور، twimg أو روابط)	Filter (z. B. sicher, Medien, Retweets, native_video, Periscope, Rebe, Bilder, Twimg oder Links)
+twitter_lang	Language (e.g. en, fr, de, es, ru, ja, zh...)	Langue (ex: en, fr, de, es ru, ja, zh...)	Idioma (ej: en, fr, de, es ru, ja, zh...)	Γλώσσα (π.χ. en, fr, de, es, ru, ja, zh, gr ...)	Linguaggio (ad es. en, fr, de, es, ru, ja, zh ...)	اللغة (على سبيل المثال en ، fr ، de ، es ، ru ، ja ، zh ...)	Sprache (z. B. en, fr, de, es, ru, ja, zh ...)
+twitter_geocode	Geocode (e.g. -22.912214,-43.230182,1km or -22.912214,-43.230182,1mi)	Geocode (ex: -22.912214,-43.230182,1km ou -22.912214,-43.230182,1mi)	Geocodigo (ej: -22.912214,-43.230182,1km ou -22.912214,-43.230182,1mi)	Συντεταγμένες ( π.χ. -22.912214,-43.230182,1χλμ. ή -22.912214,-43.230182,1μίλια)	Geocodice (ad esempio -22.912214, -43.23012214, -43.230182,1km o -22.912214, -43.230182,1mi)	Geocode (e.g. -22.912214,-43.230182,1km or -22.912214,-43.230182,1mi)	Geocode z.
+twitter_near	Near (city name)	Proche de : (nom de ville)	Cerca de (nombre de ciudad)	Κοντά (όνομα πόλης)	Vicino a (nome della città)	بالقرب من : (اسم المدينة)	In der Nähe (Stadtname)
+twitter_within	Within (e.g. 15mi or 15km)	Dans (ex: 15mi ou 15km)	Dentro de (ej: 15mi o 15 km)	Εντός (π.χ. 15μίλια ή 15χλμ)	All'interno (ad es. 15mi o 15 km)	داخل (على سبيل المثال 15 ميل أو 15 كم)	Innerhalb (z. B. 15mi oder 15 km)
+twitter_from_date	Since	Depuis	Desde	Από	Da	منذ	Seit
+twitter_to_date	Until	Jusqu'à	Hasta	Εως	Fino a	حتى	Bis
+twitter_local_time	Local time	Heure locale	Hora local	Τοπική ώρα	Ora locale	التوقيت المحلي	Ortszeit
+twitter_gmt	GMT	GMT	GMT	GMT	GMT	GMT	mittlere Greenwich-Zeit
+button_submit	Submit	Envoyer	Enviar	Υποβολή	Invia	إرسال	Einreichen
+cardheader_parameters	Search parameters	Paramètres de recherche	Parámetros de búsqueda	Παράμετροι αναζήτησης	Cerca parametri	معايير البحث	Suchparameter
+warning_x_search	You need to be connected to X to use this feature	Vous devez être connecté à X pour utiliser cette fonctionnalité	Necesitas estar conectado a X para usar esta función	Πρέπει να είστε συνδεδεμένοι στο X για να χρησιμοποιήσετε αυτήν τη δυνατότητα	يجب أن تكون متصلاً بـ X لاستخدام هذه الميزة	Sie müssen mit X verbunden sein, um diese Funktion zu verwenden

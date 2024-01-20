@@ -1,11 +1,16 @@
-	en	fr	es	el	it
-geo_link	Link of the image	Lien de l'image	Link de la imagen	Ανάλυση Αυθεντικότητας Εικόνων (image forensics)	Collegamento dell'immagine
-geo_paste	Paste the link here	Collez le lien ici	Pegue el link aquí	Επικολλήστε τον σύνδεσμο εδώ	Incolla il link qui
-geo_submit	Submit	Envoyer	Enviar	Υποβολή	Invia
-geo_maps	Open in Google Maps	Ouvrir dans Google Maps	Abrir en Google Maps	Ανοίξτε στο Google Maps	Aprire in Google Maps
-geo_prediction	Location prediction of the image	Prédiction de l'emplacement de l'image	Predicción de la ubicación de la imagen	Πρόβλεψη θέσης της εικόνας	Previsione della posizione dell'immagine
-geo_source	Source of the image	Source de l'image	Origen de la imagen	Πηγή της εικόνας	Fonte di immagine
-geo_location	Location	Localisation	Ubicación	Τοποθεσία	Posizione
-geo_lat	Latitude	Latitude	Latitud	Γεωγραφικό πλάτος	Latitudine
-geo_lon	Longitude	Longitude	Longitud	Γεωγραφικό μήκος	Longitudine
-geo_map	Map	Carte	Mapa	Χάρτης	Carta geografica
+	en	fr	es	el	it	ar	de
+geo_link	Link of the image	Lien de l'image	Link de la imagen	Ανάλυση Αυθεντικότητας Εικόνων (image forensics)	Collegamento dell'immagine	رابط الصورة	Link des Bildes
+geo_paste	Paste the link here	Collez le lien ici	Pegue el link aquí	Επικολλήστε τον σύνδεσμο εδώ	Incolla il link qui	الصق الرابط هنا	Fügen Sie den Link hier ein
+geo_submit	Submit	Envoyer	Enviar	Υποβολή	Invia	إرسال	Einreichen
+geo_maps	Open in Google Maps	Ouvrir dans Google Maps	Abrir en Google Maps	Ανοίξτε στο Google Maps	Aprire in Google Maps	افتح في خرائط جوجل	In Google Maps geöffnet
+geo_prediction	Location prediction of the image	Prédiction de l'emplacement de l'image	Predicción de la ubicación de la imagen	Πρόβλεψη θέσης της εικόνας	Previsione della posizione dell'immagine	التنبؤ بموقع الصورة	Standortvorhersage des Bildes
+geo_source	Source of the image	Source de l'image	Origen de la imagen	Πηγή της εικόνας	Fonte di immagine	مصدر الصورة	Bildquelle
+geo_location	Location	Localisation	Ubicación	Τοποθεσία	Posizione	موقع	Standort
+geo_lat	Latitude	Latitude	Latitud	Γεωγραφικό πλάτος	Latitudine	خط العرض	Breite
+geo_lon	Longitude	Longitude	Longitud	Γεωγραφικό μήκος	Longitudine	خط الطول	Längengrad
+geo_map	Map	Carte	Mapa	Χάρτης	Carta geografica	الخريطة	Karte
+button_remove	Remove	Supprimer	Eliminar	Αφαιρώ	Rimuovere	إزالة	Entfernen
+please_give_a_correct_link	Please give a correct link	Donner un lien valide s'il vous plaît	Por favor, dé un enlace válido	Παρακαλώ δώστε έναν σωστό σύνδεσμο	Si prega di fornire un collegamento corretto	يرجى إعطاء رابط صحيح	Bitte geben Sie einen korrekten Link an
+geo_error_undefined	Please give a correct link	Donner un lien valide s'il vous plaît	Por favor, dé un enlace válido	Παρακαλώ δώστε έναν σωστό σύνδεσμο	Si prega di fornire un collegamento corretto	يرجى إعطاء رابط صحيح	Bitte geben Sie einen korrekten Link an
+geo_error_400	Error download	Erreur de téléchargement	Error al descargar	Σφάλμα λήψης	Errore durante il download	حدث خطأ أثناء التنزيل	Fehler herunterladen
+geo_error_500	Service internal error	Erreur interne du service	Error interno del servicio	Εσωτερικό σφάλμα σέρβις	Errore interno del servizio	خطأ داخلي في الخدمة	Interner Fehler für interne Fehler

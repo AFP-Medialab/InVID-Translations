@@ -1,95 +1,101 @@
-	en	fr	es	el	it
-api_title	Video contextual verification	Vérification du contexte de la vidéo	Verificación del contexto del video	Επαλήθευση βίντεο μέσω ανάλυσης δεικτών εγκυρότητας	VIDEO Verifica contestuale
-api_input	Youtube, Facebook or Twitter link	Adresse YouTube, Facebook ou Twitter	Enlace de YouTube, Facebook o Twitter	Σύνδεσμος Youtube, Facebook ή Twitter	Link YouTube, Facebook o Twitter
-api_input_placeholder	Paste here the link	Coller ici le lien	Pegar aquí el enlace	Επικολλήστε εδώ το σύνδεσμο	Incolla qui il link
-api_repro	Reprocess	Retraiter	Volver a procesar	Επανεπεξεργασία	Riprocessare
-api_comments	All comments	Tous les commentaires	Todos los comentarios	Όλα τα σχόλια	Tutti i commenti
-button_submit	Submit	Envoyer	Enviar	Υποβολή	Invia
-facebook_video_name_1	Video id	Identifiant de la vidéo	Identificación del video	Βίντεο id	ID video
-image_id	Image id	Identifiant de l'image	Identificación de imagen	Αναγνωριστικό εικόνας	ID Immagine
-facebook_video_name_2	Video title	Titre de la vidéo	Títular del video	Τίτλος Βίντεο	Titolo del video
-facebook_video_name_3	Duration	Durée	Duración	Διάρκεια	Durata
-facebook_video_name_4	Content category	Catégorie du contenu	Categoría del contenido	Κατηγορία περιεχομένου	Categoria di contenuti
-facebook_video_name_5	Content tags	Tag du contenu	Tag del contenido	Ετικέτες περιεχομένου	Tag di contenuto
-facebook_video_name_6	Video description	Description de la vidéo	Descripción del video	Περιγραφή Βίντεο	Descrizione video
-facebook_video_name_7	Like count	Nombre de ''j'aime''	Número de ''me gusta''	Αριθμός likes	Numero di likes
-facebook_video_name_8	Updated time	Date de mise en ligne	Fecha de puesta en línea	Ώρα ενημέρωσης	Data di pubblicazione
-facebook_video_name_9	Created time	Date de création	Fecha de creación	Ώρα δημιουγίας	Data di creazione
-facebook_comment_title	Comments	Commentaires	Comentarios	Σχόλια	Commenti
-facebook_comment_name_1	Video comment count	Nombre de commentaires	Comentarios sobre el video	Αριθμός σχολίων βίντεο	Conteggio del commento video.
-image_comment_count	Image comment count	Nombre de commentaires d'image	Recuento de comentarios de imagen	Αριθμός σχολίων εικόνας	Conteggio del commento immagine
-facebook_comment_name_2	Number verification comments	Nombre de commentaires vérifiés	Número de comentarios verificados	Αριθμός σχολίων επαλήθευσης	Numero di commenti verificati
-twitter_user_name_13	Created	Date de création	Fecha de creación	Δημιουργήθηκε	Data di creazione
-twitter_user_name_4	Profile	Profil	Perfil	Προφίλ	Profilo
-button_reverse_google	Google Image reverse search	Recherche inversée Google image	Búsqueda inversa de imagen Google	Αντίστροφη αναζήτηση εικόνας Google	Ricerca inversa Google Image
-button_reverse_yandex	Yandex Image reverse search	Recherche inversée Yandex image	Búsqueda inversa de imagen Yandex	Αντίστροφη αναζήτηση εικόνας Yandex	Ricerca inversa Yandex
-button_reverse_tineye	Tineye Image reverse search	Recherche inversée Tineye	Búsqueda inversa de imagen Tineye	Αντίστροφη αναζήτηση εικόνας Tineye	Ricerca inversa Tineye
-button_reverse_twitter	Twitter video search	Recherche sur Twitter	Búsqueda en Twitter	Αναζήτηση βίντεο Twitter	Ricerca video Twitter.
-youtube_video_name1_2	Video description	Description de la vidéo	Descripción del video	Περιγραφή Βίντεο	Descrizione video
-twitter_video_name_3	Origin	Origine	Origen	Προέλευση	Origine
-twitter_video_name_4	Likes count	Nombre de ''j'aime''	Número de ''me gusta''	Αριθμός likes	Numero di likes
-twitter_video_name_5	Retweets count	Nombre de retweets	Número de retweets	Αριθμός retweets	Numero di retweets
-twitter_video_name_6	Hashtags	Hashtags	Hashtags	Hashtags	Hashtags.
-twitter_video_name_7	Urls included	Urls incluses	Urls incluidas	URLs που περιλαμβάνονται	URL inclusi
-twitter_video_name_8	Mentionned by	Mentionné par	Mencionado por	Αναφέρθηκε από	Menzionato da
-twitter_video_name_9	Language	Langue	Lengua	Γλώσσα	Lingua
-twitter_video_name_10	Thumbnail	Imagette	Miniaturas	Μικρογραφία	Miniatura
-twitter_video_name_11	Size	Taille	Talla	Μέγεθος	Taglia
-twitter_video_name_12	Duration	Durée	Duración	Διάρκεια	Durata
-twitter_video_name_13	Locations mentioned	Lieux mentionnés	Lugares mencionados	Τοποθεσίες που αναφέρονται	Luoghi menzionati
-twitter_video_name_14	Embedded YouTube	Incorporé de YouTube	Integrable desde YouTube	Ενσωματωμένo YouTube βίντεο	Embedded YouTube
-twitter_video_name_15	Created	Date de création	Fecha de creación	Δημιουργήθηκε	Data di creazione
-twitter_video_name_16	Video	Vidéo	Video	Βίντεο	video
-twitter_user_title	Public User	Utilisateur public	Usuario público	Δημόσιος χρήστης	Utente pubblico
-twitter_user_name_2	Screen name	Pseudonyme	Nombre de usuario	Ονομα οθόνης	Nome schermo
-twitter_user_name_3	Location	Localisation	Lugar	Τοποθεσία	Posizione
-twitter_user_name_4	Profile	Profil	Perfil	Προφίλ	Profilo
-twitter_user_name_5	Description	Description	Descripción	Περιγραφή	Descrizione
-twitter_user_name_6	Protected user	Utilisateur protégé	Usuario protegido	Προστατευμένος χρήστης	Utente protetto
-twitter_user_name_7	Verified user	Utilisateur vérifié	Usuario verificado	Επαληθευμένος χρήστης	Utente verificato
-twitter_user_name_8	Followers	Nombre d'abonnés	Seguidores	Ακόλουθοι	Seguaci
-twitter_user_name_9	Following	Nombre d'abonnements	Seguidos	Σε ακολούθηση	A seguire
-twitter_user_name_10	Lists	Listes	Listas	Λίστες	Elenchi
-twitter_user_name_11	Tweets liked	Tweets ''aimés''	Tweets ''likeados''	Αριθμός Tweets που άρεσαν	Tweets liked
-twitter_user_name_12	Tweets count	Nombre de tweets	Número de tweets	Αριθμός Tweets	Numero di Tweets
-twitter_user_name_13	Created	Date de création	Fecha de creación	Δημιουργήθηκε	Data di creazione
-youtube_comment_title	Video comments:	Commentaires sur la vidéo:	Comentarios sobre el video:	Σχόλια βίντεο:	Commenti video:
-youtube_comment_name_2	Verification comments number	Nbre de com. pour vérification	Número de comentarios para verificación	Αριθμός σχολίων επαλήθευσης	Numero di commenti da verifica
-navbar_thumbnails	Thumbnails	Imagettes	Miniaturas	Μικρογραφίες	Thumbnails.
-youtube_video_name2_1	Video view count	Nombre de vues	Número de vistas	Αριθμός προβολών βίντεο	Conteggio visualizzazioni
-youtube_video_name2_2	Like count	Nombre de ''j'aime''	Número de ''me gusta''	Αριθμός likes	Conteggio dei likes
-youtube_video_name2_3	Dislike count	Nombre de ''je n'aime pas''	Número de ''no me gusta''	Αριθμός dislikes	Conteggio dei dislikes
-youtube_video_name2_4	Duration	Durée	Duración	Διάρκεια	Durata
-youtube_video_name2_5	Licensed content	Contenu sous license	Contenido bajo licencia	Περιεχόμενο υπό άδεια χρήσης	Contenuto con licenza
-youtube_video_name2_6	Upload time	Date de mise en ligne	Fecha de puesta en línea	Ώρα μεταφόρτωσης	Tempo di upload
-youtube_channel_name_2	Channel created time	Date de la création de la chaîne	Fecha de la creación de la cadena	Ώρα δημιουργίας καναλιού	Data di creazione del canale
-youtube_channel_name_3	Channel view count	Nombre de vues de la chaine	Número de vistas de la cadena	Αριθμός προβολών καναλιού	Conteggio viste del canale
-youtube_channel_name_4	Channel page	Page de la chaîne	Página de la cadena	Σελίδα καναλιού	Pagina del canale
-youtube_channel_name_5	Number of subscribers	Nombre d'abonnés	Numero de suscriptores	Αριθμός συνδρομητών	Numero di abbonati
-youtube_channel_title	Channel:	Chaîne:	Cadena:	Κανάλι:	Canale:
-youtube_comment_name_1	Video comment count	Nombre de commentaires	Número de comentarios	Αριθμός σχολίων βίντεο	Conteggio dei commenti
-convert_to_local_time	Convert to local time	Convertir à l'heure locale	Pasar a la hora local	Μετατροπή σε τοπική ώρα	Converti in ora locale
-table_error_unavailable	This url is not valid	Cette URL n'est pas valide	Esta url no es válida	Αυτή η διεύθυνση URL δεν είναι έγκυρη	Questo URL non è valido
-page_number	out of	de	sobre	Εκτός	fuori da
-api_title_image	Image contextual verification	Vérification du contexte de la image	Verificación del contexto del imagen	Επαλήθευση με βάση τα συμφραζόμενα της εικόνας	Verifica contestuale dell'imagine
-link_comments	Comments that contain links	Commentaires contenant des liens	Comentarios que contienen enlaces	Σχόλια που περιέχουν συνδέσμους	Commenti che contengono links
-api_comments_verified	Verification comments	Commentaires de vérification	Comentarios de verificación	Σχόλια επαλήθευσης	Commenti verifica
-intro_tip	Tip	Conseils	Consejo	συμβουλή	Consiglio
-platform	Platform	Plate-forme	Plataforma	Πλατφόρμα	Piattaforma
-source	Source	Source	Fuente	Πηγή	Fonte
-image_link	Image link	Lien de l'image	Enlace de imágen	Σύνδεσμος εικόνας	Link dell'immagine
-twitter_search	Search on Twitter	Rechercher sur Twitter	Buscar en Twitter	Αναζήτηση στο Twitter	Cerca su Twitter.
-comments_links	Number of comments that contain links	Nombre de commentaires contenant des liens	Número de comentarios que contienen enlaces	Αριθμός σχολίων που περιέχουν συνδέσμους	Numero di commenti che contengono links
-facebook_tip	This kind of Facebook link or shortener is not working properly. Try to click on the video and to get the url address instead.	Ce genre de lien ou raccourci de Facebook ne fonctionne pas correctement. Cliquez sur la vidéo et récupérer le lien de la barre d'adresse URL.	Este tipo de enlace o de acortador de Facebook no funciona correctamente. Intenté cliquear sobre el video y de recuperar el enlace en la barra de URL.	ΜΑυτό το είδος του συνδέσμου Facebook ή του shortener δεν λειτουργεί σωστά. Προσπαθήστε να κάνετε κλικ στο βίντεο και να λάβετε τη διεύθυνση url.	Questo tipo di link o shortener di Facebook non funziona correttamente. Prova a fare clic sul video e per ottenere invece l'indirizzo dell'URL.
-api_input_image	Facebook or Twitter link	Adresse Facebook ou Twitter	Enlace de Facebook o Twitter	Σύνδεσμος Facebook ή Twitter	Link Facebook o Twitter
-image_description	Image description	Description de l'image	Descripción de la imagen	περιγραφή εικόνας	Descrizione dell'immagine
-twitter_reply	All replies	Toutes les réponses	Todas las respuestas	Όλες οι απαντήσεις	Tutte le risposte
-twitter_reply_verified	Verification replies	Réponses de vérification	Respuestas de verificación	Απαντήσεις επαλήθευσης	Risposte di verifica
-twitter_reply_link	Replies that contain links	Réponses contenant des liens	Respuestas que contienen enlaces	Απαντήσεις που περιέχουν συνδέσμους	Risposte che contengono collegamenti
-twitter_replies	Replies	Réponses	Respuestas	Απαντήσεις	Risposte
-twitter_video_replies	Video replies	Réponses vidéo	Respuestas en video	Απαντήσεις βίντεο	Risposte video
-video_card_header	Source of the video	Source de la vidéo	Fuente del video	Πηγή του βίντεο	Fonte del video
-image_card_header	Source of the image	Origine de l'image	Fuente de la imagen	Πηγή της εικόνας	Fonte dell'immagine
-user	User	Utilisateur	Usuario	Χρήστης	Utente
-profile_creator	Profile	Profil	Perfil	Προφίλ	Profilo
-cardheader_results	Results	Résultats	Resultados	Αποτελέσματα	Risultati
+	en	fr	es	el	it	ar	de
+api_title	Video contextual verification	Vérification du contexte de la vidéo	Verificación del contexto del video	Επαλήθευση βίντεο μέσω ανάλυσης δεικτών εγκυρότητας	VIDEO Verifica contestuale	التحقق من سياق الفيديو	Videokontextüberprüfung
+api_input	Youtube or Facebook link	Adresse YouTube ou Facebook	Enlace de YouTube o Facebook	Σύνδεσμος Youtube ή Facebook	Link YouTube, Facebook o Twitter	رابط يوتيوب أو فيسبوك	YouTube- oder Facebook -Link
+api_input_placeholder	Paste here the link	Coller ici le lien	Pegar aquí el enlace	Επικολλήστε εδώ το σύνδεσμο	Incolla qui il link	الصق الرابط هنا	Fügen Sie hier den Link ein
+api_repro	Reprocess	Retraiter	Volver a procesar	Επανεπεξεργασία	Riprocessare	إعادة المعالجة	Wiederaufbereitung
+api_comments	All comments	Tous les commentaires	Todos los comentarios	Όλα τα σχόλια	Tutti i commenti	كل التعليقات	Alle Kommentare
+button_submit	Submit	Envoyer	Enviar	Υποβολή	Invia	إرسال	Einreichen
+facebook_video_name_1	Video id	Identifiant de la vidéo	Identificación del video	Βίντεο id	ID video	معرف الفيديو	Video -ID
+image_id	Image id	Identifiant de l'image	Identificación de imagen	Αναγνωριστικό εικόνας	ID Immagine	معرف الصورة	Bild -ID
+facebook_video_name_2	Video title	Titre de la vidéo	Títular del video	Τίτλος Βίντεο	Titolo del video	عنوان مقطع الفيديو	Videotitel
+facebook_video_name_3	Duration	Durée	Duración	Διάρκεια	Durata	المدة	Dauer
+facebook_video_name_4	Content category	Catégorie du contenu	Categoría del contenido	Κατηγορία περιεχομένου	Categoria di contenuti	فئة المحتوى	Inhaltskategorie
+facebook_video_name_5	Content tags	Tag du contenu	Tag del contenido	Ετικέτες περιεχομένου	Tag di contenuto	علامات المحتوى	Content -Tags
+facebook_video_name_6	Video description	Description de la vidéo	Descripción del video	Περιγραφή Βίντεο	Descrizione video	Descrizione video	وصف الفيديو	Videobeschreibung
+facebook_video_name_7	Like count	Nombre de ''j'aime''	Número de ''me gusta''	Αριθμός likes	Numero di likes	عدد الإعجاب	Wie Graf
+facebook_video_name_8	Updated time	Date de mise en ligne	Fecha de puesta en línea	Ώρα ενημέρωσης	Data di pubblicazione	الوقت المحدث	Zeit aktualisiert
+facebook_video_name_9	Created time	Date de création	Fecha de creación	Ώρα δημιουγίας	Data di creazione	وقت الإنتاج	Zeit erstellt
+facebook_image_caption	Caption	Légende	Subtítulo	Λεζάντα	Didascalia	الشرح	Untertitel
+facebook_comment_title	Comments	Commentaires	Comentarios	Σχόλια	Commenti	التعليقات	Kommentare
+facebook_comment_name_1	Video comment count	Nombre de commentaires	Comentarios sobre el video	Αριθμός σχολίων βίντεο	Conteggio del commento video	عدد تعليقات الفيديو	Videokommentarzahl
+facebook_delete_result	Remove result	Effacer le résultat	Borrar el resultado	Διαγραφή του αποτελέσματος της διαδικασίας	Rimuovi risultato	إزالة النتيجة	Ergebnis entfernen
+image_comment_count	Image comment count	Nombre de commentaires d'image	Recuento de comentarios de imagen	Αριθμός σχολίων εικόνας	Conteggio del commento immagine	عدد تعليقات الصورة	Bildkommentarzahl
+facebook_comment_name_2	Number verification comments	Nombre de commentaires vérifiés	Número de comentarios verificados	Αριθμός σχολίων επαλήθευσης	Numero di commenti verificati	عدد التعليقات الموثوقة	Nummernüberprüfungskommentare
+twitter_user_name_13	Created	Date de création	Fecha de creación	Δημιουργήθηκε	Data di creazione	تاريخ الإنشاء	Erstellt
+twitter_user_name_4	Profile	Profil	Perfil	Προφίλ	Profilo	الملف الشخصي	Profil
+button_reverse_google	Google Image reverse search	Recherche inversée Google image	Búsqueda inversa de imagen Google	Αντίστροφη αναζήτηση εικόνας Google	Ricerca inversa Google Image	محرك جوجل للبحث العكسي عن الصور	Google Image Reverse Search
+button_reverse_yandex	Yandex Image reverse search	Recherche inversée Yandex image	Búsqueda inversa de imagen Yandex	Αντίστροφη αναζήτηση εικόνας Yandex	Ricerca inversa Yandex	محرك Yandex للبحث العكسي عن الصور	Yandex Bild Reverse Search
+button_reverse_tineye	Tineye Image reverse search	Recherche inversée Tineye	Búsqueda inversa de imagen Tineye	Αντίστροφη αναζήτηση εικόνας Tineye	Ricerca inversa Tineye	محرك Tineye للبحث العكسي عن الصور	Tineye Image Reverse Search
+button_reverse_twitter	Twitter video search	Recherche sur Twitter	Búsqueda en Twitter	Αναζήτηση βίντεο Twitter	Ricerca video Twitter	بحث تويتر بالفيديو	Twitter -Video -Suche
+youtube_video_name1_2	Video description	Description de la vidéo	Descripción del video	Περιγραφή Βίντεο	Descrizione video	وصف الفيديو	Videobeschreibung
+twitter_video_name_3	Origin	Origine	Origen	Προέλευση	Origine	الأصل	Herkunft
+twitter_video_name_4	Likes count	Nombre de ''j'aime''	Número de ''me gusta''	Αριθμός likes	Numero di likes	عدد الإعجابات	Mag es, Zählung
+twitter_video_name_5	Retweets count	Nombre de retweets	Número de retweets	Αριθμός retweets	Numero di retweets	إعادة تغريد	Retweets zählen
+twitter_video_name_6	Hashtags	Hashtags	Hashtags	Hashtags	Hashtags	الوسم	Hashtags
+twitter_video_name_7	Urls included	Urls incluses	Urls incluidas	URLs που περιλαμβάνονται	URL inclusi	شملت عناوين URL	URLs enthalten
+twitter_video_name_8	Mentionned by	Mentionné par	Mencionado por	Αναφέρθηκε από	Menzionato da	أُشير إليه من قبل شخص أو حساب ما	Erwähnt von
+twitter_video_name_9	Language	Langue	Lengua	Γλώσσα	Lingua	اللغة	Sprache
+twitter_video_name_10	Thumbnail	Imagette	Miniaturas	Μικρογραφία	Miniatura	صورة الغلاف	Miniaturansicht
+twitter_video_name_11	Size	Taille	Talla	Μέγεθος	Taglia	الحجم	Größe
+twitter_video_name_12	Duration	Durée	Duración	Διάρκεια	Durata	المدة	Dauer
+twitter_video_name_13	Locations mentioned	Lieux mentionnés	Lugares mencionados	Τοποθεσίες που αναφέρονται	Luoghi menzionati	المواقع المُشار إليها	Standorte erwähnt
+twitter_video_name_14	Embedded YouTube	Incorporé de YouTube	Integrable desde YouTube	Ενσωματωμένo YouTube βίντεο	Embedded YouTube	youtube تضمين	Eingebettete YouTube
+twitter_video_name_15	Created	Date de création	Fecha de creación	Δημιουργήθηκε	Data di creazione	تاريخ الإنشاء	Erstellt
+twitter_video_name_16	Video	Vidéo	Video	Βίντεο	video	فيديو	Video
+twitter_user_title	Public User	Utilisateur public	Usuario público	Δημόσιος χρήστης	Utente pubblico	المستخدم العام	Öffentlicher Benutzer
+twitter_user_name_2	Screen name	Pseudonyme	Nombre de usuario	Ονομα οθόνης	Nome schermo	الاسم المستعار	Künstlername
+twitter_user_name_3	Location	Localisation	Lugar	Τοποθεσία	Posizione	الموقع	Standort
+twitter_user_name_5	Description	Description	Descripción	Περιγραφή	Descrizione	الوصف	Beschreibung
+twitter_user_name_6	Protected user	Utilisateur protégé	Usuario protegido	Προστατευμένος χρήστης	Utente protetto	المستخدم المحمي	Geschützter Benutzer
+twitter_user_name_7	Verified user	Utilisateur vérifié	Usuario verificado	Επαληθευμένος χρήστης	Utente verificato	مستخدم تم التحقق منه	Verifizierter Benutzer
+twitter_user_name_8	Followers	Nombre d'abonnés	Seguidores	Ακόλουθοι	Seguaci	المتابَعون	Anhänger
+twitter_user_name_9	Following	Nombre d'abonnements	Seguidos	Σε ακολούθηση	A seguire	المتابَعون	Folgen
+twitter_user_name_10	Lists	Listes	Listas	Λίστες	Elenchi	القوائم	Listen
+twitter_user_name_11	Tweets liked	Tweets ''aimés''	Tweets ''likeados''	Αριθμός Tweets που άρεσαν	Tweets liked	تغريدات تم الإعجاب بها	Tweets mochten
+twitter_user_name_12	Tweets count	Nombre de tweets	Número de tweets	Αριθμός Tweets	Numero di Tweets	عدد التغريدات	Tweets zählen
+youtube_comment_title	Video comments:	Commentaires sur la vidéo:	Comentarios sobre el video:	Σχόλια βίντεο:	Commenti video:	تعليقات الفيديو:	Videokommentare:
+youtube_comment_name_2	Verification comments number	Nbre de com. pour vérification	Número de comentarios para verificación	Αριθμός σχολίων επαλήθευσης	Numero di commenti da verifica	عدد التعليقات الموثوق بها	Bestätigungsnummer
+navbar_thumbnails	Thumbnails	Imagettes	Miniaturas	Μικρογραφίες	Thumbnails	الصورة المصغرة (صورة الغلاف)	Miniaturansichten
+youtube_video_name2_1	Video view count	Nombre de vues	Número de vistas	Αριθμός προβολών βίντεο	Conteggio visualizzazioni	عدد مشاهدات الفيديو	Videoansicht zählen
+youtube_video_name2_2	Like count	Nombre de ''j'aime''	Número de ''me gusta''	Αριθμός likes	Conteggio dei likes	عدد الإعجابات	Wie Graf
+youtube_video_name2_3	Dislike count	Nombre de ''je n'aime pas''	Número de ''no me gusta''	Αριθμός dislikes	Conteggio dei dislikes	عدد عدم الإعجابات	Abneigung der Zählung
+youtube_video_name2_4	Duration	Durée	Duración	Διάρκεια	Durata	المدة	Dauer
+youtube_video_name2_5	Licensed content	Contenu sous license	Contenido bajo licencia	Περιεχόμενο υπό άδεια χρήσης	Contenuto con licenza	المحتوى المرخص	Lizenzierter Inhalt
+youtube_video_name2_6	Upload time	Date de mise en ligne	Fecha de puesta en línea	Ώρα μεταφόρτωσης	Tempo di upload	وقت التحميل	Zeit hochladen
+youtube_channel_name_2	Channel created time	Date de la création de la chaîne	Fecha de la creación de la cadena	Ώρα δημιουργίας καναλιού	Data di creazione del canale	وقت إنشاء القناة	Kanal erzeugt Zeit
+youtube_channel_name_3	Channel view count	Nombre de vues de la chaine	Número de vistas de la cadena	Αριθμός προβολών καναλιού	Conteggio viste del canale	عدد مشاهدات القناة	Kanalansicht zählen
+youtube_channel_name_4	Channel page	Page de la chaîne	Página de la cadena	Σελίδα καναλιού	Pagina del canale	صفحة القناة	Kanalseite
+youtube_channel_name_5	Number of subscribers	Nombre d'abonnés	Numero de suscriptores	Αριθμός συνδρομητών	Numero di abbonati	عدد المشتركين	Anzahl der Abonnenten
+youtube_channel_title	Channel:	Chaîne:	Cadena:	Κανάλι:	Canale:	قناة:	Kanal:
+youtube_comment_name_1	Video comment count	Nombre de commentaires	Número de comentarios	Αριθμός σχολίων βίντεο	Conteggio dei commenti	عدد تعليقات الفيديو	Videokommentarzahl
+convert_to_local_time	Convert to local time	Convertir à l'heure locale	Pasar a la hora local	Μετατροπή σε τοπική ώρα	Converti in ora locale	تحويل إلى التوقيت المحلي	Zu lokaler Zeit konvertieren
+table_error_unavailable	This url is not valid	Cette URL n'est pas valide	Esta url no es válida	Αυτή η διεύθυνση URL δεν είναι έγκυρη	Questo URL non è valido	عنوان رابط  منتهي الصلاحية	Diese URL ist nicht gültig
+table_error_no_image_id	We cannot extract an image ID from the submitted URL. Please note also that Facebook does not allow us to process photos from Users or Groups.	Nous ne pouvons pas extraire un ID d'image à partir de l'URL soumise. Veuillez également noter que Facebook ne nous permet pas de traiter les photos des utilisateurs ou des groupes.	No podemos extraer una identificación de imagen de la URL enviada. Tenga en cuenta también que Facebook no nos permite procesar fotos de Usuarios o Grupos.	Δεν μπορούμε να εξαγάγουμε ένα αναγνωριστικό εικόνας από την υποβληθείσα διεύθυνση URL. Λάβετε επίσης υπόψη ότι το Facebook δεν μας επιτρέπει να επεξεργαζόμαστε φωτογραφίες από Χρήστες ή Ομάδες.	Non possiamo estrarre un ID immagine dall'URL inviato. Tieni inoltre presente che Facebook non ci consente di elaborare foto di Utenti o Gruppi.	لا يمكننا استخراج معرف الصورة من الرابط المطروح. يرجى أيضًا ملاحظة أن فيسبوك لا يسمح لنا بمعالجة الصور من المستخدمين أو المجموعات.	Wir können keine Bild -ID aus der eingereichten URL extrahieren. Bitte beachten Sie auch, dass Facebook uns nicht erlaubt, Fotos von Benutzern oder Gruppen zu verarbeiten.
+table_error_no_video_id	We cannot extract an video ID from the submitted URL. Please note also that Facebook does not allow us to process videos from Users or Groups.	Nous ne pouvons pas extraire un ID vidéo de l'URL soumise. Veuillez également noter que Facebook ne nous permet pas de traiter les vidéos des Utilisateurs ou des Groupes.	No podemos extraer una identificación de video de la URL enviada. Tenga en cuenta también que Facebook no nos permite procesar videos de Usuarios o Grupos.	Δεν μπορούμε να εξαγάγουμε ένα αναγνωριστικό βίντεο από την υποβληθείσα διεύθυνση URL. Σημειώστε επίσης ότι το Facebook δεν μας επιτρέπει να επεξεργαζόμαστε βίντεο από Χρήστες ή Ομάδες.	We cannot extract an video ID from the submitted URL. Please note also that Facebook does not allow us to process videos from Users or Groups.	لا يمكننا استخراج معرف الفيديو من الرابط المطروح. يرجى أيضًا ملاحظة أن فيسبوك لا يسمح لنا بمعالجة الصور من المستخدمين أو المجموعات.	Wir können keine Video -ID aus der eingereichten URL extrahieren. Bitte beachten Sie auch, dass Facebook uns nicht erlaubt, Videos von Benutzern oder Gruppen zu verarbeiten.
+table_error_unavailable_image	This image is not available	Cette image n'est pas disponible	Esta imagen no es disponible	Αυτή η εικόνα δεν είναι διαθέσιμη	Questa immagine non è disponibile	هذه الصورة غير متوفرة	Dieses Bild ist nicht verfügbar
+table_error_unavailable_video	We cannot process this video. Please note also that Facebook does not allow us to process videos from Users or Groups.	Nous ne pouvons pas traiter cette vidéo. Veuillez également noter que Facebook ne nous permet pas de traiter les vidéos des Utilisateurs ou des Groupes.	No podemos procesar este video. Tenga en cuenta también que Facebook no nos permite procesar videos de Usuarios o Grupos.	Αυτό το βίντεο δεν είναι διαθέσιμο. Σημειώστε επίσης ότι το Facebook δεν μας επιτρέπει να επεξεργαζόμαστε βίντεο από Χρήστες ή Ομάδες.	Non possiamo elaborare questo video. Tieni inoltre presente che Facebook non ci consente di elaborare video di Utenti o Gruppi.	لا يمكننا معالجة هذا الفيديو. يرجى أيضًا ملاحظة أن فيسبوك لا يسمح لنا بمعالجة مقاطع الفيديو من المستخدمين أو المجموعات.	Wir können dieses Video nicht verarbeiten. Bitte beachten Sie auch, dass Facebook uns nicht erlaubt, Videos von Benutzern oder Gruppen zu verarbeiten.
+table_error_unsupported_platform	Content from this platform are not supported by this service	Le contenu de cette plateforme n'est pas pris en charge par ce service	El contenido de esta plataforma no es compatible con este servicio	Το περιεχόμενο από αυτήν την πλατφόρμα δεν υποστηρίζεται από αυτήν την υπηρεσία	I contenuti di questa piattaforma non sono supportati da questo servizio	محتوى الواجهة الأساسية غير مدعوم من هذه الخادم السيرفر	Inhalte dieser Plattform werden von diesem Dienst nicht unterstützt
+page_number	out of	de	sobre	Εκτός	fuori da	خارج النظام أو المنصة	aus
+api_title_image	Image contextual verification	Vérification du contexte de la image	Verificación del contexto del imagen	Επαλήθευση με βάση τα συμφραζόμενα της εικόνας	Verifica contestuale dell'imagine	التحقق من الصورة السياقية	Bildkontextüberprüfung
+link_comments	Comments that contain links	Commentaires contenant des liens	Comentarios que contienen enlaces	Σχόλια που περιέχουν συνδέσμους	Numero di commenti che contengono links	Commenti che contengono links	التعليقات التي تحتوي على روابط	Kommentare, die Links enthalten
+api_comments_verified	Verification comments	Commentaires de vérification	Comentarios de verificación	Σχόλια επαλήθευσης	Commenti verifica	تعليقات موثوقة	Überprüfungskommentare
+intro_tip	Tip	Conseils	Consejo	συμβουλή	Consiglio	نصيحة	Tipp
+platform	Platform	Plate-forme	Plataforma	Πλατφόρμα	Piattaforma	واجهة	Plattform
+source	Source	Source	Fuente	Πηγή	Fonte	مصدر	Quelle
+image_link	Image link	Lien de l'image	Enlace de imágen	Σύνδεσμος εικόνας	Link dell'immagine	رابط الصورة	Bildlink
+twitter_search	Search on Twitter	Rechercher sur Twitter	Buscar en Twitter	Αναζήτηση στο Twitter	Cerca su Twitter	إبحث في تويتر	Suche auf Twitter
+comments_links	Number of comments that contain links	Nombre de commentaires contenant des liens	Número de comentarios que contienen enlaces	Αριθμός σχολίων που περιέχουν συνδέσμους	عدد التعليقات التي تحتوي على روابط	Anzahl der Kommentare, die Links enthalten
+facebook_tip	This kind of Facebook link or shortener is not working properly. Try to click on the video and to get the url address instead.	Ce genre de lien ou raccourci de Facebook ne fonctionne pas correctement. Cliquez sur la vidéo et récupérer le lien de la barre d'adresse URL.	Este tipo de enlace o de acortador de Facebook no funciona correctamente. Intenté cliquear sobre el video y de recuperar el enlace en la barra de URL.	ΜΑυτό το είδος του συνδέσμου Facebook ή του shortener δεν λειτουργεί σωστά. Προσπαθήστε να κάνετε κλικ στο βίντεο και να λάβετε τη διεύθυνση url.	Questo tipo di link o shortener di Facebook non funziona correttamente. Prova a fare clic sul video e per ottenere invece l'indirizzo dell'URL.	هذا النوع من روابط فيسبوك أو الروابط المختصرة لا يعمل بشكل صحيح. حاول النقر على الفيديو والحصول على رابط جديد بدلاً من ذلك.	Diese Art von Facebook -Link oder Shortener funktioniert nicht ordnungsgemäß. Versuchen Sie, auf das Video zu klicken und stattdessen die URL -Adresse zu erhalten.
+api_input_image	Facebook link	Adresse Facebook	Enlace de Facebook	Σύνδεσμος Facebook	Link Facebook	رابط فيسبوك	Facebook -Link
+image_description	Image description	Description de l'image	Descripción de la imagen	περιγραφή εικόνας	Descrizione dell'immagine	وصف الصورة	Bildbeschreibung
+video_description	Video description	Description de la vidéo	Descripción del video	Περιγραφή βίντεο	Descrizione video	وصف الفيديو	Videobeschreibung
+twitter_reply	All replies	Toutes les réponses	Todas las respuestas	Όλες οι απαντήσεις	Tutte le risposte	جميع الردود	Alle Antworten
+twitter_reply_verified	Verification replies	Réponses de vérification	Respuestas de verificación	Απαντήσεις επαλήθευσης		الردود موثوقة	Überprüfung antwortet
+twitter_reply_link	Replies that contain links	Réponses contenant des liens	Respuestas que contienen enlaces	Απαντήσεις που περιέχουν συνδέσμους	الردود التي تحتوي على روابط	Antworten, die Links enthalten
+twitter_replies	Replies	Réponses	Respuestas	Απαντήσεις	الردود	Antworten
+twitter_video_replies	Video replies	Réponses vidéo	Respuestas en video	Απαντήσεις βίντεο	Risposte di verifica	ردود الفيديو	Video -Antworten
+video_card_header	Source of the video	Source de la vidéo	Fuente del video	Πηγή του βίντεο	Fonte del video	مصدر الفيديو	Quelle des Videos
+image_card_header	Source of the image	Origine de l'image	Fuente de la imagen	Πηγή της εικόνας	Fonte dell'immagine	مصدر الصورة	Bildquelle
+user	User	Utilisateur	Usuario	Χρήστης	Utente	المستخدم	Benutzer
+profile_creator	Profile	Profil	Perfil	Προφίλ	Profilo	الملف الشخصي	Profil
+cardheader_results	Results	Résultats	Resultados	Αποτελέσματα	Risultati	النتائج	Ergebnisse
