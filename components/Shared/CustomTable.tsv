@@ -1,10 +1,10 @@
-	en	fr	es	el	ar	de
-first_page	First Page	Première page	Primera página	Πρώτη σελίδα	الصفحة الأولى	Erste Seite
-previous_page	Previous Page	Page précédente	Página anterior	Προηγούμενη σελίδα	الصفحة السابقة	Vorherige Seite
-next_page	Next Page	Page suivante	siguiente página	Επόμενη σελίδα	الصفحة التالية	Nächste Seite
-last_page	Last Page	Dernière page	Ùltima página	Τελευταία σελίδα	آخر صفحة	Letzte Seite
-from_to_text	{from}-{to} of {count}	{from}-{to} de {count}	{from}-{to} de {count}	{Από} - {έως} του {αριθμός}	{من}-{إلى} من {count}	{von}-{bis} von {count}
-row_selected	{0} row(s) selected	{0} ligne(s) selectionée(s)	{0} fila(s) seleccionada(s)	{0} σειρά (ες) που επιλέγεται	{0} الصف (S) المحدد	{0} Zeile (s) ausgewählt
-search	Search	Rechercher	Buscar	Αναζήτηση	بحث	Suchen
-no_records	No records to display	Rien à afficher	Nada que mostrar	Δεν υπάρχουν αρχεία για προβολή	لا سجلات لعرضها	Keine Datensätze zur Anzeige
-filter	Filter	Filtre	Filtro	Φίλτρο	فلتر	Filter
+	en	fr	es	el	it	ar	de
+first_page	First Page	Première page	Primera página	Πρώτη σελίδα	Prima pagina	الصفحة الأولى	Erste Seite
+previous_page	Previous Page	Page précédente	Página anterior	Προηγούμενη σελίδα	Pagina precedente	الصفحة السابقة	Vorherige Seite
+next_page	Next Page	Page suivante	siguiente página	Επόμενη σελίδα	Pagina successiva	الصفحة التالية	Nächste Seite
+last_page	Last Page	Dernière page	Ùltima página	Τελευταία σελίδα	Ultima pagina	آخر صفحة	Letzte Seite
+from_to_text	{from}-{to} of {count}	{from}-{to} de {count}	{from}-{to} de {count}	{Από} - {έως} του {αριθμός}	{da} - {a} di {conte}	{من}-{إلى} من {count}	{von}-{bis} von {count}
+row_selected	{0} row(s) selected	{0} ligne(s) selectionée(s)	{0} fila(s) seleccionada(s)	{0} σειρά (ες) που επιλέγεται	{0} riga(s) selezionata	{0} الصف (S) المحدد	{0} Zeile (s) ausgewählt
+search	Search	Rechercher	Buscar	Αναζήτηση	Ricerca	بحث	Suchen
+no_records	No records to display	Rien à afficher	Nada que mostrar	Δεν υπάρχουν αρχεία για προβολή	nessun dato da visualizzare	لا سجلات لعرضها	Keine Datensätze zur Anzeige
+filter	Filter	Filtre	Filtro	Φίλτρο	Filtro	فلتر	Filter
