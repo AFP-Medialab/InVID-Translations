@@ -5,7 +5,7 @@ pipeline {
                 reuseNode true
             }
     }
-    envrionment {
+    environment {
         VERIF_URL = credentials('vera_transalation_verification_url')
     }
     stages {
