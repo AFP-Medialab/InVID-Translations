@@ -2,7 +2,7 @@
 api_title	Video contextual verification	Vérification du contexte de la vidéo	Verificación del contexto del video	Επαλήθευση βίντεο μέσω ανάλυσης δεικτών εγκυρότητας	VIDEO Verifica contestuale	التحقق من سياق الفيديو	Videokontextüberprüfung
 api_input	Youtube or Facebook link	Adresse YouTube ou Facebook	Enlace de YouTube o Facebook	Σύνδεσμος Youtube ή Facebook	Link YouTube, Facebook o Twitter	رابط يوتيوب أو فيسبوك	YouTube- oder Facebook -Link
 api_input_placeholder	Paste here the link	Coller ici le lien	Pegar aquí el enlace	Επικολλήστε εδώ το σύνδεσμο	Incolla qui il link	الصق الرابط هنا	Fügen Sie hier den Link ein
-api_repro	Reprocess	Retraiter	Volver a procesar	Επανεπεξεργασία	Riprocessare	إعادة المعالجة	Wiederaufbereitung
+api_repro	Reprocess	Retraiter	Volver a procesar	Επανεπεξεργασία	Riprocessare	إعادة المعالجة	Erneuern
 api_comments	All comments	Tous les commentaires	Todos los comentarios	Όλα τα σχόλια	Tutti i commenti	كل التعليقات	Alle Kommentare
 button_submit	Submit	Envoyer	Enviar	Υποβολή	Invia	إرسال	Einreichen
 facebook_video_name_1	Video id	Identifiant de la vidéo	Identificación del video	Βίντεο id	ID video	معرف الفيديو	Video -ID
@@ -55,7 +55,7 @@ twitter_user_name_11	Tweets liked	Tweets ''aimés''	Tweets ''likeados''	Αριθ
 twitter_user_name_12	Tweets count	Nombre de tweets	Número de tweets	Αριθμός Tweets	Numero di Tweets	عدد التغريدات	Tweets zählen
 youtube_comment_title	Video comments:	Commentaires sur la vidéo:	Comentarios sobre el video:	Σχόλια βίντεο:	Commenti video:	تعليقات الفيديو:	Videokommentare:
 youtube_comment_name_2	Verification comments number	Nbre de com. pour vérification	Número de comentarios para verificación	Αριθμός σχολίων επαλήθευσης	Numero di commenti da verifica	عدد التعليقات الموثوق بها	Bestätigungsnummer
-navbar_thumbnails	Thumbnails	Imagettes	Miniaturas	Μικρογραφίες	Thumbnails	الصورة المصغرة (صورة الغلاف)	Miniaturansichten
+navbar_thumbnails	Thumbnails	Imagettes	Miniaturas	Μικρογραφίες	Thumbnails	الصورة المصغرة (صورة الغلاف)	Thumbnails
 youtube_video_name2_1	Video view count	Nombre de vues	Número de vistas	Αριθμός προβολών βίντεο	Conteggio visualizzazioni	عدد مشاهدات الفيديو	Videoansicht zählen
 youtube_video_name2_2	Like count	Nombre de ''j'aime''	Número de ''me gusta''	Αριθμός likes	Conteggio dei likes	عدد الإعجابات	Wie Graf
 youtube_video_name2_3	Dislike count	Nombre de ''je n'aime pas''	Número de ''no me gusta''	Αριθμός dislikes	Conteggio dei dislikes	عدد عدم الإعجابات	Abneigung der Zählung
