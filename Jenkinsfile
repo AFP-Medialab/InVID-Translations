@@ -14,6 +14,6 @@ pipeline {
                     sh "python3 validation.py -b ${env.BRANCH_NAME} -u $VERIF_URL"
                 }
             }
-        }
     }
+    
 }
