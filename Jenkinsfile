@@ -2,7 +2,7 @@ pipeline {
     agent {
             docker {
                 image 'python:3.10-slim'
-                reuseNode true
+                reuseNode false
             }
     }
     environment {
@@ -11,7 +11,11 @@ pipeline {
     stages {
         stage ('Validation') {
                 steps {
-                    sh "python3 validation.py -b ${env.BRANCH_NAME} -u $VERIF_URL"
+                    withEnv(["HOME=${env.WORKSPACE}"]) {
+                        sh "pip install requests"
+                        sh "python3 validation.py -b ${env.BRANCH_NAME} -u $VERIF_URL"
+                    }
+                    
                 }
             }
     }
