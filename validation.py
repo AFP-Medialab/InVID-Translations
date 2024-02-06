@@ -35,10 +35,8 @@ service_url = args.url
 lang = "en"
 path = extractPath()
 is_valid = validate(lang, path, tag, service_url)
-
+print(is_valid)
 if is_valid :
     sys.exit(0)
 else :
     sys.exit(1)
-
-print(is_valid)
