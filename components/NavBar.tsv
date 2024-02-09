@@ -27,6 +27,7 @@ navbar_analysis_image	Image Analysis	Analyse d'image	Análisis de Imagen	Ανά�
 navbar_analysis_video	Video Analysis	Analyse Vidéo	Análisis de Vídeo	Βίντεο ανάλυση	Analisi video	تحليل الفيديو	Videoanalyse
 navbar_twitter_crowdtangle	CSV Analysis	Analyse CSV	Analisis CSV	Ανάλυση CSV	Analisi CSV	تحليل CSV	CSV -Analyse
 navbar_synthetic_image_detection	Synthetic image	Images synthétiques	Imágenes sintéticas	Συνθετική εικόνα	Immagine sintetica	صورة اصطناعية	Synthetische Medien
+navbar_loccus	Loccus	Loccus	Loccus	Loccus	Loccus	Loccus  Loccus
 navbar_deepfake_image	Deepfake	Deepfake	Deepfake	Deepfake	Deepfake	تزييف عميق	Deepfake
 navbar_geolocation	Geolocalizer	Géolocalisation	Geolocalizador	Geolocalizer	Geolocalizzazione	تحديد الموقع الجغرافي	Geolocalator
 navbar_verification	Verification	Vérification	Verificación	Επαλήθευση	Verifica	تحقُق	Überprüfung
@@ -39,6 +40,7 @@ navbar_deepfake_video	Deepfake	Deepfake	Deepfake	Deepfake	Deepfake	تزييف ع
 navbar_category_general	General	Général	General	Γενικά	Generale	عام	Allgemein
 navbar_category_video	Video	Vidéo	Video	βίντεο	Video	فيديو	Video
 navbar_category_image	Image	Image	Imagen	Εικόνα	Immagine	صورة	Bild
+navbar_category_audio	Audio	Audio	Audio	Ήχος	Audio	صوت	Audio
 navbar_category_search	Search	Recherche	Busqueda	Αναζήτηση	Ricerca	بحث	Suchen
 navbar_category_data	Data analysis	Analyse des données	Análisis de datos	Ανάλυση δεδομένων	Analisi dei dati	تحليل البيانات	Datenanalyse
 navbar_category_other	Other tools	Autres outils	Otras herramientas	Άλλα εργαλεία	Altri strumenti	أدوات أخرى	Andere Werkzeuge

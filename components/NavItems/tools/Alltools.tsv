@@ -41,6 +41,7 @@ forensic_help_video	https://www.youtube.com/embed/de862rAPne4?rel=0	https://www.
 close	Close	Fermer	Cerrar	Κλείσιμο	Chiudere	إغلاق	Schließen
 category_video	Video	Vidéo	Video	βίντεο	video	فيديو	Video
 category_image	Image	Image	Imagen	Εικόνα	Immagine	صورة	Bild
+category_audio	Audio	Audio	Audio	Ήχος	Audio	صوت	Audio
 category_search	Search	Recherche	Busqueda	Αναζήτηση	Ricerca	بحث	Suchen
 category_data	Data analysis	Analyse des données	Análisis de datos	Ανάλυση δεδομένων	Analisi dei dati	تحليل البيانات	Datenanalyse
 category_other	Other tools	Autres Outils	Otras herramientas	Άλλα εργαλεία	Altri strumenti	أدوات أخرى	Andere Werkzeuge
@@ -56,3 +57,5 @@ navbar_deepfake_video	Deepfake	Deepfake	Deepfake	Deepfake	Deepfake	تزييف ع
 navbar_deepfake_video_description	It uses a detection algorithm to return the probabilty that a video contains a manipulated deepfake	Il utilise un algorithme de détection qui renvoie la probabilité qu'une vidéo contienne un deepfake manipulé.	Utiliza un algoritmo de detección para devolver la probabilidad de que un vídeo contenga un deepfake manipulado	Χρησιμοποιεί έναν αλγόριθμο ανίχνευσης για να επιστρέψει την πιθανότητα ότι ένα βίντεο περιέχει ένα χειραγωγημένο deepfake	Utilizza un algoritmo di rilevamento per restituire la probabilità che un video contenga un profondo manipolato	يستخدم خوارزمية اكتشاف لتقدير إحتمال إحتواء مقطع فيديو معالج على DeepFake	Es verwendet einen Erkennungsalgorithmus, um das Problem zurückzugeben, dass ein Video ein manipuliertes DeepFake enthält
 navbar_synthetic_image_detection	Synthetic image	Image synthétique	Imagen sintética	Συνθετικός ανιχνευτής εικόνας	Immagine sintetica	كاشف الصور الاصطناعية	Synthetisches Bild
 navbar_synthetic_image_detection_description	It returns the probability whether an image is AI-generated	Il donne la probabilité qu'une image est générée par l'IA.	Devuelve la probabilidad de que una imagen sea generada por IA	Χρησιμοποιεί έναν αλγόριθμο ανίχνευσης για να επιστρέψει την πιθανότητα ότι μια εικόνα περιέχει ένα χειραγωγημένο AI	Immagine sinteticaRestituisce la probabilità che un'immagine sia generata dall'intelligenza artificiale	يستخدم خوارزمية اكتشاف لتقدير إحتمال إحتواء صورة معالجة على AI	Es wird die Wahrscheinlichkeit zurückgegeben, ob ein Bild mit Ai-generiert ist
+navbar_loccus	Loccus	Loccus	Loccus	Loccus	Loccus	Loccus  Loccus
+navbar_loccus_description	It detects voice cloning	Il détecte le clonage vocal	Detecta clonación de voz.	Ανιχνεύει κλωνοποίηση φωνής	Rileva la clonazione della voce	يكتشف استنساخ الصوت	Es erkennt das Klonen von Stimmen
