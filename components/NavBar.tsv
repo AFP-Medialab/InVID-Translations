@@ -14,7 +14,7 @@ navbar_metadata	Metadata	Metadonnées	Metadatos	Μεταδεδομένα	Metadat
 navbar_rights	Video rights	Droits vidéo	Derechos video	Δικαιώματα βίντεο	Copyright video	حقوق الفيديو	Videorechte
 navbar_forensic	Forensic	Forensic	Forensic	Αυθεντικότητας Εικόνων	Forensic	التحقق الرقمي	Forensisch Untersuchung
 navbar_factCheck	Fact Check	Factuel	Factual	Έλεγχος γεγονότων	Fact-checking	تدقيق	Faktencheck
-navbar_covidsearch	Factcheck search	Recherche de Factchecks	Búsqueda de chequeos	Αναζήτηση Factcheck	Ricerca di factchecks	بحث التحقق من المعلومات	FACTCHECK Suche
+navbar_covidsearch	Factcheck search	Recherche de Factchecks	Búsqueda de chequeos	Αναζήτηση Factcheck	Ricerca di factchecks	بحث التحقق من المعلومات	Factenchecks-Suche
 navbar_assistant	Assistant	Assistant	Asistente	Βοηθός	Assistente	المساعد	Assistent
 navbar_xnetwork	Xnetwork	Xnetwork	Xnetwork	Xnetwork	Xnetwork	Xnetwork	Xnetwork
 navbar_ocr	OCR	OCR	OCR	OCR	OCR	التعرف البصري على الحروف	OCR
@@ -44,4 +44,4 @@ navbar_category_audio	Audio	Audio	Audio	Ήχος	Audio	صوت	Audio
 navbar_category_search	Search	Recherche	Busqueda	Αναζήτηση	Ricerca	بحث	Suchen
 navbar_category_data	Data analysis	Analyse des données	Análisis de datos	Ανάλυση δεδομένων	Analisi dei dati	تحليل البيانات	Datenanalyse
 navbar_category_other	Other tools	Autres outils	Otras herramientas	Άλλα εργαλεία	Altri strumenti	أدوات أخرى	Andere Werkzeuge
-navbar_collapse	Hide	Masquer	Ocultar	Απόκρυψη	Nascondere	إخفاء	Verstecken
+navbar_collapse	Hide	Masquer	Ocultar	Απόκρυψη	Nascondere	إخفاء	Einklappen

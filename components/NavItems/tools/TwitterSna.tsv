@@ -68,7 +68,7 @@ twittersna_result_date	Date	Date	Fecha	Ημερομηνία	Data	التاريخ	
 twittersna_result_tweet	Tweet	Tweet	Tweet	Tweet	Tweet	التغريدة	Tweet
 twittersna_result_retweet_nb	Retweet number	Nombre de retweets	Candidad de retweets	Αριθμός Retweets	Numero retweet	عدد مرات إعادة التغريد	Retweet -Nummer
 twittersna_result_like_nb	Like number	Nombre de likes	Candidad de ''me gusta''	Αριθμός likes	Numero di like	عدد الإعجابات	Wie Zahl
-twittersna_result_hide	Hide	Fermer	Ocultar	Απόκρυψη	Nascondere	إخفاء	Verstecken
+twittersna_result_hide	Hide	Fermer	Ocultar	Απόκρυψη	Nascondere	إخفاء	Einklappen
 twittersna_result_download	Download	Télécharger	Descargar	Λήψη	Scarica	تنزيل	Herunterladen
 twittersna_result_slected_tweets	Selected Tweets	Tweets selectionnés	Tweets seleccionados	Επιλεγμένα Tweets	Tweet selezionati	تغريدات مختارة	Ausgewählte Tweets
 twittersna_result_url_in_tweets	Urls in tweets	Urls dans les tweets	Urls en tweets	Urls στα tweets	URL nei tweet	عناوين URL في التغريدات	URLs in Tweets
