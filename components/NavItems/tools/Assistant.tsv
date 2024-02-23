@@ -44,8 +44,8 @@ navbar_twitter	Tw. search	Recherche Tw.	Búsqueda Tw.	Tw. Αναζήτηση	Tw.
 navbar_magnifier	Magnifier	Loupe	Lupa	μεγεθυντικός φακός	Lente d'ingrandimento	المكبر	Lupe
 navbar_metadata	Metadata	Metadonnées	Metadatos	μεταδεδομένα	Metadati	البيانات الوصفية	Metadaten
 navbar_rights	Video rights	Droits vidéo	Derechos video	Βίντεο δικαιώματα	Diritti video	حقوق الفيديو	Videorechte
-navbar_forensic	Forensic	Forensic	Forensic	Δικανικός λυση	Forensic	التحقق الرقمي للصور	Forensisch Untersuchung
-navbar_ocr	OCR	OCR	OCR	OCR	OCR	OCR	OCR
+navbar_forensic	Forensic	Forensic	Forensic	Δικανικός λυση	Forensic	التحقق الرقمي للصور	Forensische Untersuchung
+navbar_ocr	OCR	OCR	OCR	OCR	OCR	OCR	Texterkennung
 navbar_twitter_sna	Fact Check	Factuel	Factual	γεγονός Έλεγχος	Facktcheck	تدقيق المعلومة	Faktencheck
 navbar_assistant	Assistant	Assistant	Asistente	Βοηθός	Assistente	المساعد	Assistent
 assistant_help_title	Assistant Help	Aide de l'Assistant	Ayuda del assistente	Βοηθός Βοήθεια	Assistente aiuto	الدعم الفني	Assistent Hilfe
@@ -85,7 +85,7 @@ hyperpartisan_title	Hyperpartisan service	Service de détection de contenu hyper
 dbkf_text_title	Database of known fakes text search	Recherche textuelle dans la base de faux connus	Búsqueda de texto en la base de datos de falsificaciones conocidas	Βάση δεδομένων των γνωστών αναζήτηση προϊόντων απομίμησης κείμενο	Database di ricerca testuale di falsi noti	قاعدة بيانات البحث عن النصوص المزيفة المعروفة	Datenbank der bekannten Fakes -Textsuche
 dbkf_media_title	Database of known fakes media search	Recherche d'image dans la base de faux connus	Búsqueda de imagen en la base de datos de falsificaciones conocidas	Βάση δεδομένων των γνωστών αναζήτηση προϊόντων απομίμησης ΜΜΕ	Database di ricerca multimediale di falsi noti	قاعدة بيانات البحث عن الوسائط المزيفة المعروفة	Datenbank der bekannten Fakes -Mediensuche
 ne_title	Named entity search	Recherche d'entités nommées	Búsqueda de entidad nombrada	Το όνομά αναζήτηση οντότητα	Ricerca di entità denominate	البحث عن كيان مسمى	Benannte Entitätssuche
-ocr_title	OCR search	Reconnaissance optique de caractères	Búsqueda OCR	αναζήτηση OCR	Ricerca OCR	بحث OCR	OCR -Suche
+ocr_title	OCR search	Reconnaissance optique de caractères	Búsqueda OCR	αναζήτηση OCR	Ricerca OCR	بحث OCR	Texterkennung-Suche
 source_cred_title	Source credibility service	Service de vérification de la source	Servicio de credibilidad de la fuente de información	υπηρεσία αξιοπιστία Πηγή	Servizio di credibilità della fonte	خدمة مصداقية المصدر	Glaubwürdigkeitsdienst Quelle
 mt_title	Machine translation service	Traduction automatique	Servicio de traducción automática	υπηρεσία αυτόματης μετάφρασης	Servizio di traduzione automatica	خدمة الترجمة الآلية	Maschinenübersetzungsdienst
 translate	Translate (beta)	Traduire (beta)	Traducir (beta)	Μετάφραση (beta)	Traduci (beta)	ترجمة (بيتا)	Übersetzen (Beta)
