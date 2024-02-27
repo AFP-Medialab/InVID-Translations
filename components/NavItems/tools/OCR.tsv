@@ -1,5 +1,5 @@
 	en	fr	es	el	it	ar	de
-ocr_title	OCR	OCR	LOC	OCR	OCR	OCR	OCR
+ocr_title	OCR	OCR	LOC	OCR	OCR	OCR	Texterkennung
 ocr_urlbox	Image link	URL de l'image	URL de la imagen	URL εικόνας	Collegamento dell'immagine	رابط الصورة	Bildlink
 ocr_urlbox_placeholder	Paste the link here	Coller le lien ici	Pegar el enlace aquí	Επικολλήστε τον σύνδεσμο εδώ	Incolla il link qui	الصق الرابط هنا	Fügen Sie den Link hier ein
 ocr_error	Could not extract text. Please try another input	Le texte n'a pas pu être extrait. Essayer svp une autre image	No se pudo extraer el texto. Intente porfa con otro imagen	Δεν ήταν δυνατή η εξαγωγή κειμένου. Δοκιμάστε μια άλλη είσοδο	Impossibile estrarre il testo. Si prega di provare un altro input	لا يمكن استخراج النص. الرجاء تجربة مدخلات أخرى	Konnte keinen Text extrahieren. Bitte versuchen Sie einen anderen Eingang
