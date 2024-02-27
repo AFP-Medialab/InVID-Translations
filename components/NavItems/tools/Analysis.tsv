@@ -1,6 +1,6 @@
 	en	fr	es	el	it	ar	de
 api_title	Video contextual verification	Vérification du contexte de la vidéo	Verificación del contexto del video	Επαλήθευση βίντεο μέσω ανάλυσης δεικτών εγκυρότητας	VIDEO Verifica contestuale	التحقق من سياق الفيديو	Videokontextüberprüfung
-api_input	Youtube or Facebook link	Adresse YouTube ou Facebook	Enlace de YouTube o Facebook	Σύνδεσμος Youtube ή Facebook	Link YouTube, Facebook o Twitter	رابط يوتيوب أو فيسبوك	YouTube- oder Facebook -Link
+api_input	Youtube or Facebook link	Adresse YouTube ou Facebook	Enlace de YouTube o Facebook	Σύνδεσμος Youtube ή Facebook	Link YouTube, Facebook o Twitter	رابط يوتيوب أو فيسبوك	YouTube oder Facebook-Link
 api_input_placeholder	Paste here the link	Coller ici le lien	Pegar aquí el enlace	Επικολλήστε εδώ το σύνδεσμο	Incolla qui il link	الصق الرابط هنا	Fügen Sie hier den Link ein
 api_repro	Reprocess	Retraiter	Volver a procesar	Επανεπεξεργασία	Riprocessare	إعادة المعالجة	Erneuern
 api_comments	All comments	Tous les commentaires	Todos los comentarios	Όλα τα σχόλια	Tutti i commenti	كل التعليقات	Alle Kommentare
