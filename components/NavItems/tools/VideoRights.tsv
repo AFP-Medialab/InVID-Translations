@@ -1,10 +1,10 @@
-	en	fr	es	el	ar
-copyright_title	Check Video Copyright Status	Vérifier le copyright de la vidéo	Verificar los derechos de autor del video	Ελέγξτε τα δικαιώματα πνευματικής ιδιοκτησίας του βίντεο	تحقق من حالة حقوق الطبع والنشر للفيديو
-copyright_input	YouTube or Twitter video link	Lien YouTube ou Twitter	Enlance YouTube o Twitter	Σύνδεσμος βίντεο στο YouTube ή στο Twitter	رابط فيديو يوتيوب أو تويتر
-copyright_input_placeholder	Paste here the link	Copier ici le lien	Copiar aquí el enlace	επικολλήστε εδώ τον σύνδεσμο	الصق الرابط هنا
-button_submit	Submit	Envoyer	Enviar	Υποβολή	إرسال
-keyframes_error_default	Unknown error occured. Please try again later or with another video.	Une erreur inconnue s'est produite. Veuillez réessayer plus tard ou avec une autre vidéo.	Se ha producido un error desconocido. Por favor, inténtelo de nuevo más tarde o con otro vídeo.	Άγνωστο σφάλμα. Παρακαλούμε δοκιμάστε αργότερα ή δοκιμάστε κάποιο άλλο βίντεοcardheader_link	حدث خطأ غير معروف. يرجى المحاولة مرة أخرى لاحقاً أو مع فيديو آخر.
-cardheader_results	Results	Résultats	Resultados	Αποτελέσματα	النتائج
-cardheader_link	Source of the video	Source de la vidéo	Fuente del video	Πηγή του βίντεο	مصدر الفيديو
-license_youtube	YouTube License Summary	Résumé de la licence YouTube	Resumen de licencia de YouTube	Σύνοψη άδειας YouTube	ملخص ترخيص يوتيوب
-license_creativeCommon	Creative Commons License Summary	Résumé de la licence Creative Commons	Resumen de licencia Creative Commons	Σύνοψη άδειας Creative Commons	ملخص رخصة المشاع الإبداعي
+	en	fr	es	el	it	ar	de
+copyright_title	Check Video Copyright Status	Vérifier le copyright de la vidéo	Verificar los derechos de autor del video	Ελέγξτε τα δικαιώματα πνευματικής ιδιοκτησίας του βίντεο	Controlla lo stato del copyright video	تحقق من حالة حقوق الطبع والنشر للفيديو	Überprüfen Sie den Status des Video -Urheberrechts
+copyright_input	YouTube or Twitter video link	Lien YouTube ou Twitter	Enlance YouTube o Twitter	Σύνδεσμος βίντεο στο YouTube ή στο Twitter	Link video YouTube o Twitter	رابط فيديو يوتيوب أو تويتر	YouTube oder Twitter-Videolink
+copyright_input_placeholder	Paste here the link	Copier ici le lien	Copiar aquí el enlace	επικολλήστε εδώ τον σύνδεσμο	Incolla qui il link	الصق الرابط هنا	Fügen Sie hier den Link ein
+button_submit	Submit	Envoyer	Enviar	Υποβολή	Invia	إرسال	Einreichen
+keyframes_error_default	Unknown error occured. Please try again later or with another video.	Une erreur inconnue s'est produite. Veuillez réessayer plus tard ou avec une autre vidéo.	Se ha producido un error desconocido. Por favor, inténtelo de nuevo más tarde o con otro vídeo.	Άγνωστο σφάλμα. Παρακαλούμε δοκιμάστε αργότερα ή δοκιμάστε κάποιο άλλο βίντεοcardheader_link	Errore sconosciuto si è verificato. Si prega di riprovare più tardi o con un altro video.	حدث خطأ غير معروف. يرجى المحاولة مرة أخرى لاحقاً أو مع فيديو آخر.	Unbekannter Fehler trat auf. Bitte versuchen Sie es später oder mit einem anderen Video erneut.
+cardheader_results	Results	Résultats	Resultados	Αποτελέσματα	Risultati	النتائج	Ergebnisse
+cardheader_link	Source of the video	Source de la vidéo	Fuente del video	Πηγή του βίντεο	Fonte del video	مصدر الفيديو	Quelle des Videos
+license_youtube	YouTube License Summary	Résumé de la licence YouTube	Resumen de licencia de YouTube	Σύνοψη άδειας YouTube	Riepilogo della licenza YouTube	ملخص ترخيص يوتيوب	YouTube -Lizenzübersicht
+license_creativeCommon	Creative Commons License Summary	Résumé de la licence Creative Commons	Resumen de licencia Creative Commons	Σύνοψη άδειας Creative Commons	Riepilogo della licenza Creative Commons	ملخص رخصة المشاع الإبداعي	Zusammenfassung der Creative Commons Lizenz

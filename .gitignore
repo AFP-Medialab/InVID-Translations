@@ -1,2 +1,4 @@
 .DS_Store
-.gsheet
+*.gsheet
+*.old
+**/*.gsheet
