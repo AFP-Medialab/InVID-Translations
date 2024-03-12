@@ -5,6 +5,7 @@ loccus_tip	The audio file duration should be between 2 seconds and 2 minutes.	La
 loccus_placeholder	Paste the URL here	Collez le lien ici	Pega aquí el link	Επικολλήστε τη διεύθυνση σύνδεσμος εδώ	Incolla il link qui	الصق عنوان URL هنا	Fügen Sie die URL hier ein
 loccus_results	Results of the clip selected	Résultats du clip sélectionné	Resultados del clip seleccionado	Αποτελέσματα του επιλεγμένου κλιπ	Risultati della clip selezionati	نتائج المقطع المحدد	Ergebnisse des ausgewählten Clips
 loccus_link	Audio link	Lien audio	Link de la imagen	Σύνδεσμος εικόνας	Link audio	رابط الصورة	Bildlink
+loccus_submit_button	Submit	Envoyer	Enviar	Υποβολή	Invia	إرسال	Einreichen
 loccus_title	Detection results	Résultats de la détection	Resultados de la detección	Αποτελέσματα ανίχνευσης	Risultati di rilevamento	نتائج الكشف	Erkennungsergebnisse
 loccus_voice_cloning_detection_title	Voice cloning	Clonage vocal	Clonación de voz	Κλωνοποίηση φωνής	Clonazione vocale	النسخ الصوتي	Stimmenklonierung
 loccus_voice_recording_detection_title	Voice re-recording	Ré-enregistrement vocal	Re-grabación de voz	Εκ νέου καταγραφή φωνής	Registrazione vocale	إعادة تسجيل الصوت	Voice-Re-Aufzeichnung
