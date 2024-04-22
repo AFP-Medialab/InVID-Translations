@@ -38,6 +38,6 @@ synthetic_image_detection_button_copy_text_1	Copy text	Copier le texte	Copiar te
 synthetic_image_detection_button_copy_text_2	Text copied!	Texte copié !	¡Texto copiado!	Κείμενο αντιγράφηκε!	Testo copiato!	تم نسخ النص!	Text kopiert!
 synthetic_image_detection_alert_label_4	Very strong evidence	Fortes preuves	Pruebas muy sólidas	Πολύ ισχυρά ενδείξεις	Forti evidenze	أدلة قوية جدًا	Sehr starke Beweise
 synthetic_image_detection_alert_label_3	Strong evidence	Preuves solides	Evidencia sólida	Ισχυρές ενδείξεις	Evidenza forte	أدلة قوية	Starke Beweise
-synthetic_image_detection_alert_label_2	Moderate evidence	Preuves modérées	Evidencia moderada	Μέτριες ενδείξεις	Evidenza moderata	أدلة معتدلة	Moderate Beweise
-synthetic_image_detection_alert_label_1	Weak evidence	Preuves faibles	Evidencia débil	Αδύναμες ενδείξεις	Evidenza debole	أدلة ضعيفة	Schwache Beweise
+synthetic_image_detection_alert_label_2	Moderate evidence (suspicious but non conclusive)	Preuves modérées (suspectes mais non concluantes)	Evidencia moderada (sospechosa pero no concluyente)	Μέτριες ενδείξεις (ύποπτες αλλά μη συμπερασματικές)	Evidenza moderata (sospetta ma non conclusiva)	أدلة معتدلة (مشبوهة ولكن غير نهائية)	Moderate Beweise (verdächtig, aber nicht abschließend)
+synthetic_image_detection_alert_label_1	Weak evidence (non conclusive)	Preuves faibles (non concluantes)	Evidencia débil (no concluyente)	Αδύναμες ενδείξεις (μη συμπερασματικές)	Evidenza debole (non conclusiva)	أدلة ضعيفة (غير نهائية)	Schwache Beweise (nicht abschließend)
 synthetic_image_detection_probability_text	Probability:	Probabilité :	Probabilidad:	Πιθανότητα:	Probabilità:	احتمالية:	Wahrscheinlichkeit:
