@@ -36,7 +36,7 @@ button_play	Play GIF	Lancer le GIF	Reproducir GIF	αναπαραγωγή GIF	rip
 button_modify	Modify annotation	Modifier l'annotation	Modificar la anotación	τροποποίηση σχολίου	modifica annotazione	تعديل التعليق	Anmerkung bearbeiten
 button_add	Add Annotation	Ajouter l'annotation	Agregar anotación	προσθήκη σχολίου	aggiungi annotazione	إضافة تعليق	Anmerkung hinzufügen
 button_remove	Remove annotation	Supprimer l'annotation	Eliminar la anotación	αφαίρεση σχολίου	rimuovi annotazione	إزالة التعليق	Anmerkung entfernen
-fake_annotation_tip	"Fake" annotation can be added to the altered image.	Une annotation "Fake" peut être ajoutée à l'image modifiée.	Se puede añadir una anotación "Fake" a la imagen alterada.	Ένα "Fake" σχόλιο μπορεί να προστεθεί στην αλλοιωμένη εικόνα.	Un'annotazione "falsa" può essere aggiunta all'immagine alterata. يمكن إضافة تعليق "Fake" إلى الصورة المعدلة	Eine "Fake" Anmerkung kann dem veränderten Bild hinzugefügt werden.
+fake_annotation_tip	"Fake" annotation can be added to the altered image.	Une annotation "Fake" peut être ajoutée à l'image modifiée.	Se puede añadir una anotación "Fake" a la imagen alterada.	Ένα "Fake" σχόλιο μπορεί να προστεθεί στην αλλοιωμένη εικόνα.	Un'annotazione "falsa" può essere aggiunta all'immagine alterata.	يمكن إضافة تعليق "Fake" إلى الصورة المعدلة	Eine "Fake" Anmerkung kann dem veränderten Bild hinzugefügt werden.
 text_size_label	Text size	Taille du texte	Tamaño del texto	μέγεθος κειμένου	Dimensione del testo	حجم النص	Schriftgröße
 colour_label	Colour	Couleur	Color	χρώμα	colore	لون	Farbe
 colour_red	Red	Rouge	Rojo	κόκκινο	Rosso	أحمر	Rot
