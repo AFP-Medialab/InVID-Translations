@@ -20,6 +20,7 @@ forensic_error_404	Service not found	Le service n'existe pas	Servicio no encontr
 forensic_error_500	Service internal error	Erreur interne du service	Error interno del servicio	Εσωτερικό σφάλμα σέρβις	Errore interno del servizio	خطأ داخلي في الخدمة	Interner Servicefehler
 forensic_error_undefined	Service error	Erreur service	Error de servicio	Σφάλμα σέρβις	Errore di servizio	خطأ في الخدمة	Servicefehler
 forensic_error_bad_request_download_error	Please give a correct link	Donner un lien valide s'il vous plaît	Por favor, dé un enlace válido	Παρακαλώ εισάγετε έναν σωστό σύνδεσμο	È stato richiesto un tag algoritmo non valido	يرجى إعطاء رابط صحيح	Bitte geben Sie einen korrekten Link an
+forensic_error_bad_request_invalid_algorithm	Service API error	Erreur d'API service	Error de API de servicio	Σφάλμα API υπηρεσίας	Errore API del servizio	خطأ في واجهة برمجة تطبيقات الخدمة	Service-API-Fehler
 forensic_title_adq1_report	Double Quantization	DQ	DQ	Διπλός Κβαντισμός (Double Quantization)	Doppia quantizzazione	توضيح مضاعف (مزدوج)	Doppelquantisierung
 forensic_title_ela_report	Error Level Analysis	ELA	ELA	Ανάλυση Επιπέδου Σφάλματος (Error Level Analysis)	Analisi del livello di errore	تحليل مستوى الخطأ	Fehlerpegelanalyse
 forensic_title_median_report	Median Noise	Median Noise	Ruido mediano	Ενδιάμεσος Θόρυβος (Median Noise)	Rumore mediano	الضوضاء المتوسطة	Mittleres Geräusch
