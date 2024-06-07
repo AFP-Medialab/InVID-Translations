@@ -1,0 +1,98 @@
+	en	fr	es	el	ar
+twitterStatsErrorMessage	Please fill the required fields (＊)	Veuillez remplir les champs requis (＊)	Rellene los campos requeridos (＊)	Παρακαλώ συμπληρώστε τα απαιτούμενα πεδία (＊)	يرجى تعبئة جميع الحقول المطلوبة (*)
+twitter_sna_title	Facebook CSV analysis	Analyse Facebook CSV	El análisis Facebook CSV	Ανάλυση Facebook CSV	تحليل CSV فيسبوك
+twitter_sna_search	Keyword, URL or #	Mot clé, URL ou #	Palabra clave, URL o #	Λέξη-κλειδί, διεύθυνση URL ή #	كلمة مفتاحية، رابط أو وسم
+twitter_sna_not	Words to exclude in the query	Mots à exclure de la requête	Palabras a excluir en la consulta	Λέξεις για εξαίρεση στο ερώτημα	كلمات لاستبعادها في الاستعلام
+twitter_sna_user	Posted by (Facebook account name)	Publié par (nom de compte Facebook)	Publicado por (nombre de la cuenta de Facebook)	Αναρτήθηκε από (όνομα του λογαριασμού στο Facebook)	تم النشر بواسطة (اسم حساب فيسبوك) 
+twitter_sna_from_date	Since	Depuis	Desde	Από	منذ
+twitter_sna_until_date	Until	Jusqu'à	Hasta	Εως	حتى
+twitter_local_time	Local time	Heure locale	Hora local	Τοπική ώρα	التوقيت المحلي
+twitter_sna_gmt	GMT	GMT	GMT	GMT	بتوقيت غرينيتش
+twitter_sna_media	Filters :	Filtres :	Filtros :	Φιλτρα:	المرشحات:
+twitterStats_media_none	none	aucune	ninguna	κανένα	غير موجود
+twitterStats_media_images	pictures	images	fotos	εικόνες	صور
+twitterStats_media_videos	videos	vidéos	vídeo	βίντεο	فيديوهات
+twitterStats_media_medias	media	média	medios de comunicación	μεσο ΜΑΖΙΚΗΣ ΕΝΗΜΕΡΩΣΗΣ	وسائط
+twitterStats_media_both	both	les deux	ambos	και τα δύο	الاثنين معا
+twitter_sna_verified	Verified users Only :	Utilisateurs verifiés uniquement :	Usuarios verificados únicamente :	Μόνο επαληθευμένοι χρήστες:	المستخدمون الموثقون فقط: 
+twitterStats_verified_no	no	non	no	ναι	لا
+twitterStats_verified_yes	yes	oui	si	οχι	نعم
+lang_choices	Language :	Langue :	Lengua :	Γλώσσα:	اللغة:
+lang_all	none	aucun	ninguno	κανένα	لا يوجة
+lang_fr	French	Français	Francés	Γαλλικά	الفرنسية
+lang_en	English	Anglais	Inglés	Αγγλικά	الإنجليزية
+lang_es	Spanish	Espagnol	Español	Ισπανικά	الإسبانية
+lang_ar	Arabic	Arabe	Árabe	Αράβικα	العربية
+lang_de	German	Allemand	Alemán	Γερμανικά	الألمانية
+lang_it	Italian	Italien	Italiano	Ιταλικά	الإيطالية
+lang_id	Indonesian	Indonésien	Indonesio	Ινδονησιακά	الإندونيسية
+lang_pt	Portuguese	Portugais	Portugués	Πορτογαλικά	البرتغالية
+lang_ko	Korean	Coréen	Coreano	Κορεάτικα	الكورية
+lang_tr	Turkish	Turc	Turco	Τούρκικα	التركية
+lang_ru	Russian	Russe	Ruso	Ρώσικα	الروسية
+lang_nl	Dutch	Néerlandais	Holandés	Ολλανδικά	الهولندية
+lang_hi	Hindi	Indou	Hindú	Χίντι	الهندية
+lang_no	Norwegian	Norvégien	Noruego	Νορβηγικά	النرويجية
+lang_sv	Swedish	Suédois	Sueco	Σουηδικά	السويدية
+lang_fi	Finnish	Finlandais	Finlandés	Φινλανδικά	الفنلندية
+lang_da	Danish	Danois	Danés	Δανικά	الدنماركية
+lang_pl	Polish	Polonais	Polaco	Πολωνικά	البولندية
+lang_hu	Hungarian	Hongrois	Húngaro	Ούγγρικα	الهنغارية
+lang_fa	Farsi	Persan	Farsi	Φαρσί	الفارسية
+lang_he	Hebrew	Hébreu	Hebreo	Εβραϊκά	العبرية
+lang_ur	Urdu	Ourdou	Urdu	Ουρντού	الأردية
+lang_th	Thai	Thaï	Tailandés	Ταϊλανδέζικα	التايلاندية
+button_submit	Submit	Envoyer	Enviar	Υποβολή	قدّم
+default_sna_error	Facebook analysis failed due to an unknown cause.	L'analyse de Facebook a été interrompue pour une raison inconnue.	El análisis de Facebook se ha interrumpido por una causa desconocida.	Η ανάλυση του Facebook απέτυχε λόγω άγνωστης αιτίας.	فشل تحليل فيسبوك لسبب غير معروف.
+twitterSnaErrorMessage	An error occurred while processing posts	Une erreur est survenue lors du traitement de messages	Se ha producido un error durante el procesamiento de mensajes	Ένα σφάλμα κατά την επεξεργασία των μηνυμάτων	حدث خطأ أثناء معالجة المنشورات
+top_users_pie_chart_title	Most active users	Utilisateurs les plus actifs	Usuarios más activos	Πιο ενεργοί χρήστες	المستخدمين الأكثر نشاطاً 
+mention_cloud_chart_title	Most mentioned accounts	Compte les plus mentionnés	Usuarios más mencionados	Λογαριασμοί που έχουν αναφερθεί πιο πολύ	المستخدمين الأكثر ذكراً
+user_time_chart_title	Propagation timeline	Frise chronologique de propagation	Línea de tiempo de propagación	Χρονοδιάγραμμα διάδοσης	الجدول الزمني للانتشار
+hashtag_graph_title	Most associated hashtags	Hashtags les plus associés	Hashtags más Asociados	Πιο σχετικά hashtag	الوسوم الأكثر ارتباطاً
+retweets_cloud_chart_title	Most shared users	Utilisateurs les plus partagés	Usuarios más compartidos	Οι περισσότεροι από κοινού οι χρήστες	أكثر المستخدمين مشاركة
+likes_cloud_chart_title	Most liked users	Utilisateurs les plus likés	La mayoría de los usuarios gustado	Χρήστες που εχουν γίνεi περισσότερο like	أكثر المستخدمين اعجاباً
+top_words_cloud_chart_title	Most used words in posts	La plupart des mots utilisés dans les messages	La mayoría de las palabras usadas en los mensajes	Οι περισσότεροι που χρησιμοποιούνται λέξεις δημοσιεύσεις	الكلمات الأكثر استخداماً في المنشورات 
+tweetCounter_title	Metrics	Metriques	Métrica	Μετρήσεις	المقاييس
+sosem_graph_title	Socio-semantic graph (hashtags and mentioned users)	Graphe socio-sémantique (hashtags et utilisateurs mentionnés)	Grafo socio-semantico (hashtags y usuarios mencionados)	Κοινωνικο-σημασιολογικό γράφημα (hashtag και αναφερόμενοι χρήστες)	الرسم البياني الاجتماعي الدلالي (الوسوم والمستخدمين المذكورين) 
+sosem_4mode_graph_title	Socio-semantic graph (hashtags, URLs, mentions)	Graphe socio-sémantique (hashtags, URLs, mentions, RTs avec commentaire, réponses)	Grafo socio-semantico (hashtags, URLs, mencionados, RTs con comentarios, respuestas)	Κοινωνικο σημασιολογικό γράφημα (hashtag, URLs, αναφορές, RT με σχόλιο, απαντήσεις)	الرسم البياني الاجتماعي الدلالي (الوسوم، عناوين URL، الإشارات) 
+account_creation_date_chart_title	Count of account creation date chart	Graphique des créations de compte	Gráfico de fechas de creación de cuentas	Διάγραμμα των ημερομηνιών δημιουργίας λογαριασμών	مخطط عدد تاريخ إنشاء الحساب 
+bubble_chart_title	Bubble chart of top 100 most active accounts	Graphique des 100 comptes les plus actifs	Gráfico de las 100 cuentas más activas	Διάγραμμα φυσαλίδων με τους 100 πιο ενεργούς λογαριασμούς	مخطط فقاعي لأكثر 100 حساب نشط 
+user_graph_title	User accounts graph	Graphe de comptes utilisateurs	Grafo de cuentas de usuarios	ράφημα λογαριασμών χρηστών	رسم بياني لحسابات المستخدمين
+export_graph_title	Export Interaction graph (gexf format)	Exporter un graphe des interactions au format Gexf	Exportar el grafo de interacciones en formato Gexf	Εξαγωγή γραφήματος αλληλεπίδρασης (μορφή gexf)	تصدير رسم البياني تفاعلي (تنسيق gexf) 
+heatmap_chart_title	Heatmap of posts distribution	Heatmap de distribution de messages	Heatmap de la distribución de mensajes	Θερμικός χάρτης της διανομής των δημοσιεύσεων	خريطة توزيع المنشورات 
+elastic_url	URL	URL	URL	Σύνδεσμος	رابط
+elastic_count	Number	Nombre	Candidad	Αριθμός	رقم
+twittersna_result_username	Username	Nom d'utilisateur	Nombre de usuario	Όνομα χρήστη	اسم المستخدم
+twittersna_result_date	Date	Date	Fecha	Ημερομηνία	تاريخ
+twittersna_result_tweet	Post description	Description du message	Descripción de la publicación	περιγραφή δημοσίευσης	وصف المنشور
+twittersna_result_retweet_nb	Shares	Shares	Shares	Shares	مشاركات
+twittersna_result_like_nb	Likes	Likes	Likes	Likes	اعجابات
+twittersna_result_hide	Hide	Fermer	Ocultar	Απόκρυψη	اخفاء
+twittersna_result_download	Download	Télécharger	Descargar	Λήψη	تحميل
+twittersna_result_slected_tweets	Selected posts	Posts selectionnés	Posts seleccionados	Επιλεγμένα posts	المنشورات المختارة
+twittersna_result_url_in_tweets	Urls in posts	Urls dans les posts	Urls en posts	Urls στα posts	Urls في المنشورات
+twittersna_result_go_to	Go to url	Ouvrir le lien	Ir a la pagina	Μετάβαση στη διεύθυνση url	اذهب الى ال url
+twittersna_result_go_to_tweet	Go to Link	Ouvrir le Link	Ir a Link	Μετάβαση στο Link	اذهب الى الرابط
+twittersna_result_download_png	Download as PNG	Télécharger en tant que PNG	Descargar como PNG	Λήψη ως PNG	حمّل ك PNG
+twittersna_result_download_svg	Download as SVG	Télécharger en tant que SVG	Descargar como SVG	Λήψη ως SVG	حمّل ك SVG
+twittersna_result_word	Word	Mot	Palabra	Λέξη	كلمة 
+twittersna_result_nb_occ	Number of occurrences	Nombre d'occurrences	Cantidad de ocurrencias	Αριθμός εμφανίσεων	عدد التكرارات
+twittersna_result_entity	Named entity	Entité nommée	Entidad nombrada	Ονομαζόμενη οντότητα	كيان مسمى
+twittersna_no_data	No data available	Aucune donnée disponible	Datos no disponibles	Δεν υπάρχουν διαθέσιμα δεδομένα	بيانات غير متوفرة
+user_placeholder	user	utilisateur	usuario	χρήστης	مستخدم
+twittersna_counting_words	Counting Words	Comptage des mots	Contando palabras	Μέτρηση λέξεων	عدا الكلمات
+twittersna_fetching_tweets	Fetching posts	Récupération des posts	Recuperando posts	Λήψη posts	جلب المنشورات 
+twittersna_building_graphs	Building graphs	Construction des graphes	Construyendo el gráfico	Δημιουργία γραφημάτων	بناء الرسوم البيانية
+twittersna_result_submit_twitter_sna	Submit to Facebook SNA	Envoyer à Facebook SNA	Enviar a Facebook SNA	Υποβολή στο Facebook SNA	أرسل إلى فيسبوك SNA
+twittersna_result_view_graph	View graph	Voir le graphe	Ver el grafo	Προβολή γραφήματος	شاهد الرسم البياني
+twittersna_no_community	No community detected	Pas de communauté détectée	No se encontro comunidad	Δεν εντοπίστηκε κοινότητα	لم يتم الكشف عن مجتمع
+twittersna_acd	Account Creation Date	Date de création du compte	Fecha de creación de la cuenta	Ημερομηνία δημιουργίας λογαριασμού	تاريخ انشاء الحساب
+twittersna_nb_followers	Number of followers	Nombre d'abonnés	Número de abonados	Αριθμός ακολούθων	عدد المتابعين
+disable_cache	Disable cache	Désactiver le cache	Desactivar el caché	απενεργοποίηση προσωρινής μνήμης	ذاكرة التخزين المؤقت معطلة
+twittersna_invalid_credentials	Invalid authentication information	Les informations d'authentification ne sont pas valables	La información de autenticación no es válida	Μη έγκυρη πληροφόρηση αυθεντικοποίησης	معلومات المصادقة غير صالحة
+twittersna_start	Loading	Chargement	Cargando	Φόρτωση	تحميل
+csv_sna_publications	Publications	Publications	Publicaciones	δημοσιεύσεις	منشورات
+csv_sna_total_interactions	Total interactions	Total des interactions	Interacciones totales	Σύνολο αλληλεπιδράσεων	إجمالي التفاعلات
+csv_sna_likes	Likes	Likes	Likes	Likes	اعجابات
+csv_sna_comments	Comments	Commentaires	Comentarios	Σχόλια	تعليقات
+csv_sna_shares	Shares	Shares	Shares	Shares	مشاركات

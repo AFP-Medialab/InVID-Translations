@@ -1,0 +1,3 @@
+*.gsheet
+.git
+.DS_Store

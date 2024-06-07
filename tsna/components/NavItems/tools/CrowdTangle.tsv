@@ -1,0 +1,39 @@
+	en	fr	es	el	it	de	ar
+cardheader_ct_parameters	CSV SNA.	CSV SNA.	CSV SNA.	CSV SNA.	CSV SNA.	CSV SNA.	CSV SNA.
+navbar_ct_sna_description	It performs social network analysis from Crowdtangle export	Fournit un outil d'analyse de réseau social à partir d'export de Crowdtangle	Provee una herramiento de análisis de redes sociales de Crowdtangle	Η ανάλυση των κοινωνικών δικτύων στο Crowdtangle (διαθέσιμο κατά την εγγραφή)	Esegue l'analisi dei social network da crowdtangle export	Es führt eine Analyse sozialer Netzwerke aus dem Crowdtangle-Export durch	تقوم بتحليل الشبكة الاجتماعية من تصدير Crowdtangle
+navbar_ct_sna	Facebook & Instagram CSV analysis	Analyse CSV Facebook et Instagram	Análisis CSV de Facebook e Instagram	Ανάλυση CSV Facebook & Instagram	Analisi di Facebook e Instagram CSV	Facebook- und Instagram-CSV-Analyse	تحليل CSV لفيسبوك وإنستغرام
+sna_time_chart_title	Propagation timeline	Frise chronologique de propagation	Línea de tiempo de propagación	Χρονοδιάγραμμα διάδοσης	Timeline della propagazione	Zeitleiste der Ausbreitung	الجدول الزمني للانتشار
+sna_local_time	Local time	Heure locale	Hora local	Τοπική ώρα	Ora locale	Ortszeit	التوقيت المحلي
+shared_cloud_chart_title	Most shared users	Utilisateurs les plus partagés	Usuarios más compartidos	Οι περισσότεροι από κοινού οι χρήστες	Utenti più condivisi	Die meisten geteilten Benutzer	أكثر المستخدمين التي تمت مشاركتهم 
+likes_cloud_chart_title	Most liked users	Utilisateurs les plus likés	La mayoría de los usuarios gustado	Χρήστες που εχουν γίνεi περισσότερο like	Gli utenti più piatti	Die beliebtesten Benutzer	أكثر المستخدمين إعجاباً 
+top_users_pie_chart_title	Most active users	Utilisateurs les plus actifs	Usuarios más activos	Πιο ενεργοί χρήστες	Utenti più attivi	Die aktivsten Benutzer	أكثر المستخدمين تفاعلاً
+mention_cloud_chart_title	Most mentioned accounts	Compte les plus mentionnés	Usuarios más mencionados	Λογαριασμοί που έχουν αναφερθεί πιο πολύ	Conti più menzionati	Am häufigsten erwähnte Konten	أكثر المستخدمين ذكراً
+ct_heatmap_chart_title	Heatmap of posts distribution	Heatmap de distribution de messages	Heatmap de la distribución de mensajes	Θερμικός χάρτης της διανομής των δημοσιεύσεων	Heatmap della distribuzione dei post	Heatmap der Beitragsverteilung	خريطة توزيع المنشورات 
+ct_counter_title	Metrics	Metriques	Métrica	Μετρήσεις	Metrica	Metriken	المقاييس
+ct_sna_publications	Publications	Publications	Publicaciones	δημοσιεύσεις	Pubblicazioni	Veröffentlichungen	المنشورات
+ct_sna_total_interactions	Total interactions	Total des interactions	Interacciones totales	Σύνολο αλληλεπιδράσεων	Interazioni totali.	Gesamtinteraktionen	مجموع التفاعلات
+ct_sna_likes	Likes	Likes	Likes	Likes	Piace	Likes	إعجابات
+ct_sna_comments	Comments	Commentaires	Comentarios	Σχόλια	Commenti	Kommentare	تعليقات
+ct_sna_shares	Shares	Shares	Shares	Shares	Condivisioni	Anteile	مشاركات
+ct_sna_no_data	No data available	Aucune donnée disponible	Datos no disponibles	Δεν υπάρχουν διαθέσιμα δεδομένα	Nessun dato disponibile	No data available	بيانات غير متوفرة
+ct_sna_result_date	Date	Date	Fecha	Ημερομηνία	Data	Datum	تاريخ
+ct_sna_result_username	Username	Nom d'utilisateur	Nombre de usuario	Όνομα χρήστη	Nome utente	Nutzername	اسم المستخدم
+ct_sna_result_post	Post description	Description du message	Descripción de la publicación	περιγραφή δημοσίευσης	Post Descrizione	Beitragsbeschreibung	وصف المنشور
+ct_sna_total_interactions	Total interactions	Total des interactions	Interacciones totales	Σύνολο αλληλεπιδράσεων	Interazioni totali.	Gesamtinteraktionen	مجموع التفاعلات
+ct_user_time_chart_title	Propagation timeline	Frise chronologique de propagation	Línea de tiempo de propagación	Χρονοδιάγραμμα διάδοσης	Timeline della propagazione	Zeitleiste der Ausbreitung	الجدول الزمني للانتشار
+sna_result_go_to_post	Go to Link	Ouvrir le Link	Ir a Link	Μετάβαση στο Link	Vai a LINK.	Gehen Sie zu Link	اذهب إلى الرابط
+sna_result_selected_posts	Selected posts	Posts selectionnés	Posts seleccionados	Επιλεγμένα posts	Post selezionati	Ausgewählte Beiträge	المنشورات المختارة
+ct_bubble_chart_title	Bubble chart of top 100 most active accounts	Graphique des 100 comptes les plus actifs	Gráfico de las 100 cuentas más activas	Διάγραμμα φυσαλίδων με τους 100 πιο ενεργούς λογαριασμούς	Grafico a bolle dei primi 100 conti più attivi	Blasendiagramm der 100 aktivsten Konten	مخطط لأكثر 100 حساب نشاطاً
+ct_sna_result_word	Word	Mot	Palabra	Λέξη	Parola	Wort	كلمة
+ct_sna_result_nb_occ	Number of occurrences	Nombre d'occurrences	Cantidad de ocurrencias	Αριθμός εμφανίσεων	Numero di occorrenze	Anzahl der Vorkommen	عدد مرات الحدوث
+ct_sna_result_entity	Named entity	Entité nommée	Entidad nombrada	Ονομαζόμενη οντότητα	Entità nominata	Benannte Entität	كيان مسمى
+ct_sna_result_download_png	Download as PNG	Télécharger en tant que PNG	Descargar como PNG	Λήψη ως PNG	Scarica come png.	Als PNG herunterladen	تنزيل بصيغة PNG
+ct_sna_result_download_svg	Download as SVG	Télécharger en tant que SVG	Descargar como SVG	Λήψη ως SVG	Scarica come svg.	Als SVG herunterladen	تنزيل بصيغة SVG
+ct_hashtag_graph_title	Most associated hashtags	Hashtags les plus associés	Hashtags más Asociados	Πιο σχετικά hashtag	Hashtags più associati	Die meisten zugehörigen Hashtags	الوسوم الأكثر ارتباطاً 
+ct_heatmap_chart_title	Heatmap of posts distribution	Heatmap de distribution de messages	Heatmap de la distribución de mensajes	Θερμικός χάρτης της διανομής των δημοσιεύσεων	Heatmap della distribuzione dei post	Heatmap der Beitragsverteilung	خريطة توزيع المنشورات 
+ct_sosem_4mode_graph_title	Socio-semantic graph (hashtags, URLs, mentions)	Graphe socio-sémantique (hashtags, URLs, mentions, RTs avec commentaire, réponses)	Grafo socio-semantico (hashtags, URLs, mencionados, RTs con comentarios, respuestas)	Κοινωνικο σημασιολογικό γράφημα (hashtag, URLs, αναφορές, RT με σχόλιο, απαντήσεις)	Grafico socio-semantico (hashtags, URL, menzioni)	Sozio-semantischer Graph (Hashtags, URLs, Erwähnungen)	الرسم البياني الاجتماعي الدلالي (الوسوم، عناوين URL، الإشارات) 
+ct_sna_result_url_in_posts	Urls in posts	Urls dans les posts	Urls en posts	Urls στα posts	URL nei post	URLs in Beiträgen	Urls في المنشورات 
+twittersna_result_submit_twitter_sna	Submit to Twitter SNA	Envoyer à Twitter SNA	Enviar a Twitter SNA	Υποβολή στο Twitter SNA	Invia a Twitter SNA	An Twitter SNA senden	أرسل إلى Twitter SNA 
+ct_top_words_cloud_chart_title	Most used words in posts	La plupart des mots utilisés dans les messages	La mayoría de las palabras usadas en los mensajes	Οι περισσότεροι που χρησιμοποιούνται λέξεις δημοσιεύσεις	Le parole più utilizzate nei post	Am häufigsten verwendete Wörter in Beiträgen	الكلمات الأكثر استخداما في المنشورات 
+ct_url	URL	URL	URL	Σύνδεσμος	URL	URL	URL
+sna_credibility	Credibility	Crédibilité	Credibilidad	Αξιοπιστία	Credibilità	Glaubwürdigkeit	مصداقية
