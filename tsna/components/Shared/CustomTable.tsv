@@ -1,10 +1,10 @@
-	en	fr	es	el	it	de	ar
-first_page	First Page	Première page	Primera página	Πρώτη σελίδα	Prima pagina	Erste Seite	الصفحة الأولى
-previous_page	Previous Page	Page précédente	Página anterior	Προηγούμενη σελίδα	Pagina precedente	Vorherige Seite	الصفحة السابقة
-next_page	Next Page	Page suivante	siguiente página	Επόμενη σελίδα	Pagina successiva	Nächste Seite	الصفحة التالية
-last_page	Last Page	Dernière page	Ùltima página	Τελευταία σελίδα	Ultima pagina	Letzte Seite	آخر صفحة
-from_to_text	{from}-{to} of {count}	{from}-{to} de {count}	{from}-{to} de {count}	{Από} - {έως} του {αριθμός}	{da} - {a} di {conte}	{von}-{bis} von {count}	{من}-{إلى} من {count}
-row_selected	{0} row(s) selected	{0} ligne(s) selectionée(s)	{0} fila(s) seleccionada(s)	{0} σειρά (ες) που επιλέγεται	{0} riga(s) selezionata	Zeile (s) ausgewählt	{0} الصف (S) المحدد
+	en	fr	es	el	it	ar	de
+first_page	First Page	Première page	Primera página	Πρώτη σελίδα	Prima pagina	الصفحة الأولى	Erste Seite
+previous_page	Previous Page	Page précédente	Página anterior	Προηγούμενη σελίδα	Pagina precedente	الصفحة السابقة	Vorherige Seite
+next_page	Next Page	Page suivante	siguiente página	Επόμενη σελίδα	Pagina successiva	الصفحة التالية	Nächste Seite
+last_page	Last Page	Dernière page	Ùltima página	Τελευταία σελίδα	Ultima pagina	آخر صفحة	Letzte Seite
+from_to_text	{from}-{to} of {count}	{from}-{to} de {count}	{from}-{to} de {count}	{Από} - {έως} του {αριθμός}	{da} - {a} di {conte}	{من}-{إلى} من {count}	{von}-{bis} von {count}
+row_selected	{0} row(s) selected	{0} ligne(s) selectionée(s)	{0} fila(s) seleccionada(s)	{0} σειρά (ες) που επιλέγεται	{0} riga(s) selezionata	{0} الصف (S) لمحدد	Zeile (s) ausgewählt {0}
 search	Search	Rechercher	Buscar	Αναζήτηση	Ricerca	Suchen	بحث
-no_records	No records to display	Rien à afficher	Nada que mostrar	Δεν υπάρχουν αρχεία για προβολή	nessun dato da visualizzare	Keine Datensätze zur Anzeige	لا سجلات لعرضها
-filter	Filter	Filtre	Filtro	Φίλτρο	Filtro	Filter	فلتر
+no_records	No records to display	Rien à afficher	Nada que mostrar	Δεν υπάρχουν αρχεία για προβολή	nessun dato da visualizzare	لا سجلات لعرضها	Keine Datensätze zur Anzeige
+filter	Filter	Filtre	Filtro	Φίλτρο	Filtro	فلتر	Filter
