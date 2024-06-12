@@ -5,6 +5,6 @@ next_page	Next Page	Page suivante	siguiente página	Επόμενη σελίδα	
 last_page	Last Page	Dernière page	Ùltima página	Τελευταία σελίδα	Ultima pagina	آخر صفحة	Letzte Seite
 from_to_text	{from}-{to} of {count}	{from}-{to} de {count}	{from}-{to} de {count}	{Από} - {έως} του {αριθμός}	{da} - {a} di {conte}	{من}-{إلى} من {count}	{von}-{bis} von {count}
 row_selected	{0} row(s) selected	{0} ligne(s) selectionée(s)	{0} fila(s) seleccionada(s)	{0} σειρά (ες) που επιλέγεται	{0} riga(s) selezionata	{0} الصف (S) لمحدد	Zeile (s) ausgewählt {0}
-search	Search	Rechercher	Buscar	Αναζήτηση	Ricerca	Suchen	بحث
+search	Search	Rechercher	Buscar	Αναζήτηση	Ricerca	بحث	Suchen
 no_records	No records to display	Rien à afficher	Nada que mostrar	Δεν υπάρχουν αρχεία για προβολή	nessun dato da visualizzare	لا سجلات لعرضها	Keine Datensätze zur Anzeige
 filter	Filter	Filtre	Filtro	Φίλτρο	Filtro	فلتر	Filter
