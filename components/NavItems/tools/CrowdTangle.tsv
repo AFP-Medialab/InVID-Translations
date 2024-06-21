@@ -20,7 +20,7 @@ ct_sna_result_date	Date	Date	Fecha	Ημερομηνία	Data	Datum	تاريخ
 ct_sna_result_username	Username	Nom d'utilisateur	Nombre de usuario	Όνομα χρήστη	Nome utente	Nutzername	اسم المستخدم
 ct_sna_result_post	Post description	Description du message	Descripción de la publicación	περιγραφή δημοσίευσης	Post Descrizione	Beitragsbeschreibung	وصف المنشور
 ct_user_time_chart_title	Propagation timeline	Frise chronologique de propagation	Línea de tiempo de propagación	Χρονοδιάγραμμα διάδοσης	Timeline della propagazione	Zeitleiste der Ausbreitung	الجدول الزمني للانتشار
-sna_result_go_to_post	Go to Link	Ouvrir le Link	Ir a Link	Μετάβαση στο Link	Vai a LINK.	Gehen Sie zu Link	اذهب إلى الرابط
+twittersna_result_go_to	Go to Link	Ouvrir le Link	Ir a Link	Μετάβαση στο Link	Vai a LINK.	Gehen Sie zu Link	اذهب إلى الرابط
 sna_result_selected_posts	Selected posts	Posts selectionnés	Posts seleccionados	Επιλεγμένα posts	Post selezionati	Ausgewählte Beiträge	المنشورات المختارة
 ct_bubble_chart_title	Bubble chart of top 100 most active accounts	Graphique des 100 comptes les plus actifs	Gráfico de las 100 cuentas más activas	Διάγραμμα φυσαλίδων με τους 100 πιο ενεργούς λογαριασμούς	Grafico a bolle dei primi 100 conti più attivi	Blasendiagramm der 100 aktivsten Konten	مخطط لأكثر 100 حساب نشاطاً
 ct_sna_result_word	Word	Mot	Palabra	Λέξη	Parola	Wort	كلمة
