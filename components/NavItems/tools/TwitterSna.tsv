@@ -1,4 +1,6 @@
 	en	fr	es	el	it	ar	de
+navbar_twitter_sna	Twitter SNA.	Twitter SNA.	Twitter SNA.	Twitter SNA.	Twitter-SNA.	Twitter-SNA.	تويتر SNA
+navbar_twitter_sna_description	It performs social network analysis on Twitter (available on registration)	Fournit un outil d'analyse de réseau social sur Twitter (sur enregistrement)	Provee una herramiento de análisis de redes sociales en Twitter (disponible con registro)	Η ανάλυση των κοινωνικών δικτύων στο Twitter (διαθέσιμο κατά την εγγραφή)	Esegue l'analisi dei social network su Twitter (disponibile sulla registrazione)	Es führt eine Analyse sozialer Netzwerke auf Twitter durch (verfügbar bei Registrierung).	يقوم بإجراء تحليل للشبكات الاجتماعية على تويتر (متاح عند التسجيل) 
 twitterStatsErrorMessage	Please fill the required fields (＊)	Veuillez remplir les champs requis (＊)	Rellene los campos requeridos (＊)	Παρακαλώ συμπληρώστε τα απαιτούμενα πεδία (＊)	Si prega di compilare i campi richiesti (*)	يرجى تعبئة جميع الحقول المطلوبة (*)	Bitte füllen Sie die erforderlichen Felder (＊) aus
 twitter_sna_title	Twitter Social network analysis (beta)	Analyse des réseaux sociaux sur Twitter (beta)	Twitter Análisis de redes sociales (beta)	Ανάλυση κοινωνικού δικτύου Twitter (beta)	Analisi Twitter delle reti sociali (beta)	تحليل الشبكة الاجتماعية على تويتر (بيتا)	Twitter Social Network Analysis (Beta)
 twitter_sna_search	Keyword, URL or #	Mot clé, URL ou #	Palabra clave, URL o #	Λέξη-κλειδί, διεύθυνση URL ή #	Parola chiave, URL o #	الكلمة الرئيسية ، URL أو #	Schlüsselwort, URL oder #
@@ -13,7 +15,6 @@ twitterStats_media_none	none	aucune	ninguna	κανένα	nessuno	لا شيء	kei
 twitterStats_media_images	pictures	images	fotos	εικόνες	immagini	صور	Bilder
 twitterStats_media_videos	videos	vidéos	vídeo	βίντεο	Video	مقاطع فيديو	Videos
 twitterStats_media_medias	media	média	medios de comunicación	μεσο ΜΑΖΙΚΗΣ ΕΝΗΜΕΡΩΣΗΣ	media	الوسائط	Medien
-twitterStats_media_both	both	les deux	ambos	και ταδύο	entrambi	على حد سواء	beide
 twitterStats_media_both	both	les deux	ambos	και τα δύο	entrambi	على حد سواء	beide
 twitter_sna_verified	Verified users Only :	Utilisateurs verifiés uniquement :	Usuarios verificados únicamente :	Μόνο επαληθευμένοι χρήστες:	Solo utenti verificati:	الحسابات الموثوقة فقط:	Nur verifizierte Benutzer:
 twitterStats_verified_no	no	non	no	ναι	no	لا	nein
@@ -112,6 +113,13 @@ twittersna_title_advanced	Advanced tools	Outils avancés	Herramientas avanzadas	
 twitter_sna_searchelement	Search element	Élément de recherche	Elemento de búsqueda	Στοιχείο αναζήτησης	Elemento di ricerca	عنصر البحث	Suchelement
 twitter_sna_selectdate	Select a date	Sélectionnez une date	Seleccione una fecha	Επιλέξτε μια ημερομηνία	Seleziona una data	حدد تاريخ	Wählen Sie ein Datum
 twitter_sna_placholder_tweetedby	Twitter account name	Nom du compte Twitter	Nombre de la cuenta de Twitter	Όνομα λογαριασμού Twitter	Nome account Twitter	اسم حساب تويتر	Twitter -Kontoname
+bubble_chart_title_index	Bubble chart of most active users	Graphique des comptes les plus actifs	Gráfico de las cuentas más activas	Διάγραμμα φυσαλίδων των πιο ενεργών χρηστών	Grafico a bolle degli utenti più attivi	Blasendiagramm der aktivsten Benutzer	مخطط فقاعي لأكثر المستخدمين نشاطاً
+sosem_graph_title2	Socio-semantic graph	Graphe socio-sémantique	Grafo socio-semantico	Κοινωνικο-σημασιολογικό γράφημα	Grafico socio-semantico	Sozio-semantischer Graph	الرسم البياني الاجتماعي الدلالي 
+interaction_graph_open	Open	Ouvrir	Abrir	Ανοιξε	Aprire	Offen	افتح
+interaction_graph_export	Export	Exporter	Exportar	Εξαγωγή	Esportare	Export	صدر
+interaction_graph_open_subtitle	Open in Graph Analysis	Ouvrir dans l'analyse de graphes	Abrir en análisis de grafos	Ανοίξτε την ανάλυση γραφημάτων	Apri nell'analisi del grafico	In Graph Analysis öffnen	افتح تحليل الرسم البياني 
+interaction_graph_export_subtitle	gexf format	format GEXF	format GEXF	μορφή gexf	Formato GEXF.	Gexf-Format	تنسيق gexf 
+twitter_sna_index	Index	Index	Indice	Δείκτης	Indice	Index	مؤشر
 tweet_similarity_title	Tweet Similarity	Similarité des tweets	Tweet similitud	Tweet Ομοιότητα	Tweet somiglianza	تشابه التغريدات	Tweet Ähnlichkeit
 twittersna_title_time	Time	Temps	Hora	χρόνος	Tempo	زمن	Zeit
 twittersna_title_elements	Search elements	Éléments de recherche	Elementos de búsqueda	Στοιχεία αναζήτησης	Elementi di ricerca	عناصر البحث	Suchelemente
