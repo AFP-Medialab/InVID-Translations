@@ -1,24 +1,3 @@
 	en	fr	es	el	it	ar	de
 c2pa_title	C2pa	C2pa	C2pa	C2pa	C2pa	C2pa	C2pa
 c2pa_results_title	Results	Résultats	Resultados	Αποτελέσματα	Risultati	نتائج	Ergebnisse
-c2pa_information	C2pa information	Informations c2pa	Información c2pa	Πληροφορίες c2pa	Informazioni c2pa	معلومات c2pa	C2pa-Informationen
-no_c2pa_info	No c2pa data available for this image.	Aucune donnée c2pa disponible pour cette image.	No hay datos c2pa disponibles para esta imagen.	Δεν υπάρχουν διαθέσιμα δεδομένα c2pa για αυτήν την εικόνα.	Nessun dato c2pa disponibile per questa immagine.	لا توجد بيانات c2pa متاحة لهذه الصورة.	Keine c2pa-Daten für dieses Bild verfügbar.
-content_credentials_unknown_source	This content credential was issued by an unknown source.	Cette attestation de contenu a été émise par une source inconnue.	Esta credencial de contenido fue emitida por una fuente desconocida.	Αυτή η διαπίστευση περιεχομένου εκδόθηκε από άγνωστη πηγή.	Questa credenziale di contenuto è stata emessa da una fonte sconosciuta.	تم إصدار هذه الشهادة من قبل مصدر غير معروف.	Dieses Inhaltszertifikat wurde von einer unbekannten Quelle ausgestellt
-content_credentials_invalid	This content credential is not valid, meaning anyone could have modified this image's c2pa information.	Cette attestation de contenu n'est pas valide, ce qui signifie que n'importe qui aurait pu modifier les informations c2pa de cette image.	Esta credencial de contenido no es válida, lo que significa que cualquiera podría haber modificado la información c2pa de esta imagen.	Αυτή η διαπίστευση περιεχομένου δεν είναι έγκυρη, που σημαίνει ότι οποιοσδήποτε θα μπορούσε να έχει τροποποιήσει τις πληροφορίες c2pa αυτής της εικόνας.	Questa credenziale di contenuto non è valida, il che significa che chiunque potrebbe aver modificato le informazioni c2pa di questa immagine.	هذه الشهادة غير صالحة، مما يعني أن أي شخص يمكن أن يكون قد عدل معلومات c2pa لهذه الصورة.	Diese Inhaltszertifikat ist nicht gültig, was bedeutet, dass jeder die c2pa-Informationen dieses Bildes hätte ändern können.
-content_credentials_issuer	Issuer	Émetteur	Emisor	Εκδότης	Emittente	المُصدِر	Aussteller
-content_credentials_date_issued	Date issued	Date d'émission	Fecha de emisión	Ημερομηνία έκδοσης	Data di emissione	تاريخ الإصدار	Ausstellungsdatum
-credit_title	Credit	Crédit	Crédito	Πίστωση	Credito	الائتمان	Kredit
-credit_producer	Produced by:	Produit par : 	Producido por: 	Παραγωγή από: 	Prodotto da: 	تم الإنتاج بواسطة: 	Produziert von: 
-credit_social	Socials	Réseaux sociaux	Redes sociales	Κοινωνικά δίκτυα	Social	وسائل التواصل الاجتماعي	Soziale Netzwerke
-credit_no_info	No producer information for this image	Aucune information sur le producteur pour cette image	No hay información del productor para esta imagen	Δεν υπάρχουν πληροφορίες παραγωγού για αυτήν την εικόνα	Nessuna informazione sul produttore per questa immagine	لا توجد معلومات عن المنتج لهذه الصورة	Keine Produzenteninformationen für dieses Bild
-capture_info_title	Capture Information	Informations de capture	Información de captura	Πληροφορίες λήψης	Informazioni di acquisizione	معلومات الالتقاط	Aufnahmeinformationen
-capture_info_make	Make	Marque	Marca	Μάρκα	Marca	تصنيع	Marke
-capture_info_model	Model	Modèle	Modelo	Μοντέλο	Modello	نموذج	Modell
-capture_info_date	Date	Date	Fecha	Ημερομηνία	Data	تاريخ	Datum
-capture_info_longitude	Longitude	Longitude	Longitud	Γεωγραφικό μήκος	Longitudine	خط الطول	Länge
-capture_info_latitude	Latitude	Latitude	Latitud	Γεωγραφικό πλάτος	Latitudine	خط العرض	Breite
-capture_no_info	No capture information available.	Aucune information de capture disponible.	No hay información de captura disponible.	Δεν υπάρχουν διαθέσιμες πληροφορίες λήψης.	Nessuna informazione di acquisizione disponibile.	لا توجد معلومات التقاط متاحة.	Keine Aufnahmeinformationen verfügbar.
-process_title	Creation Process	Processus de création	Proceso de creación	Διαδικασία δημιουργίας	Processo di creazione	عملية الإنشاء	Erstellungsprozess
-process_no_info	No process information for this image.	Aucune information sur le processus pour cette image.	No hay información sobre el proceso para esta imagen.	Δεν υπάρχουν πληροφορίες για τη διαδικασία για αυτήν την εικόνα.	Nessuna informazione sul processo per questa immagine.	لا توجد معلومات عن العملية لهذه الصورة.	Keine Prozessinformationen für dieses Bild.
-previous_image	Previous image	Image précédente	Imagen anterior	Προηγούμενη εικόνα	Immagine precedente	الصورة السابقة	Vorheriges Bild
-first_image	First image	Première image	Primera imagen	Πρώτη εικόνα	Prima immagine	الصورة الأولى	Erstes Bild
