@@ -18,3 +18,7 @@ capture_info_date	Date	Date	Fecha	Ημερομηνία	Data	تاريخ	Datum
 capture_info_longitude	Longitude	Longitude	Longitud	Γεωγραφικό μήκος	Longitudine	خط الطول	Länge
 capture_info_latitude	Latitude	Latitude	Latitud	Γεωγραφικό πλάτος	Latitudine	خط العرض	Breite
 capture_no_info	No capture information available.	Aucune information de capture disponible.	No hay información de captura disponible.	Δεν υπάρχουν διαθέσιμες πληροφορίες λήψης.	Nessuna informazione di acquisizione disponibile.	لا توجد معلومات التقاط متاحة.	Keine Aufnahmeinformationen verfügbar.
+process_title	Creation Process	Processus de création	Proceso de creación	Διαδικασία δημιουργίας	Processo di creazione	عملية الإنشاء	Erstellungsprozess
+process_no_info	No process information for this image.	Aucune information sur le processus pour cette image.	No hay información sobre el proceso para esta imagen.	Δεν υπάρχουν πληροφορίες για τη διαδικασία για αυτήν την εικόνα.	Nessuna informazione sul processo per questa immagine.	لا توجد معلومات عن العملية لهذه الصورة.	Keine Prozessinformationen für dieses Bild.
+previous_image	Previous image	Image précédente	Imagen anterior	Προηγούμενη εικόνα	Immagine precedente	الصورة السابقة	Vorheriges Bild
+first_image	First image	Première image	Primera imagen	Πρώτη εικόνα	Prima immagine	الصورة الأولى	Erstes Bild
