@@ -2,6 +2,7 @@
 synthetic_image_detection_label	Media link	Media lien	Media link	σύνδεσμος πολυμέσων	Collegamento multimediale	رابط الوسائط	Medienlink
 synthetic_image_detection_name	Synthetic Image Detection	Détection d'image synthétique	Detección de imágenes sintéticas	Ανίχνευση συνθετικής εικόνας	Rilevamento di immagini sintetiche	كشف الصور الاصطناعية	Synthetische Bilderkennung
 synthetic_image_detection_placeholder	Paste the URL here	Collez le lien ici	Pega aquí el link	Επικολλήστε τη διεύθυνση σύνδεσμος εδώ	Incolla l'URL qui	الصق عنوان URL هنا	Fügen Sie die URL hier ein
+synthetic_image_detection_image_type	Image type	Type d'image	Tipo de imagen	Τύπος εικόνας	Tipo di immagine	نوع الصورة	Bildtyp
 synthetic_image_detection_results	Results of the clip selected	Résultats du clip sélectionné	Resultados del clip seleccionado	Αποτελέσματα του επιλεγμένου κλιπ	Risultati della clip selezionata	نتائج المقطع المحدد	Ergebnisse des ausgewählten Clips
 synthetic_image_detection_link	Image link	Lien image	Link de la imagen	Σύνδεσμος εικόνας	Collegamento immagine	رابط الصورة	Bildlink
 synthetic_image_detection_gan_name	GAN	RAG	RAG	GAN	GAN	GAN	GAN
