@@ -143,7 +143,7 @@ Politics	Politics	Politique	Política	Πολιτική	Politica	سياسة	Polit
 International_Relations	International Relations	Relations internationales	Relaciones internacionales	Διεθνείς σχέσεις	Relazioni internazionali	العلاقات الدولية	Internationale Beziehungen
 news_genre	Genre	Genre	Género	Είδος	Genere	النوع	Genre
 news_genre_tooltip	Determine whether the text is most likely to be an opinion piece, objective news reporting, or satire.	Déterminez si le texte est susceptible d’être un article d’opinion, un reportage d’actualité objectif ou une satire.	Determinar si es más probable que el texto sea un artículo de opinión, un reportaje periodístico objetivo o una sátira.	Προσδιορίστε εάν το κείμενο είναι πιο πιθανό να είναι ένα άρθρο γνώμης, αντικειμενική αναφορά ειδήσεων ή σάτιρα.	Determina se è più probabile che il testo sia un articolo di opinione, un resoconto obiettivo o una satira.	حدد ما إذا كان النص من المرجح أن يكون مقال رأي، أو تقريرًا إخباريًا موضوعيًا، أو هجاءً.	Bestimmen Sie, ob es sich bei dem Text eher um einen Meinungsbeitrag, eine objektive Berichterstattung oder um Satire handelt.
-Opinionated_News	Opinionated News	Actualités biaisées	Noticias sesgadas	Προκατειλημμένες ειδήσεις	Notizie di parte	أخبار متحيزة	Meinungsbasierte Nachrichten
+Opinion	Opinionated News	Actualités biaisées	Noticias sesgadas	Προκατειλημμένες ειδήσεις	Notizie di parte	أخبار متحيزة	Meinungsbasierte Nachrichten
 Reporting	Objective reporting	Reportage objectif	Informes objetivos	Αντικειμενική αναφορά	Reportage obiettivo	تقرير موضوعي	Objektive Berichterstattung
 Satire	Satire	Satire	Satira	Σάτιρα	Satira	الهجاء	Satire
 persuasion_techniques	Persuasion Techniques	Techniques de Persuasion	Técnicas de Persuasión	Τεχνικές πειθούς	Tecniche di Persuasione	تقنيات الإقناع	Überzeugungstechniken
@@ -152,27 +152,27 @@ detected_techniques	Detected techniques	Techniques détectées	Técnicas detecta
 no_detected_categories	No detected categories	Aucune catégorie détectée	No se detectaron categorías	Δεν εντοπίστηκαν κατηγορίες	Nessuna categoria rilevata	لم يتم اكتشاف فئات	Keine Kategorien erkannt
 Appeal_to_Authority	Appeal to Authority	Appel à l'autorité	Apelación a la autoridad	Έκκληση στην αυθεντία	Appello all'autorità	الاحتكام إلى السلطة	Berufung auf Autorität
 Appeal_to_Popularity	Appeal to Popularity	Appel à la popularité	Apelación a la popularidad	Έκκληση στη δημοφιλία	Appello alla popolarità	الاحتكام إلى الشعبية	Appell an die Beliebtheit
-Appeal_to_values	Appeal to values	Appel aux valeurs	Apelación a los valores	Έκκληση στις αξίες	Appello ai valori	الاحتكام إلى القيم	Berufung auf Werte
-Appeal_to_fear/prejudice	Appeal to fear/prejudice	Appel à la peur/préjugé	Apelación al miedo/prejuicio	Έκκληση στον φόβο/προκατάληψη	Appello alla paura/pregiudizio	الاحتكام إلى الخوف/التحيز	Appell an Angst/Vorurteil
+Appeal_to_Values	Appeal to values	Appel aux valeurs	Apelación a los valores	Έκκληση στις αξίες	Appello ai valori	الاحتكام إلى القيم	Berufung auf Werte
+Appeal_to_Fear-Prejudice	Appeal to fear/prejudice	Appel à la peur/préjugé	Apelación al miedo/prejuicio	Έκκληση στον φόβο/προκατάληψη	Appello alla paura/pregiudizio	الاحتكام إلى الخوف/التحيز	Appell an Angst/Vorurteil
 Flag_Waving	Flag Waving	Agitation du drapeau	Agitación de la bandera	Κραδαίνοντας τη σημαία	Sventolare la bandiera	التلويح بالعلم	Fahnen schwenken
-Causal_oversimplification	Causal oversimplification	Simplification causale excesiva	Sobresimplificación causal	Απλοποίηση της αιτίας	Estrema semplificazione causale	الاختزال السببي المفرط	Kausale Übersimplifizierung
-False_dilemma_or_no_choice	False dilemma or no choice	Faux dilemme ou aucun choix	Falsa disyuntiva o sin elección	Ψευδές δίλημμα ή καμία επιλογή	Falso dilemma o nessuna scelta	خيار زائف أو بدون اختيار	Falsches Dilemma oder keine Wahl
-Consequential_oversimplification	Consequential oversimplification	Simplification conséquente	Exagerada simplificación de consecuencias	Συνεπαγόμενη απλοποίηση	Semplificazione conseguente	تبسيط النتائج المترتبة عليها Konsequente	Übervereinfachung
-Straw_man	Straw man	Homme de paille	Hombre de paja	Αχυρένιος άνθρωπος	Uomo di paglia	الرجل القش	Scheinargument
-Red_herring	Red herring	Fausse piste	Cortina de humo	Δόλωμα	Falsa pista	شاشة دخان	Finte Fährte
+Causal_Oversimplification	Causal oversimplification	Simplification causale excesiva	Sobresimplificación causal	Απλοποίηση της αιτίας	Estrema semplificazione causale	الاختزال السببي المفرط	Kausale Übersimplifizierung
+False_Dilemma-No_Choice	False dilemma or no choice	Faux dilemme ou aucun choix	Falsa disyuntiva o sin elección	Ψευδές δίλημμα ή καμία επιλογή	Falso dilemma o nessuna scelta	خيار زائف أو بدون اختيار	Falsches Dilemma oder keine Wahl
+Consequential_Oversimplification	Consequential oversimplification	Simplification conséquente	Exagerada simplificación de consecuencias	Συνεπαγόμενη απλοποίηση	Semplificazione conseguente	تبسيط النتائج المترتبة عليها Konsequente	Übervereinfachung
+Straw_Man	Straw man	Homme de paille	Hombre de paja	Αχυρένιος άνθρωπος	Uomo di paglia	الرجل القش	Scheinargument
+Red_Herring	Red herring	Fausse piste	Cortina de humo	Δόλωμα	Falsa pista	شاشة دخان	Finte Fährte
 Whataboutism	Whataboutism	Quidisme	Québoutismo	Τιμισμός	Qualunquismo	التلاعب بالقضايا	Whataboutismus
 Slogans	Slogans	Slogans	Eslogans	Συνθήματα	Slogan	الشعارات	Slogans
-Appeal_to_time	Appeal to time	Appel au temps	Apelación al tiempo	Έκκληση στο χρόνο	Appello al tempo	الاحتكام إلى الوقت	Appell an die Zeit
-Conversation_killer	Conversation killer	Tueur de conversation	Asesino de conversaciones	Δολοφόνος συνομιλίας	Assassino di conversazioni	قاتل المحادثة	Gesprächskiller
+Appeal_to_Time	Appeal to time	Appel au temps	Apelación al tiempo	Έκκληση στο χρόνο	Appello al tempo	الاحتكام إلى الوقت	Appell an die Zeit
+Conversation_Killer	Conversation killer	Tueur de conversation	Asesino de conversaciones	Δολοφόνος συνομιλίας	Assassino di conversazioni	قاتل المحادثة	Gesprächskiller
 Loaded_Language	Loaded language	Langage biaisé	Lenguaje sesgado	Φορτισμένη γλώσσα	Linguaggio carico	لغة محملة	Voreingenommene Sprache
 Repetition	Repetition	Répétition	Repetición	Επανάληψη	Ripetizione	التكرار	Wiederholung
-Exaggeration_or_minimisation	Exaggeration or minimisation	Exagération ou minimisation	Exageración o minimización	Υπερβολή ή ελαχιστοποίηση	Esagerazione o minimizzazione	المبالغة أو التقليل	Übertreibung oder Minimierung
-Obfuscation_vagueness_or_confusion	Obfuscation - vagueness or confusion	Obscurcissement - vagueness ou confusion	Ofuscación - vaguedad o confusión	Συγκαλυμμένη σύγχυση	Offuscamento - vaghezza o confusione	التعتيم - الغموض أو الارتباك	Verschleierung - Unklarheit oder Verwirrung
-Name_calling_or_labeling	Name calling or labeling	Appel d'injures ou d'étiquettes	Insultos o etiquetado	Χαρακτηρισμοί ή ταμπέλες	Denigrazione o etichettatura	التسمية أو التسمية	Beleidigungen oder Etikettierung
+Exaggeration-Minimisation	Exaggeration or minimisation	Exagération ou minimisation	Exageración o minimización	Υπερβολή ή ελαχιστοποίηση	Esagerazione o minimizzazione	المبالغة أو التقليل	Übertreibung oder Minimierung
+Obfuscation-Vagueness-Confusion	Obfuscation - vagueness or confusion	Obscurcissement - vagueness ou confusion	Ofuscación - vaguedad o confusión	Συγκαλυμμένη σύγχυση	Offuscamento - vaghezza o confusione	التعتيم - الغموض أو الارتباك	Verschleierung - Unklarheit oder Verwirrung
+Name_Calling-Labeling	Name calling or labeling	Appel d'injures ou d'étiquettes	Insultos o etiquetado	Χαρακτηρισμοί ή ταμπέλες	Denigrazione o etichettatura	التسمية أو التسمية	Beleidigungen oder Etikettierung
 Doubt	Doubt	Doute	Duda	Αμφιβολία	Dubbio	الشك	Zweifel
-Guilt_by_association	Guilt by association	Culpabilité par association	Culpabilidad por asociación	Ενοχή λόγω συσχέτισης	Colpa per associazione	الذنب بالارتباط	Schuld durch Assoziation
+Guilt_by_Association	Guilt by association	Culpabilité par association	Culpabilidad por asociación	Ενοχή λόγω συσχέτισης	Colpa per associazione	الذنب بالارتباط	Schuld durch Assoziation
 Appeal_to_Hypocrisy	Appeal to Hypocrisy	Appel à l'hypocrisie	Apelación a la hipocresía	Έκκληση στην υποκρισία	Appello all'ipocrisia	الاحتكام إلى النفاق	Berufung auf Heuchelei
-Questioning_the_reputation	Questioning the reputation	Remise en question de la réputation	Cuestionar la reputación	Αμφισβήτηση της φήμης	Mettere in discussione la reputazione	التشكيك في السمعة	Infragestellen des Rufs
+Questioning_the_Reputation	Questioning the reputation	Remise en question de la réputation	Cuestionar la reputación	Αμφισβήτηση της φήμης	Mettere in discussione la reputazione	التشكيك في السمعة	Infragestellen des Rufs
 subjectivity	Subjectivity	Subjectivité	Subjetividad	Υποκειμενικότητα	Soggettività	الذاتية	Subjektivität
 subjectivity_tooltip	Identify the subjective sentences of the extracted text.	Identifier les phrases subjectives du texte extrait.	Identificar las oraciones subjetivas del texto extraído.	Να εντοπίσετε τις υποκειμενικές προτάσεις του εξαγόμενου κειμένου.	Identificare le frasi soggettive del testo estratto.	حدد الجمل الذاتية للنص المستخرج.	Identifizieren Sie die subjektiven Sätze des extrahierten Textes.
 subjective_sentences_detected	Subjective sentences detected	Phrases subjectives détectées	Se detectaron oraciones subjetivas	Εντοπίστηκαν υποκειμενικές προτάσεις	Frasi soggettive rilevate	تم الكشف عن الجمل الموضوعية	Subjektive Sätze erkannt
