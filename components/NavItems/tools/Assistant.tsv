@@ -13,8 +13,7 @@ assistant_urlbox	URL	Adresse URL	URL	Σύνδεσμος	URL	عنوان URL	URL
 assistant_give_url	Give the URL of the page to analyse	Donnez l'URL de la page pour analyser	Dar la URL de la página a analizar	Δώστε τη διεύθυνση URL της σελίδας για να αναλύσει	Dare l'URL della pagina da analizzare	ضع عنوان URL للصفحة لتحليها	Geben Sie die URL der Seite zur Analyse ein
 assistant_paste_url	Paste the URL here	Coller l'URL ici	Pegar la URL aquí	Επικολλήστε τη διεύθυνση URL εδώ	Incolla l'URL qui	الصق عنوان URL هنا	Fügen Sie die URL hier ein
 please_give_a_correct_link	The link provided is incorrect or not supported.	Le lien fourni est incorrect ou n'est pas pris en charge.	El enlace proporcionado es incorrecto o no es compatible.	Ο σύνδεσμος που παρέχεται είναι εσφαλμένος ή δεν υποστηρίζεται.	Si prega di fornire un link corretto	الرابط المقدم غير صحيح أو غير مدعوم.	Der bereitgestellte Link ist falsch oder nicht unterstützt.
-button_analyse	Analyse	Analyser	Analizar	Αναλύει	Analizzare	تحليل	Analysieren
-button_clean	Remove	Effacer	Borrar	Αφαιρέστε	Rimuovere	إزالة	Entfernen
+button_submit	Submit	Soumettre	Enviar	Υποβάλλω	Invia	إرسال	Einreichen
 save	Save	Enregistrer	Gardar	Αποθήκευση	Salva	حفظ	Speichern
 source_credibility_title	Source Credibility	Crédibilité de la source	fuente credibilidad	αξιοπιστία πηγή	Credibilità della fonte	مصداقية المصدر	Glaubwürdigkeit der Quelle
 source_credibility_byline	The source has been found as part of a credibility check	Cette source a été repérée lors d'une vérification de crédibilité	La fuente se ha encontrado como parte de un control de la credibilidad	Η πηγή έχει βρεθεί ως μέρος του ελέγχου αξιοπιστίας	La fonte è stata trovata come parte di un controllo credibilità	تم العثور على المصدر كجزء من فحص المصداقية	Die Quelle wurde als Teil einer Glaubwürdigkeitsprüfung gefunden
