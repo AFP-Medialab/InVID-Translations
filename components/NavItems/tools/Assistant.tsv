@@ -44,6 +44,8 @@ navbar_metadata	Metadata	Metadonnées	Metadatos	μεταδεδομένα	Metadat
 navbar_rights	Video rights	Droits vidéo	Derechos video	Βίντεο δικαιώματα	Diritti video	حقوق الفيديو	Videorechte
 navbar_forensic	Forensic	Forensic	Forensic	Δικανικός λυση	Forensic	التحقق الرقمي للصور	Forensische Untersuchung
 navbar_ocr	OCR	OCR	OCR	OCR	OCR	OCR	Texterkennung
+synthetic_image_detection	Synthetic Image Detection	Détection d'image synthétique	Detección de imágenes sintéticas	Ανίχνευση συνθετικής εικόνας	Rilevamento di immagini sintetiche	كشف الصور الاصطناعية	Synthetische Bilderkennung
+deepfake_image	Deepfake	Deepfake	Deepfake	Deepfake	Deepfake	تزوير عميق	Deepfake
 navbar_twitter_sna	Fact Check	Factuel	Factual	γεγονός Έλεγχος	Facktcheck	تدقيق المعلومة	Faktencheck
 navbar_assistant	Assistant	Assistant	Asistente	Βοηθός	Assistente	المساعد	Assistent
 assistant_help_title	Assistant Help	Aide de l'Assistant	Ayuda del assistente	Βοηθός Βοήθεια	Assistente aiuto	الدعم الفني	Assistent Hilfe
@@ -77,6 +79,8 @@ metadata_text	Retrieve image/video metadata	Récupérer les métadonnées image 
 rights_text	Retrieve information solely about video rights	Récupérer les informations sur les droits de la vidéo	Recuperar información únicamente sobre los derechos del vídeo	Ανάκτηση πληροφοριών αποκλειστικά και μόνο για το βίντεο δικαιώματα	Recuperare informazioni esclusivamente sui diritti video	استرداد المعلومات المتعلقة بحقوق الفيديو فقط	Abrufen Sie Informationen ausschließlich über Videorechte ab
 forensic_text	Detect any image manipulation	Détecter des manipulations dans l'image	Detectar cualquier manipulación de imágenes	Εντοπισμός τυχόν χειραγώγηση της εικόνας	Rileva qualsiasi manipolazione delle immagini	كشف أي تلاعب بالصور	Jegliche Bildmanipulation erkennen
 ocr_text	Extract any text from the image	Extraire le texte de l'image	Extraer cualquier texto de la imagen	Απόσπασμα οποιοδήποτε κείμενο από την εικόνα	Estrai qualsiasi testo dall'immagine	استخراج أي نص من الصورة	Extrahieren Sie einen beliebigen Text aus dem Bild
+synthetic_image_detection_text	Determine AI-generation probability	Déterminer la probabilité de génération IA	Determinar la probabilidad de generación de IA	Προσδιορίστε την πιθανότητα παραγωγής AI	Determinare la probabilità di generazione AI	تحديد احتمال توليد الذكاء الاصطناعي	Bestimmen Sie die Wahrscheinlichkeit der KI-Generierung
+deepfake_image_text	Detect face swapping	Détecter l'échange de visage	Detectar el intercambio de rostros	Ανιχνεύστε την ανταλλαγή προσώπου	Rilevare lo scambio di volto	كشف تبديل الوجه	Gesichtsvertauschung erkennen
 hyperpartisan_title	Hyperpartisan service	Service de détection de contenu hyperpartisan	servicio hiperpartisan	υπηρεσία Hyperpartisan	Servizio iperpartitico	خدمة الكشف عن التشدد الحزبي (Hyperpartisan)	HyperPartisan -Service
 dbkf_text_title	Database of known fakes text search	Recherche textuelle dans la base de faux connus	Búsqueda de texto en la base de datos de falsificaciones conocidas	Βάση δεδομένων των γνωστών αναζήτηση προϊόντων απομίμησης κείμενο	Database di ricerca testuale di falsi noti	قاعدة بيانات البحث عن النصوص المزيفة المعروفة	Datenbank der bekannten Fakes -Textsuche
 dbkf_media_title	Database of known fakes media search	Recherche d'image dans la base de faux connus	Búsqueda de imagen en la base de datos de falsificaciones conocidas	Βάση δεδομένων των γνωστών αναζήτηση προϊόντων απομίμησης ΜΜΕ	Database di ricerca multimediale di falsi noti	قاعدة بيانات البحث عن الوسائط المزيفة المعروفة	Datenbank der bekannten Fakes -Mediensuche
