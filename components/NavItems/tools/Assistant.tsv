@@ -201,3 +201,8 @@ likely_machine	Likely machine generated	Probablement généré par une machine	P
 highly_likely_machine	Highly likely machine generated	Très probablement généré par une machine	Muy probablemente generado por una máquina	Πιθανότατα δημιουργημένο από μηχανή	Molto probabilmente generato da una macchina	من المحتمل جدًا أن يكون تم إنشاؤه بواسطة آلة	Sehr wahrscheinlich von einer Maschine generiert
 expand_minimise_text	Expand or minimise text	Développer ou réduire le texte	Expandir o minimizar el texto	Επέκταση ή ελαχιστοποίηση κειμένου	Espandi o riduci il testo	توسيع أو تصغير النص	Text erweitern oder minimieren
 copy_to_clipboard	Copy to Clipboard	Copier dans le presse-papier	Copiar al portapapeles	Αντιγραφή στο πρόχειρο	Copia negli appunti	نسخ إلى الحافظة	In die Zwischenablage kopieren
+id	ID	ID	ID	ID	ID	ID	ID
+status	Status	État	Estado	Κατάσταση	Stato	حالة	Status
+domain_scope	Domain	Domaine	Dominio	Τομέας	Dominio	مجال	Domain
+details	Details	Détails	Detalles	Λεπτομέρειες	Dettagli	تفاصيل	Details
+options	Options	Options	Επιλογές	Opzioni	خيارات	Optionen
