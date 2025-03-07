@@ -1,6 +1,7 @@
 	en	fr	es	el	it	ar	de	ja
 deepfake_label	Media link	Media lien	Media link	σύνδεσμος πολυμέσων	Link multimediale	رابط الوسائط	Medienlink	メディアリンク
 deepfake_name	Deepfake	Deepfake	Deepfake	Deepfake	Deepfake	تزوير عميق	Deepfake	ディープフェイク
+deepfake_image_title	Face swap	Échange de visage	Intercambio de caras	Ανταλλαγή προσώπου	Scambio di volti	تبديل الوجه	Gesichtstausch	フェイススワップ
 deepfake_placeholder	Paste the URL here	Collez le lien ici	Pega aquí el link	Επικολλήστε τη διεύθυνση σύνδεσμος εδώ	Incolla l'URL qui	الصق عنوان URL هنا	Fügen Sie die URL hier ein	ここにURLを貼り付けてください
 deepfake_support	Your browser does not support the video tag.	Votre navigateur ne prend pas en charge la balise vidéo.	Su navegador no soporta la etiqueta de vídeo.	Το πρόγραμμα περιήγησής σας δεν υποστηρίζει την ετικέτα βίντεο.	Il tuo browser non supporta il video tag.	متصفحك الحالي لا يدعم تشغيل الفيديو.	Ihr Browser unterstützt das Video -Tag nicht.	お使いのブラウザはvideoタグをサポートしていません。
 deepfake_clips	Clips of the video	Clips de la vidéo	Clips del vídeo	Αποσπάσματα του βίντεο	Clip del video	مقاطع فيديو	Clips des Videos	動画のクリップ
