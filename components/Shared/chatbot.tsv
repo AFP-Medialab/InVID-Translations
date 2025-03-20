@@ -1,5 +1,3 @@
 	en	fr	es	el	it	ar	de	ja
 chatbot_prompt	Message	Message	Mensaje	Μήνυμα	Messaggio	رسالة	Nachricht	メッセージ
-hide_chatbot    Hide chatbot    Masquer le chatbot    Ocultar el chatbot    Απόκρυψη chatbot    Nascondi chatbot    إخفاء روبوت الدردشة    Chatbot ausblenden    チャットボットを非表示
-show_chatbot    Show chatbot    Afficher le chatbot    Mostrar el chatbot    Εμφάνιση chatbot    Mostra chatbot    إظهار روبوت الدردشة    Chatbot anzeigen    チャットボットを表示
-submit_button	Submit	Envoyer	Enviar	Υποβολή	Invia	إرسال	Einreichen	送信
+chatbot_submit_button	Submit	Envoyer	Enviar	Υποβολή	Invia	إرسال	Einreichen	送信
