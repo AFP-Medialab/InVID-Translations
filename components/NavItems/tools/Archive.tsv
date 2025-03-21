@@ -60,4 +60,8 @@ step3_radio_wbm	There was an issue with replaying the archive (try another metho
 step3_radio_helper_text	Please select an option	S'il vous plaît sélectionnez une option	Por favor, seleccione una opción	Παρακαλώ επιλέξτε μια επιλογή	Per favore, seleziona un'opzione	يرجى تحديد خيار	Bitte wählen Sie eine Option	オプションを選択してください
 step4_title	Upload the WACZ file	Téléchargez le fichier WACZ	Cargue el archivo WACZ	Ανεβάστε το αρχείο WACZ	Carica il file WACZ	تحميل ملف WACZ	Laden Sie die WACZ-Datei hoch	WACZファイルをアップロードしてください
 step5_file_name	File name	Nom du fichier	Nombre de archivo	Όνομα αρχείου	Nome del file	اسم الملف	Dateiname	ファイル名
-
+convert_singlefile	Convert	Convertir	Convertir	Μετατροπή	Convertire	تحويل	Konvertieren	変換する
+upload_singlefile	Upload the Singlefile	Télécharger le Singlefile	Subir el Singlefile	Ανεβάστε το αρχείο	Carica il Singlefile	Singlefile قم بتحميل	Die Singlefile hochladen	ファイルをアップロードする
+step2_singlefile_title	Use Singlefile	Utiliser Singlefile	Usar Singlefile	Χρησιμοποιήστε το αρχείο	Usa Singlefile	Singlefile استخدم	Verwenden Sie Singlefile	ファイルを使用する
+step2_singlefile_subtitle	Convert Singlefile HTML into WACZ	Convertir Singlefile HTML en WACZ	Convertir Singlefile HTML en WACZ	Μετατροπή του αρχείου HTML σε WACZ	Converti Singlefile HTML in WACZ	WACZ إلى Singlefile HTML حول	Konvertieren Sie Singlefile HTML in WACZ	ファイルのHTMLをWACZに変換する
+singlefile_warning	Still testing	Encore en test	Aún en pruebas	Ακόμα σε δοκιμή	Ancora in fase di test	Singlefile لا يزال قيد الاختبار	Noch im Test	まだテスト中
