@@ -74,3 +74,5 @@ synthetic_image_detection_ndd_table_header_4	Score #	Score #	Puntuación #	Βα�
 synthetic_image_detection_ndd_table_header_5	Archive URL	URL d'archive	URL de archivo	Σύνδεσμος αρχείου	URL di archivio	رابط الأرشيف	Archiv-URL	アーカイブURL
 synthetic_image_detection_ndd_table_header_6	Image URLs	URLs des images	URLs de imágenes	Σύνδεσμοι εικόνων	URL delle immagini	روابط الصور	Bild-URLs	画像の URL
 synthetic_image_detection_ndd_table_header_7	Open analysis	Ouvrir l'analyse	Abrir análisis	Άνοιγμα ανάλυσης	Apri analisi	فتح التحليل	Analyse öffnen	オープン解析
+synthetic_image_detection_hide_chatbot    Hide chatbot    Masquer le chatbot    Ocultar el chatbot    Απόκρυψη chatbot    Nascondi chatbot    إخفاء روبوت الدردشة    Chatbot ausblenden    チャットボットを非表示
+synthetic_image_detection_show_chatbot    Show chatbot    Afficher le chatbot    Mostrar el chatbot    Εμφάνιση chatbot    Mostra chatbot    إظهار روبوت الدردشة    Chatbot anzeigen    チャットボットを表示
