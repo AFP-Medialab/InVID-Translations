@@ -30,7 +30,7 @@ navbar_twitter_crowdtangle	CSV Analysis	Analyse CSV	Analisis CSV	Ανάλυση 
 navbar_synthetic_image_detection	Synthetic image	Images synthétiques	Imágenes sintéticas	Συνθετική εικόνα	Immagine sintetica	صورة اصطناعية	Synthetische Medien	合成画像
 navbar_loccus	Hiya	Hiya	Hiya	Hiya	Hiya	Hiya	Hiya	Hiya
 navbar_semantic_search	Fact Check Semantic Search	Recherche sémantique de Fact Check	Búsqueda semántica de Fact Check	Σημασιολογική αναζήτηση του Fact Check	Ricerca semantica di Fact Check	بحث دلالي لـ Fact Check	Semantische Suche von Fact Check	ファクトチェックセマンティック検索
-navbar_deepfake_image	Deepfake	Deepfake	Deepfake	Deepfake	Deepfake	تزييف عميق	Deepfake	ディープフェイク
+navbar_deepfake_image	Face swap	Échange de visage	Intercambio de caras	Ανταλλαγή προσώπου	Scambio di volti	تبديل الوجه	Gesichtstausch	フェイススワップ
 navbar_geolocation	Geolocalizer	Géolocalisation	Geolocalizador	Geolocalizer	Geolocalizzazione	تحديد الموقع الجغرافي	Geolokalisierung	ジオローカライザー
 navbar_verification	Verification	Vérification	Verificación	Επαλήθευση	Verifica	تحقُق	Überprüfung	検証
 navbar_verification_short	Verifi...	Vérifi...	Verifi...	Επαλή...	Verifi...	verifi ...	Verifi ...	検証...
@@ -48,3 +48,6 @@ navbar_category_data	Data analysis	Analyse des données	Análisis de datos	Αν�
 navbar_category_other	Other tools	Autres outils	Otras herramientas	Άλλα εργαλεία	Altri strumenti	أدوات أخرى	Andere Werkzeuge	その他のツール
 navbar_collapse	Hide	Masquer	Ocultar	Απόκρυψη	Nascondi	إخفاء	Einklappen	非表示
 navbar_c2pa	Provenance (C2PA)	Provenance (C2PA)	Procedencia (C2PA)	Προέλευση (C2PA)	Provenienza (C2PA)	الأصل (C2PA)	Provenienz (C2PA)	出所情報(C2PA)
+color_mode_system	System	Système	Sistema	Σύστημα	Sistema	نظام	System	システム
+color_mode_light	Light	Mode clair	Modo claro	Φωτεινή λειτουργία	Mod. chiaro	وضع فاتح	Heller Modus	ライトモード
+color_mode_dark	Dark	Mode sombre	Modo oscuro	Σκούρα λειτουργία	Mod. scuro	وضع داكن	Dunkler Modus	ダークモード
