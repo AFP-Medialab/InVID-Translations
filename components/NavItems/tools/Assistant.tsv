@@ -223,7 +223,7 @@ gauge_no_detection	No detection	Aucune détection	Sin detección	Χωρίς αν
 gauge_additional_results	Detection details	Détails de la détection	Detalles de detección	Λεπτομέρειες ανίχνευσης	Dettagli di rilevamento	تفاصيل الكشف	Erkennungsdetails	検出内容
 gauge_additional_results_hide	Hide detection details	Masquer les détails de la détection	Ocultar detalles de detección	Απόκρυψη λεπτομερειών ανίχνευσης	Nascondi dettagli rilevamento	إخفاء تفاصيل الكشف	Detektiondetails ausblenden	検出の詳細を非表示にする
 gauge_probability_text	Probability:	Probabilité :	Probabilidad:	Πιθανότητα:	Probabilità:	احتمالية:	Wahrscheinlichkeit:	確率:
-gauge_generic_detection_text
+gauge_generic_detection_text								
 gauge_scale_explanation_link	What do the gauge colors mean?	Que signifient les couleurs de la jauge ?	¿Qué significan los colores del indicador?	Τι σημαίνουν τα χρώματα του μετρητή;	Cosa significano i colori del indicatore?	ماذا تعني ألوان العداد؟	Was bedeuten die Farben der Anzeige?	ゲージの色は何を意味しますか?
 gauge_scale_modal_explanation_title	What do the gauge colors mean?	Que signifient les couleurs de la jauge ?	¿Qué significan los colores del indicador?	Τι σημαίνουν τα χρώματα του μετρητή;	Cosa significano i colori del indicatore?	ماذا تعني ألوان العداد؟	Was bedeuten die Farben der Anzeige?	ゲージの色は何を意味しますか?
 gauge_download_gauge_button	Download Gauge Chart as jpeg file	Télécharger le graphique de jauge en tant que fichier jpeg	Descargar gráfico de indicadores como archivo jpeg	Λήψη γραφήματος μέτρησης ως αρχείο jpeg	Scarica il grafico della misura come file jpeg	تحميل مخطط القياس كملف jpeg	Downloaden Sie das Messgerätendiagramm als jpeg-Datei	ゲージチャートをjpegファイルとしてダウンロード
