@@ -1,19 +1,19 @@
-	en	fr	es	el	it	ar	de	ja
-magnifier_title	Image Magnifier	Inspecteur d'image	Amplificador de imagen	Μεγεθυντικός φακός εικόνας	Lente d'ingrandimento	مكبّر الصورة	Lupe	画像拡大鏡
-magnifier_urlbox	Image link	Adresse URL de l'image	URL de la imagen	Διεύθυνση URL εικόνας	Link dell'immagine	رابط الصورة	Bildlink	画像リンク
-magnifier_urlbox_placeholder	Paste the link here	Coller le lien ici	Pegar el enlace	Επικολλήστε τον σύνδεσμο εδώ	Incolla il link qui	الصق الرابط هنا	Fügen Sie den Link hier ein	ここにリンクを貼り付けてください
-button_localfile	Load local file	Fichier local	Cargar fichero local	Τοπικό αρχείο	Carica il file locale	تحميل الملف المحلي	Lokale Datei laden	ローカルファイルをロードする
-button_submit	Submit	Envoyer	Enviar	Υποβολή	Invia	إرسال	Einreichen	送信
-please_give_a_correct_link	Please give a correct link	Donner un lien valide s'il vous plaît	Por favor, dé un enlace válido	Παρακαλώ εισάγετε έναν σωστό σύνδεσμο	Si prega di fornire un link corretto	يرجى إعطاء رابط صحيح	Bitte geben Sie einen korrekten Link an	正しいリンクを貼ってください
-magnifier_google	Google Image	Google Image	Google imágenes	Εικόνα Google	Immagine google	صورة جوجل	Google Bild	Google画像
-magnifier_baidu	Baidu Image	Baidu Image	Baidu imágenes	Εικόνα Baidu	Immagine Baidu	صورة Baidu	Baidu Bild	百度画像
-magnifier_yandex	Yandex Image	Yandex Image	Yandex imágenes	Εικόνα Yandex	Immagine di Yandex	صورة Yandex	Yandex Bild	Yandex画像
-magnifier_tineye	Tineye Image	Tineye Image	Tineye imágenes	Εικόνα Tineye	Immagine di Tineye	صورة Tineye	Tineye Bild	Tineye画像
-magnifier_forensic	Forensic	Forensic	Forensic	Αυθεντικότητα Εικόνων	Legale	التحقق الرقمي للصور	Forensisch	フォレンジック
-quit	Quit	Quitter	Salir	Κλείσιμο	Uscire	خروج	Aufhören	終了
-save	Save	Enregistrer	Gardar	Αποθήκευση	Salva	حفظ	Speichern	保存
-edit_image	Edit Image	Modifier l’image	Editar imagen	Επεξεργασία εικόνας	Modifica immagine	تعديل الصورة	Bild bearbeiten	画像の編集
-download	Download	Télécharger	Descargar	Λήψη	Scarica	تنزيل	Herunterladen	ダウンロード
-reverse_search	Reverse search	Recherche inversée	Búsqueda inversa	Αντίστροφη αναζήτηση	Ricerca inversa	البحث العكسي	Rückwärtssuche	画像検索
-cardheader_source	Source of the image	Origine de l'image	Fuente de la imagen	Πηγή της εικόνας	Fonte dell'immagine	مصدر الصورة	Bildquelle	画像の出典
-cardheader_results	Results	Résultats	Resultados	Αποτελέσματα	Risultati	نتائج	Ergebnisse	結果
+	en	fr	es	el	it	ar	de	ja	hu	br
+magnifier_title	Image Magnifier	Inspecteur d'image	Amplificador de imagen	Μεγεθυντικός φακός εικόνας	Lente d'ingrandimento	مكبّر الصورة	Lupe	画像拡大鏡	Képnagyító	Amplificador de imagem
+magnifier_urlbox	Image link	Adresse URL de l'image	URL de la imagen	Διεύθυνση URL εικόνας	Link dell'immagine	رابط الصورة	Bildlink	画像リンク	Kép link	URL da imagem
+magnifier_urlbox_placeholder	Paste the link here	Coller le lien ici	Pegar el enlace	Επικολλήστε τον σύνδεσμο εδώ	Incolla il link qui	الصق الرابط هنا	Fügen Sie den Link hier ein	ここにリンクを貼り付けてください	Illessze be ide a linket	Colar o link
+button_localfile	Load local file	Fichier local	Cargar fichero local	Τοπικό αρχείο	Carica il file locale	تحميل الملف المحلي	Lokale Datei laden	ローカルファイルをロードする	Helyi fájl betöltése	Carregar arquivo local
+button_submit	Submit	Envoyer	Enviar	Υποβολή	Invia	إرسال	Einreichen	送信	Küldés	Enviar
+please_give_a_correct_link	Please give a correct link	Donner un lien valide s'il vous plaît	Por favor, dé un enlace válido	Παρακαλώ εισάγετε έναν σωστό σύνδεσμο	Si prega di fornire un link corretto	يرجى إعطاء رابط صحيح	Bitte geben Sie einen korrekten Link an	正しいリンクを貼ってください	Kérjük, adjon meg egy helyes linket	Por favor, forneça um link válido
+magnifier_google	Google Image	Google Image	Google imágenes	Εικόνα Google	Immagine google	صورة جوجل	Google Bild	Google画像	Google Kép	Google Imagens
+magnifier_baidu	Baidu Image	Baidu Image	Baidu imágenes	Εικόνα Baidu	Immagine Baidu	صورة Baidu	Baidu Bild	百度画像	Baidu Kép	Baidu Imagens
+magnifier_yandex	Yandex Image	Yandex Image	Yandex imágenes	Εικόνα Yandex	Immagine di Yandex	صورة Yandex	Yandex Bild	Yandex画像	Yandex Kép	Yandex Imagens
+magnifier_tineye	Tineye Image	Tineye Image	Tineye imágenes	Εικόνα Tineye	Immagine di Tineye	صورة Tineye	Tineye Bild	Tineye画像	Tineye Kép	Tineye Imagens
+magnifier_forensic	Forensic	Forensic	Forensic	Αυθεντικότητα Εικόνων	Legale	التحقق الرقمي للصور	Forensisch	フォレンジック	Kriminalisztikai	Forense
+quit	Quit	Quitter	Salir	Κλείσιμο	Uscire	خروج	Aufhören	終了	Kilépés	Sair
+save	Save	Enregistrer	Gardar	Αποθήκευση	Salva	حفظ	Speichern	保存	Mentés	Salvar
+edit_image	Edit Image	Modifier l’image	Editar imagen	Επεξεργασία εικόνας	Modifica immagine	تعديل الصورة	Bild bearbeiten	画像の編集	Kép szerkesztése	Editar imagem
+download	Download	Télécharger	Descargar	Λήψη	Scarica	تنزيل	Herunterladen	ダウンロード	Letöltés	Baixar
+reverse_search	Reverse search	Recherche inversée	Búsqueda inversa	Αντίστροφη αναζήτηση	Ricerca inversa	البحث العكسي	Rückwärtssuche	画像検索	Fordított keresés	Busca reversa
+cardheader_source	Source of the image	Origine de l'image	Fuente de la imagen	Πηγή της εικόνας	Fonte dell'immagine	مصدر الصورة	Bildquelle	画像の出典	A kép forrása	Fonte da imagem
+cardheader_results	Results	Résultats	Resultados	Αποτελέσματα	Risultati	نتائج	Ergebnisse	結果	Eredmények	Resultados
