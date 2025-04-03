@@ -49,5 +49,13 @@ navbar_category_other	Other tools	Autres outils	Otras herramientas	Άλλα ερ
 navbar_collapse	Hide	Masquer	Ocultar	Απόκρυψη	Nascondi	إخفاء	Einklappen	非表示	Elrejtés	Ocultar
 navbar_c2pa	Provenance (C2PA)	Provenance (C2PA)	Procedencia (C2PA)	Προέλευση (C2PA)	Provenienza (C2PA)	الأصل (C2PA)	Provenienz (C2PA)	出所情報(C2PA)	Eredet (C2PA)	Procedência (C2PA)
 color_mode_system	System	Système	Sistema	Σύστημα	Sistema	نظام	System	システム	Rendszer	Sistema
-color_mode_light	Light	Mode clair	Modo claro	Φωτεινή λειτουργία	Mod. chiaro	وضع فاتح	Heller Modus	ライトモード	Világos	Modo claro
-color_mode_dark	Dark	Mode sombre	Modo oscuro	Σκούρα λειτουργία	Mod. scuro	وضع داكن	Dunkler Modus	ダークモード	Sötét	Modo escuro
+color_mode_light	Light	Clair	Claro	Φωτεινό	Chiaro	فاتح	Hell	ライト	Világos	Claro
+color_mode_dark	Dark	Sombre	Oscuro	Σκούρο	Scuro	داكن	Dunkel	ダーク	Sötét	Escuro
+quiz_unlock_explanations	Unlock Interactive explanations	Déverrouiller les explications de interactif	Desbloquear las explicaciones de la prueba	Ξεκλείδωμα διαδραστικών εξηγήσεων	Sblocca spiegazioni interattive	فتح التفسيرات التفاعلية	interaktive Erklärungen freischalten	鍵がかかった説明文を有効にする	Interaktív magyarázatok feloldása	Desbloquear as explicações da prova
+cookies_usage	Accept Matomo	Accepter Matomo	Aceptar Matomo	Αποδοχή του Matomo	Accetta Matomo	قبول Matomo	Matomo akzeptieren	Matomoを許可する	Matomo elfogadása	Aceitar Matomo
+storage_usage	Keep my preferences	Conserver mes préférences	Conserver mis preferencias	Κρατήστε τις προτιμήσεις μου	Mantieni le mie preferenze	حافظ على تفضيلاتي	Vorlieben behalten	設定を保存	Beállításaim megtartása	Manter minhas preferências
+drawer_settings_title	Settings	Paramètres	Configuración	Ρυθμίσεις	Impostazioni	الإعدادات	Einstellungen	設定	Beállítások	Configurações
+drawer_settings_language	Language	Langue	Idioma	Γλώσσα	Lingua	اللغة	Sprache	言語	Nyelv	Idioma
+drawer_settings_theme	Theme	Thème	Tema	Θέμα	Tema	سمة	Thema	テーマ	Téma	Tema
+drawer_settings_font_size	Font size	Taille de police	Tamaño de fuente	Μέγεθος γραμματοσειράς	Dimensione carattere	حجم الخط	Schriftgröße	フォントサイズ	Betűméret	Tamanho da fonte
+drawer_settings_other_preferences	Other preferences	Autres préférences	Otras preferencias	Άλλες προτιμήσεις	Altre preferenze	تفضيلات أخرى	Weitere Einstellungen	その他の設定	Egyéb beállítások	Outras preferências
