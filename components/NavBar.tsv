@@ -30,7 +30,7 @@ navbar_twitter_crowdtangle	CSV Analysis	Analyse CSV	Analisis CSV	Ανάλυση 
 navbar_synthetic_image_detection	Synthetic image	Images synthétiques	Imágenes sintéticas	Συνθετική εικόνα	Immagine sintetica	صورة اصطناعية	Synthetische Medien	合成画像
 navbar_loccus	Hiya	Hiya	Hiya	Hiya	Hiya	Hiya	Hiya	Hiya
 navbar_semantic_search	Fact Check Semantic Search	Recherche sémantique de Fact Check	Búsqueda semántica de Fact Check	Σημασιολογική αναζήτηση του Fact Check	Ricerca semantica di Fact Check	بحث دلالي لـ Fact Check	Semantische Suche von Fact Check	ファクトチェックセマンティック検索
-navbar_deepfake_image	Deepfake	Deepfake	Deepfake	Deepfake	Deepfake	تزييف عميق	Deepfake	ディープフェイク
+navbar_deepfake_image	Face swap	Échange de visage	Intercambio de caras	Ανταλλαγή προσώπου	Scambio di volti	تبديل الوجه	Gesichtstausch	フェイススワップ
 navbar_geolocation	Geolocalizer	Géolocalisation	Geolocalizador	Geolocalizer	Geolocalizzazione	تحديد الموقع الجغرافي	Geolokalisierung	ジオローカライザー
 navbar_verification	Verification	Vérification	Verificación	Επαλήθευση	Verifica	تحقُق	Überprüfung	検証
 navbar_verification_short	Verifi...	Vérifi...	Verifi...	Επαλή...	Verifi...	verifi ...	Verifi ...	検証...
@@ -48,3 +48,14 @@ navbar_category_data	Data analysis	Analyse des données	Análisis de datos	Αν�
 navbar_category_other	Other tools	Autres outils	Otras herramientas	Άλλα εργαλεία	Altri strumenti	أدوات أخرى	Andere Werkzeuge	その他のツール
 navbar_collapse	Hide	Masquer	Ocultar	Απόκρυψη	Nascondi	إخفاء	Einklappen	非表示
 navbar_c2pa	Provenance (C2PA)	Provenance (C2PA)	Procedencia (C2PA)	Προέλευση (C2PA)	Provenienza (C2PA)	الأصل (C2PA)	Provenienz (C2PA)	出所情報(C2PA)
+color_mode_system	System	Système	Sistema	Σύστημα	Sistema	نظام	System	システム
+color_mode_light	Light	Clair	Claro	Φωτεινό	Chiaro	فاتح	Hell	ライト
+color_mode_dark	Dark	Sombre	Oscuro	Σκούρο	Scuro	داكن	Dunkel	ダーク
+quiz_unlock_explanations	Unlock Interactive explanations	Déverrouiller les explications de interactif	Desbloquear las explicaciones de la prueba	Ξεκλείδωμα διαδραστικών εξηγήσεων	Sblocca spiegazioni interattive	فتح التفسيرات التفاعلية	interaktive Erklärungen freischalten	鍵がかかった説明文を有効にする
+cookies_usage	Accept Matomo	Accepter Matomo	Aceptar Matomo	Αποδοχή του Matomo	Accetta Matomo	قبول Matomo	Matomo akzeptieren	Matomoを許可する
+storage_usage	Keep my preferences	Conserver mes préférences	Conserver mis preferencias	Κρατήστε τις προτιμήσεις μου	Mantieni le mie preferenze	حافظ على تفضيلاتي	Vorlieben behalten	設定を保存
+drawer_settings_title	Settings	Paramètres	Configuración	Ρυθμίσεις	Impostazioni	الإعدادات	Einstellungen	設定
+drawer_settings_language	Language	Langue	Idioma	Γλώσσα	Lingua	اللغة	Sprache	言語
+drawer_settings_theme	Theme	Thème	Tema	Θέμα	Tema	سمة	Thema	テーマ
+drawer_settings_font_size	Font size	Taille de police	Tamaño de fuente	Μέγεθος γραμματοσειράς	Dimensione carattere	حجم الخط	Schriftgröße	フォントサイズ
+drawer_settings_other_preferences	Other preferences	Autres préférences	Otras preferencias	Άλλες προτιμήσεις	Altre preferenze	تفضيلات أخرى	Weitere Einstellungen	その他の設定
