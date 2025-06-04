@@ -167,12 +167,12 @@ select_persuasion_technique	Select persuasion technique:	Sélectionnez une techn
 detected_techniques	Detected techniques	Techniques détectées	Técnicas detectadas	Ανιχνευμένες τεχνικές	Tecniche rilevate	التقنيات المكتشفة	Erkannte Techniken	検出されたテクニック	Felismert technikák	Técnicas detectadas
 no_detected_techniques	No detected techniques given selected threshold	Aucune technique détectée pour le seuil sélectionné	No se detectaron técnicas con el umbral seleccionado	Δεν εντοπίστηκαν τεχνικές για το επιλεγμένο κατώφλι	Nessuna tecnica rilevata per la soglia selezionata	لم يتم الكشف عن أي تقنيات بالنظر إلى العتبة المحددة	Keine erkannten Techniken für den ausgewählten Schwellenwert	選択された閾値では検出されたテクニックはありません	A kiválasztott küszöbértékhez nem észleltünk technikákat	Nenhuma técnica detectada para o limite selecionado
 important_sentence_threshold	Important Sentence threshold: 	Seuil de phrase importante: 	Umbral de oraciones importantes: 	Κατώφλι Σημαντικής Πρότασης: 	Soglia frase importante: 	 :عتبة الجملة الهامة	Wichtige Satzschwelle: 	重要な文の閾値: 	Fontos mondat küszöbértéke: 	Limite de frases importantes: 
-Justification	Justification	Justification	Justificación	Giustificazione	تبرير	Rechtfertigung	正当化	Igazolás	Justificação
-Simplification	Simplification	Simplification	Simplificación	Semplificazione	تبسيط	Vereinfachung	単純化	Egyszerűsítés	Simplificação
-Distraction	Distraction	Distraction	Distracción	Distrazione	تشتيت	Ablenkung	気晴らし	Figyelemelterelés	Distração
-Call	Call	Appel	Llamada	Chiamata	مكالمة	Anruf	通話	Hívás	Chamada
-Manipulative_Wording	Manipulative Wording	Formulation manipulatrice	Redacción manipuladora	Formulazione manipolativa	صياغة متلاعبة	Manipulative Formulierung	操作的な言い回し	Manipulatív megfogalmazás	Linguagem manipuladora
-Attack_on_Reputation	Attack on Reputation	Attaque à la réputation	Ataque a la reputación	Attacco alla reputazione	هجوم على السمعة	Rufschädigung	評判への攻撃	Hírnév elleni támadás	Ataque à reputação
+Justification	Justification	Justification	Justificación	Δικαιολόγηση	Giustificazione	تبرير	Rechtfertigung	正当化	Igazolás	Justificação
+Simplification	Simplification	Simplification	Simplificación	Απλοποίηση	Semplificazione	تبسيط	Vereinfachung	単純化	Egyszerűsítés	Simplificação
+Distraction	Distraction	Distraction	Distracción	Απόσπαση προσοχής	Distrazione	تشتيت	Ablenkung	気晴らし	Figyelemelterelés	Distração
+Call	Call	Appel	Llamada	Κλήση	Chiamata	مكالمة	Anruf	通話	Hívás	Chamada
+Manipulative_Wording	Manipulative Wording	Formulation manipulatrice	Redacción manipuladora	Χειριστική διατύπωση	Formulazione manipolativa	صياغة متلاعبة	Manipulative Formulierung	操作的な言い回し	Manipulatív megfogalmazás	Linguagem manipuladora
+Attack_on_Reputation	Attack on Reputation	Attaque à la réputation	Ataque a la reputación	Επίθεση στη φήμη	Attacco alla reputazione	هجوم على السمعة	Rufschädigung	評判への攻撃	Hírnév elleni támadás	Ataque à reputação
 Appeal_to_Authority	Appeal to Authority	Appel à l'autorité	Apelación a la autoridad	Έκκληση στην αυθεντία	Appello all'autorità	الاحتكام إلى السلطة	Berufung auf Autorität	当局・権威への訴え	Hivatkozás a tekintélyre	Apelo à autoridade
 Appeal_to_Popularity	Appeal to Popularity	Appel à la popularité	Apelación a la popularidad	Έκκληση στη δημοφιλία	Appello alla popolarità	الاحتكام إلى الشعبية	Appell an die Beliebtheit	人気へのアピール	Hivatkozás a népszerűségre	Apelo à popularidade
 Appeal_to_Values	Appeal to Values	Appel aux valeurs	Apelación a los valores	Έκκληση στις αξίες	Appello ai valori	الاحتكام إلى القيم	Berufung auf Werte	価値観に訴える	Hivatkozás az értékekre	Apelo a valores
