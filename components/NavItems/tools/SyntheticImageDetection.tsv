@@ -1,4 +1,4 @@
-	en	fr	es	el	it	ar	de	ja	hu	br
+	en	fr	es	el	it	ar	de	ja	hu	pt-BR
 synthetic_image_detection_label	Media link	Media lien	Media link	σύνδεσμος πολυμέσων	Collegamento multimediale	رابط الوسائط	Medienlink	メディアリンク	Média link	Link da mídia
 synthetic_image_detection_name	Synthetic Image Detection	Détection d'image synthétique	Detección de imágenes sintéticas	Ανίχνευση συνθετικής εικόνας	Rilevamento di immagini sintetiche	كشف الصور الاصطناعية	Synthetische Bilderkennung	合成画像の検出	Szintetikus képérzékelés	Detecção de imagens sintéticas
 synthetic_image_detection_placeholder	Paste the URL here	Collez le lien ici	Pega aquí el link	Επικολλήστε τη διεύθυνση σύνδεσμος εδώ	Incolla l'URL qui	الصق عنوان URL هنا	Fügen Sie die URL hier ein	ここにURLを貼り付けてください	Illessze be ide az URL-t	Cole o link aqui

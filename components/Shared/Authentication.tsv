@@ -1,4 +1,4 @@
-	en	fr	es	el	it	ar	de	ja	hu	br
+	en	fr	es	el	it	ar	de	ja	hu	pt-BR
 ERR_AUTH_UNKNOWN_ERROR	The application has raised an unknown error	L'application a rencontré une erreur inconnue	La aplicación ha generado un error desconocido	Η εφαρμογή έχει προκαλέσει ένα άγνωστο σφάλμα	L'applicazione ha sollevato un errore sconosciuto	رفع التطبيق خطأ غير معروف	Die Anwendung hat einen unbekannten Fehler angesprochen	アプリケーションで不明なエラーが発生しました	Az alkalmazás ismeretlen hibát generált	O aplicativo gerou um erro desconhecido
 ERR_AUTH_ABORT_ERROR	The server is not responding	Le service ne répond pas	El servidor no está respondiendo	Ο διακομιστής δεν αποκρίνεται	Il server non risponde	الخادم لا يستجيب	Der Server reagiert nicht	サーバーが応答していません	A szerver nem válaszol	O servidor não está respondendo
 ERR_AUTH_INVALID_PARAMS	Invalid parameters	Paramètres invalides	Parámetros inválidos	Μη έγκυρες παράμετρο	Parametri non validi	معلمات غير صالحة	Ungültige Parameter	無効なパラメータ	Érvénytelen paraméterek	Parâmetros inválidos
