@@ -1,4 +1,4 @@
-	en	fr	es	el	it	ar	de	ja	hu	br
+	en	fr	es	el	it	ar	de	ja	hu	pt
 navbar_tools	Tools	Outils	Herramientas	Εργαλεία	Strumenti	الأدوات	Werkzeuge	ツール	Eszközök	Ferramentas
 navbar_about	About	A propos	Sobre nosotros	Σχετικά με	Chi siamo	حول	Über uns	紹介	Névjegy	Sobre nós
 navbar_tuto	Tutorial	Tutoriel	Guía	Οδηγός	Tutorial	الدورة التعليمية	Anleitung	チュートリアル	Oktatóanyag	Guia
@@ -18,6 +18,7 @@ navbar_factCheck	Fact Check	Factuel	Factual	Έλεγχος γεγονότων	Fa
 navbar_covidsearch	Factcheck search	Recherche de Factchecks	Búsqueda de chequeos	Αναζήτηση Factcheck	Ricerca di factchecks	بحث التحقق من المعلومات	Faktenchecks-Suche	ファクトチェック検索	Tényellenőrző keresés	Busca de checagens
 navbar_assistant	Assistant	Assistant	Asistente	Βοηθός	Assistente	المساعد	Assistent	アシスタント	Asszisztens	Assistente
 navbar_xnetwork	Xnetwork	Xnetwork	Xnetwork	Xnetwork	Xnetwork	Xnetwork	Xnetwork	Xネットワーク	Xnetwork	Xnetwork
+navbar_mgt	Machine Generated Text	Texte généré par IA	Texto generado por IA	Κείμενο που δημιουργήθηκε από τεχνητή νοημοσύνη	Testo generato dall’IA	نص تم إنشاؤه بواسطة الذكاء الاصطناعي	Text von KI generiert	AI生成テキスト	Mesterséges intelligencia által generált szöveg	Texto gerado por IA
 navbar_ocr	OCR	OCR	OCR	OCR	OCR	التعرف البصري على الحروف	Texterkennung	OCR	OCR	OCR
 navbar_gif	CheckGif	CheckGif	CheckGif	CheckGif	CheckGif	تحقق من Gif	Checkgif	CheckGif	CheckGif	CheckGif
 navbar_archiving	Archiving	Archivage	Archivar	Αρχειοθέτηση	Archiviazione	الأرشفة	Archivierung	アーカイブ	Archiválás	Arquivar
