@@ -229,8 +229,8 @@ highly_likely_machine	Highly likely machine generated	Très probablement génér
 detected_classes	Detected classes:	Classes détectées :	Clases detectadas:	Εντοπισμένες κλάσεις:	Classi rilevate:	الفئات المكتشفة:	Erkannte Klassen:	検出されたクラス: Észlelt osztályok:	Classes detectadas:
 gauge_detection	Machine	Machine	Máquina	Μηχανή	Macchina	آلة	Maschine	機械	Gép	Máquina
 gauge_no_detection	Human	Humain	Humano	Άνθρωπος	Umano	إنسان	Mensch	人間	Ember	Humano
-gauge_no_detection_sub	Low	Bas	Bajo	Χαμηλό	Basso	منخفض	Niedrig	低	Alacsony	Baixo
-gauge_detection_sub	High	Élevé	Alto	Υψηλό	Alto	عالي	Hoch	高	Magas	Alto
+gauge_no_detection_sub	Objective	Objectif	Objetivo	Αντικειμενικός	Obiettivo	موضوعي	Objektiv	客観的	Objektív	Objetivo
+gauge_detection_sub	Subjective	Subjectif	Subjetivo	Υποκειμενικό	Soggettivo	ذاتي	Subjektiv	主観的	Szubjektív	Subjetivo
 mgt_overall_score	Overall score for text:	Score global du texte :	Puntuación general del texto:	Συνολική βαθμολογία για το κείμενο:	Punteggio complessivo del testo:	النتيجة الإجمالية للنص:	Gesamtpunktzahl für Text:	テキストの総合スコア:	A szöveg összpontszáma:	Pontuação geral do texto:
 gauge_scale_explanation_link	What do the gauge colors mean?	Que signifient les couleurs de la jauge ?	¿Qué significan los colores del indicador?	Τι σημαίνουν τα χρώματα του μετρητή;	Cosa significano i colori del indicatore?	ماذا تعني ألوان العداد؟	Was bedeuten die Farben der Anzeige?	ゲージの色は何を意味しますか?	Mit jelentenek a mérőszín	O que as cores do medidor significam?
 gauge_scale_modal_explanation_title	What do the gauge colors mean?	Que signifient les couleurs de la jauge ?	¿Qué significan los colores del indicador?	Τι σημαίνουν τα χρώματα του μετρητή;	Cosa significano i colori del indicatore?	ماذا تعني ألوان العداد؟	Was bedeuten die Farben der Anzeige?	ゲージの色は何を意味しますか?	Mit jelentenek a mérőszín színei?	O que as cores do medidor significam?
