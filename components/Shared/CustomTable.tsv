@@ -7,4 +7,4 @@ from_to_text	{from}-{to} of {count}	{from}-{to} de {count}	{from}-{to} de {count
 row_selected	{0} row(s) selected	{0} ligne(s) selectionée(s)	{0} fila(s) seleccionada(s)	{0} σειρά (ες) που επιλέγεται	{0} riga(s) selezionata	{0} الصف (S) المحدد	{0} Zeile (s) ausgewählt	{0} 行が選択されました	{0} sor kiválasztva	{0} linha(s) selecionada(s)
 search	Search	Rechercher	Buscar	Αναζήτηση	Ricerca	بحث	Suchen	検索	Keresés	Buscar
 no_records	No records to display	Rien à afficher	Nada que mostrar	Δεν υπάρχουν αρχεία για προβολή	nessun dato da visualizzare	لا سجلات لعرضها	Keine Datensätze zur Anzeige	表示するレコードがありません	Nincs megjeleníthető rekord	Nada para mostrar
-filter	Filter	Filtre	Filtro	Φίλτρο	Filtro	فلتر	Filter	フィルター	Szűrő	Filtro
+filter	Filter	Filtre	Filtro	Φίλτρο	Filtro	فلتر	Filter	フィルター	Szűrő	Filtro
