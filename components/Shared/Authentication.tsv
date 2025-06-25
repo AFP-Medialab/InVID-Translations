@@ -57,4 +57,4 @@ LOGUSER_TEMPLATE	Welcome <%= user.firstName %> <%= user.lastName %> (<%= user.em
 LOGUSER_LOGOUT_LABEL	Logout	Deconnexion	Cerrar sesión	Αποσύνδεση	Disconnettersi	تسجيل الخروج	Ausloggen	ログアウト	Kijelentkezés	Encerrar sessão
 AUTHENTICATION_FORM_CLOSE	Close	Fermer	Cerrar	Κλείσε	Chiudere	اغلاق	Schließen	閉じる	Bezárás	Fechar
 REGISTRATIONFORM_TITLE_WINDOW	Registration	Inscription	Registro	Εγγραφή	Registrazione	تسجيل	Anmeldung	登録	Regisztráció	Cadastro
-REGISTRATIONFORM_ORGANIZATIONROLE_RESEARCHER_LABEL	Researcher	Chercheur	Investigador	Άλλο	Ricercatore	الباحث	Forscher	研究者	Kutató	Pesquisador
+REGISTRATIONFORM_ORGANIZATIONROLE_RESEARCHER_LABEL	Researcher	Chercheur	Investigador	Άλλο	Ricercatore	الباحث	Forscher	研究者	Kutató	Pesquisador

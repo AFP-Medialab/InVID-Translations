@@ -10,7 +10,7 @@ content_credentials_invalid	This content credential is not valid, meaning anyone
 content_credentials_title	Content credentials	Attestations de contenu	Credenciales de contenido	Διαπιστεύσεις περιεχομένου	Credenziali di contenuto	بيانات الاعتماد للمحتوى	Inhaltszertifikate	コンテンツ認証情報	Tartalomigazolások	Credenciais de conteúdo
 content_credentials_issuer	Issuer:	Émetteur :	Emisor:	Εκδότης:	Emittente:	المُصدِر:	Aussteller:	発行者:	Kibocsátó:	Emissor:
 content_credentials_date_issued	Date issued:	Date d'émission :	Fecha de emisión:	Ημερομηνία έκδοσης:	Data di emissione:	تاريخ الإصدار:	Ausstellungsdatum:	発行日:	Kiadás dátuma:	Data de emissão:
-credit_title	Credit	Crédit	Crédito	Πίστωση	Credito	الائتمان	Kredit	クレジット	Hitel	Crédito
+credit_title	Credit	Crédit	Crédito	Πίστωση	Credito	الائتمان	Kredit	クレジット	Kredit:	Crédito
 credit_producer	Produced by:	Produit par :	Producido por:	Παραγωγή από:	Prodotto da:	تم الإنتاج بواسطة:	Produziert von:	制作者:	Készítette:	Produzido por:
 credit_social	Socials	Réseaux sociaux	Redes sociales	Κοινωνικά δίκτυα	Social	وسائل التواصل الاجتماعي	Soziale Netzwerke	ソーシャル	Közösségi hálózatok	Redes sociais
 credit_no_info_image	No producer information for this image	Aucune information sur le producteur pour cette image	No hay información del productor para esta imagen	Δεν υπάρχουν πληροφορίες παραγωγού για αυτήν την εικόνα	Nessuna informazione sul produttore per questa immagine	لا توجد معلومات عن المنتج لهذه الصورة	Keine Produzenteninformationen für dieses Bild	この画像には制作者情報がありません	Nincs információ a kép készítőjéről.	Não há informação do produtor para esta imagem.
@@ -19,8 +19,8 @@ capture_info_title	Capture Information	Informations de capture	Información de c
 capture_info_make	Make:	Marque :	Marca:	Μάρκα:	Marca:	تصنيع:	Marke:	作成:	Márka:	Marca:
 capture_info_model	Model:	Modèle :	Modelo:	Μοντέλο:	Modello:	نموذج:	Modell:	モデル:	Modell:	Modelo:
 capture_info_date	Date:	Date :	Fecha:	Ημερομηνία:	Data:	تاريخ:	Datum:	日付:	Dátum:	Data:
-capture_info_longitude	Longitude:	Longitude :	Longitud:	Γεωγραφικό μήκος:	Longitudine:	خط الطول:	Länge:	経度:	Hosszúság:	Longitude:
-capture_info_latitude	Latitude:	Latitude :	Latitud:	Γεωγραφικό πλάτος:	Latitudine:	خط العرض:	Breite:	緯度:	Szélesség:	Latitude:
+capture_info_longitude	Longitude:	Longitude :	Longitud:	Γεωγραφικό μήκος:	Longitudine:	خط الطول:	Länge:	経度:	Földrajzi hosszúság:	Longitude:
+capture_info_latitude	Latitude:	Latitude :	Latitud:	Γεωγραφικό πλάτος:	Latitudine:	خط العرض:	Breite:	緯度:	Földrajzi szélesség:	Latitude:
 capture_info_more_results	See more capture information	Voir plus d'informations de capture	Ver más información de captura	Δείτε περισσότερες πληροφορίες λήψης	Vedi più informazioni di cattura	شاهد المزيد من معلومات الالتقاط	Weitere Aufnahmeinformationen anzeigen	取得情報をもっと見る	További rögzítési információk megtekintése	Ver mais informação de captura
 capture_info_hide	Hide capture information	Masquer les informations de capture	Ocultar información de captura	Απόκρυψη πληροφοριών λήψης	Nascondi informazioni di cattura	إخفاء معلومات الالتقاط	Aufnahmeinformationen verbergen	取得情報を非表示にする	Rögzítési információk elrejtése	Ocultar informação de captura
 capture_no_info	No capture information available.	Aucune information de capture disponible.	No hay información de captura disponible.	Δεν υπάρχουν διαθέσιμες πληροφορίες λήψης.	Nessuna informazione di acquisizione disponibile.	لا توجد معلومات التقاط متاحة.	Keine Aufnahmeinformationen verfügbar.	取得情報がありません	Nincs rögzítési információ.	Não há informação de captura disponível.
