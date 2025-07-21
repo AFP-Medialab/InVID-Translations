@@ -1,11 +1,11 @@
-	en	fr	es	el	it	ar	de	ja
-open_website	Open Toolbox	Ouvrir le plugin	Abrir el plugin	Άνοιγμα Σετ Εργαλείων	Aprire la toolbox	افتح صندوق الأدوات	Werkzeugkasten öffnen	ツールボックスを開く
-open_assistant	Open Assistant	Ouvrir l'assistant	Abrir el asistente	Άνοιγμα Βοηθού	Attivare l'assistente	افتح المساعد	Assistenten öffnen	アシスタントを開く
-open_assistant_on_page	Assistant for Current Page	Assistant pour cette page	Asistente para este sitio	Βοηθός για τρέχουσα σελίδα	Assistente per la pagina corrente	مساعد للصفحة الحالية	Assistent für die aktuelle Seite	現在のページのアシスタント
-open_classroom	Open Classroom	Ouvrir la salle de classe	Abrir el aula	Άνοιγμα Αίθουσας Διδασκαλίας	Aprire l'aula	فتح الفصل الدراسي	Klassenzimmer öffnen	教室を開く
-archive_this	Archive this	Archivez ceci	Archiva esto	Αρχειοθέτησε αυτό	Archivia questo	أرشِف هذا	Archiviere dies	アーカイブする
-video_urls	Videos Urls	Urls de vidéos	Vídeos urls	Διευθύνσεις Urls των βίντεο	URLS video	روابط الفيديوهات	Videos-URLs	動画のURL
-copy	Copy	Copier	Copiar	Αντιγραφή	Copia	نسخ	Kopieren	コピー
-no_video_found	No video found	Pas de vidéo	Ningún vídeo	Δεν βρέθηκε κανένα βίντεο	Nessun video trovato	لم يتم العثور على فيديو	Kein Video gefunden	動画が見つかりませんでした
-images_url	Images	Images	Imágenes	Εικόνες	Immagini	الصور	Bilder	画像
-no_images	No images	Pas d'images	Ningunas imágenes	Χωρίς εικόνες	Nessuna immagine	لا توجد صور	Keine Bilder	画像がありません
+	en	fr	es	el	it	ar	de	ja	hu	pt
+open_website	Open Toolbox	Ouvrir le plugin	Abrir el plugin	Άνοιγμα Σετ Εργαλείων	Aprire la toolbox	افتح صندوق الأدوات	Werkzeugkasten öffnen	ツールボックスを開く	Eszköztár megnyitása	Abrir o plugin
+open_assistant	Open Assistant	Ouvrir l'assistant	Abrir el asistente	Άνοιγμα Βοηθού	Attivare l'assistente	افتح المساعد	Assistenten öffnen	アシスタントを開く	Asszisztens megnyitása	Abrir o assistente
+open_assistant_on_page	Assistant for Current Page	Assistant pour cette page	Asistente para este sitio	Βοηθός για τρέχουσα σελίδα	Assistente per la pagina corrente	مساعد للصفحة الحالية	Assistent für die aktuelle Seite	現在のページのアシスタント	Asszisztens az aktuális oldalhoz	Assistente para este site
+open_classroom	Open Classroom	Ouvrir la salle de classe	Abrir el aula	Άνοιγμα Αίθουσας Διδασκαλίας	Aprire l'aula	فتح الفصل الدراسي	Klassenzimmer öffnen	教室を開く	Osztályterem megnyitása	Abrir a sala de aula
+archive_this	Archive this	Archivez ceci	Archiva esto	Αρχειοθέτησε αυτό	Archivia questo	أرشِف هذا	Archiviere dies	アーカイブする	Archiválja ezt	Arquivar isto
+video_urls	Videos Urls	Urls de vidéos	Vídeos urls	Διευθύνσεις Urls των βίντεο	URLS video	روابط الفيديوهات	Videos-URLs	動画のURL	Videók URL-jei	URLs de vídeos
+copy	Copy	Copier	Copiar	Αντιγραφή	Copia	نسخ	Kopieren	コピー	Másolás	Copiar
+no_video_found	No video found	Pas de vidéo	Ningún vídeo	Δεν βρέθηκε κανένα βίντεο	Nessun video trovato	لم يتم العثور على فيديو	Kein Video gefunden	動画が見つかりませんでした	Nem található videó	Nenhum vídeo
+images_url	Images	Images	Imágenes	Εικόνες	Immagini	الصور	Bilder	画像	Képek	Imagens
+no_images	No images	Pas d'images	Ningunas imágenes	Χωρίς εικόνες	Nessuna immagine	لا توجد صور	Keine Bilder	画像がありません	Nincsenek képek	Nenhuma imagem
