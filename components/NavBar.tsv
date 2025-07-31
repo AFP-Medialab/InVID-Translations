@@ -60,4 +60,11 @@ drawer_settings_title	Settings	Paramètres	Configuración	Ρυθμίσεις	Imp
 drawer_settings_language	Language	Langue	Idioma	Γλώσσα	Lingua	اللغة	Sprache	言語	Nyelv	Idioma
 drawer_settings_theme	Theme	Thème	Tema	Θέμα	Tema	سمة	Thema	テーマ	Téma	Tema
 drawer_settings_font_size	Font size	Taille de police	Tamaño de fuente	Μέγεθος γραμματοσειράς	Dimensione carattere	حجم الخط	Schriftgröße	フォントサイズ	Betűméret	Tamanho da fonte
-drawer_settings_other_preferences	Other preferences	Autres préférences	Otras preferencias	Άλλες προτιμήσεις	Altre preferenze	تفضيلات أخرى	Weitere Einstellungen	その他の設定	Egyéb beállítások	Outras preferências
+drawer_settings_other_preferences	Other preferences	Autres préférences	Otras preferencias	Άλλες προτιμήσεις	Altre preferenze	تفضيلات أخرى	Weitere Einstellungen	その他の設定	Egyéb beállítások	Outras preferências
+snaRecord_socialMediaSelectlabel	Social media recorded	Médias sociaux enregistrés	Redes sociales registradas	Καταγεγραμμένα κοινωνικά μέσα	Social media registrati	وسائل التواصل المسجلة	Erfasste soziale Medien	記録されたソーシャルメディア	Rögzített közösségi média	Redes sociais registradas
+snaRecording_selectCollectionLabel	Select collection	Sélectionner une collection	Seleccionar colección	Επιλέξτε συλλογή	Seleziona raccolta	اختر المجموعة	Sammlung auswählen	コレクションを選択	Kiválasztás gyűjtemény	K selecionar coleção
+snaTools_newCollectionLabel	New collection	Nouvelle collection	Nueva colección	Nέα συλλογή	Nuova raccolta	مجموعة جديدة	Neue Sammlung	新しいコレクション	Uj gyűjtemény	Nova coleção
+snaTools_addNewCollectionLabel	Add new collection	Ajouter une nouvelle collection	Añadir nueva colección	Προσθήκη νέας συλλογής	Aggiungi nuova raccolta	إضافة مجموعة جديدة	Neue Sammlung hinzufügen	新しいコレクションを追加	Készítsen új gyűjteményt	Adicionar nova coleção
+snaRecording_startRecordingButton	Start recording	Démarrer l’enregistrement	Iniciar grabación	Έναρξη καταγραφής	Avvia registrazione	ابدأ التسجيل	Aufnahme starten	録画開始	Rögzítés indítása	Iniciar gravação
+snaRecording_stopRecording	Stop recording	Arrêter l’enregistrement	Detener grabación	Διακοπή καταγραφής	Interrompi registrazione	إيقاف التسجيل	Aufnahme beenden	録画停止	Rögzítés leállítása	Parar gravação
+snaRecording_startRecording	Start recording	Démarrer l’enregistrement	Iniciar grabación	Έναρξη καταγραφής	Avvia registrazione	ابدأ التسجيل	Aufnahme starten	録画開始	Rögzítés indítása	Iniciar gravação
