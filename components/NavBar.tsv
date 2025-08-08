@@ -3,6 +3,7 @@ navbar_tools	Tools	Outils	Herramientas	Εργαλεία	Strumenti	الأدوات
 navbar_about	About	A propos	Sobre nosotros	Σχετικά με	Chi siamo	حول	Über uns	紹介	Névjegy	Sobre nós
 navbar_tuto	Tutorial	Tutoriel	Guía	Οδηγός	Tutorial	الدورة التعليمية	Anleitung	チュートリアル	Oktatóanyag	Guia
 navbar_twitter_sna	Twitter SNA.	Twitter SNA.	Twitter SNA.	Twitter SNA.	Twitter SNA.	تحليل الشبكة الاجتماعية - تويتر	Netzwerkanalyse Twitter/X	TwitterのSNA	Twitter SNA.	Twitter SNA.
+navbar_sna	Social Network Analysis	Analyse des réseaux sociaux	Análisis de redes sociales	Ανάλυση κοινωνικών δικτύων	Analisi delle reti sociali	تحليل الشبكات الاجتماعية	Soziale Netzwerkanalyse	ソーシャルネットワーク分析	Társadalmi hálózatelemzés	Análise de Redes Sociais
 navbar_classroom	Classroom	Salle de cours	Aula	ΣΧΟΛΙΚΗ ΑΙΘΟΥΣΑ	Aula	قاعة الدراسة	Klassenzimmer	教室	Osztályterem	Sala de aula
 navbar_quiz	Demo	Demo	Demo	Διαδήλωση	Demo	العرض التوضيحي	Demo	デモ	Bemutató	Demonstração
 navbar_analysis	Video analysis	Analyse	Video análisis	Ανάλυση	Analisi video	تحليل الفيديو	Videoanalyse	動画解析	Videóelemzés	Análise de vídeo
@@ -60,4 +61,4 @@ drawer_settings_title	Settings	Paramètres	Configuración	Ρυθμίσεις	Imp
 drawer_settings_language	Language	Langue	Idioma	Γλώσσα	Lingua	اللغة	Sprache	言語	Nyelv	Idioma
 drawer_settings_theme	Theme	Thème	Tema	Θέμα	Tema	سمة	Thema	テーマ	Téma	Tema
 drawer_settings_font_size	Font size	Taille de police	Tamaño de fuente	Μέγεθος γραμματοσειράς	Dimensione carattere	حجم الخط	Schriftgröße	フォントサイズ	Betűméret	Tamanho da fonte
-drawer_settings_other_preferences	Other preferences	Autres préférences	Otras preferencias	Άλλες προτιμήσεις	Altre preferenze	تفضيلات أخرى	Weitere Einstellungen	その他の設定	Egyéb beállítások	Outras preferências
+drawer_settings_other_preferences	Other preferences	Autres préférences	Otras preferencias	Άλλες προτιμήσεις	Altre preferenze	تفضيلات أخرى	Weitere Einstellungen	その他の設定	Egyéb beállítások	Outras preferências
