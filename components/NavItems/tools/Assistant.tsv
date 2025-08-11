@@ -37,11 +37,15 @@ assistant_error	An unexpected assistant error has occurred. If the problem persi
 recommended_tools	Recommended Tools	Outils recommandés	Herramientas recomendadas	Συνιστώμενα εργαλεία	Strumenti consigliati	أدوات موصى بها	Empfohlene Tools	推奨ツール	Ajánlott eszközök	Ferramentas recomendadas
 navbar_analysis_image	Image Analysis	Analyse	Análisis	Ανάλυση	Analisi dell'immagine	تحليل الصور	Bildanalyse	画像解析	Képelemzés	Análise de imagem
 navbar_analysis_video	Video Analysis	Analyse	Análisis	Ανάλυση	Analisi video	تحليل الفيديو	Videoanalyse	動画分析	Videóelemzés	Análise de vídeo
+navbar_c2pa	Provenance (C2PA)	Provenance (C2PA)	Procedencia (C2PA)	Προέλευση (C2PA)	Provenienza (C2PA)	الأصل (C2PA)	Provenienz (C2PA)	来歴情報 (C2PA)	Származás (C2PA)	Procedência (C2PA)
+navbar_geolocation	Geolocalizer	Géolocalisation	Geolocalizador	Geolocalizer	Geolocalizer	محدد الموقع الجغرافي	Geolokalisierung	ジオローカライザー	Geolokátor	Geolocalizador
 navbar_keyframes	Keyframes	Images clés	Imágenes claves	βασικών καρέ	Fotogrammi chiave	إطارات المفاتيح	Keyframes	キーフレーム	Kulcskockák	Quadros-chave
 navbar_thumbnails	Thumbnails	Imagettes	Miniaturas	μικρογραφίες	Thumbnails	الصورة المصغرة	Thumbnails	サムネイル	Bélyegképek	Miniaturas
 navbar_twitter	Tw. search	Recherche Tw.	Búsqueda Tw.	Tw. Αναζήτηση	Tw. ricerca	TW. بحث	Tw. suchen	Twitter検索	Tw. keresés	Pesquisa Tw.
 navbar_magnifier	Magnifier	Loupe	Lupa	μεγεθυντικός φακός	Lente d'ingrandimento	المكبر	Lupe	拡大レンズ	Nagyító	Lupa
 navbar_metadata	Metadata	Metadonnées	Metadatos	μεταδεδομένα	Metadati	البيانات الوصفية	Metadaten	メタデータ	Metaadatok	Metadados
+navbar_metadata_image	Metadata	Metadonnées	Metadatos	μεταδεδομένα	Metadati	البيانات الوصفية	Metadaten	メタデータ	Metaadatok	Metadados
+navbar_metadata_video	Metadata	Metadonnées	Metadatos	μεταδεδομένα	Metadati	البيانات الوصفية	Metadaten	メタデータ	Metaadatok	Metadados
 navbar_rights	Video rights	Droits vidéo	Derechos video	Βίντεο δικαιώματα	Diritti video	حقوق الفيديو	Videorechte	動画の権利	Videójogok	Direitos do vídeo
 navbar_forensic	Forensic	Forensic	Forensic	Δικανικός λυση	Forensic	التحقق الرقمي للصور	Forensische Untersuchung	フォレンジック解析	Digitális adatelemzés	Forense
 navbar_ocr	OCR	OCR	OCR	OCR	OCR	OCR	Texterkennung	OCR	Karakterfelismerés	OCR
@@ -228,7 +232,7 @@ gauge_no_detection	Human	Humain	Humano	Άνθρωπος	Umano	إنسان	Mensch	
 gauge_additional_results	Detection details	Détails de la détection	Detalles de detección	Λεπτομέρειες ανίχνευσης	Dettagli di rilevamento	تفاصيل الكشف	Erkennungsdetails	検出内容	Észlelési részletek	Detalhes da detecção
 gauge_additional_results_hide	Hide detection details	Masquer les détails de la détection	Ocultar detalles de detección	Απόκρυψη λεπτομερειών ανίχνευσης	Nascondi dettagli rilevamento	إخفاء تفاصيل الكشف	Detektiondetails ausblenden	検出の詳細を非表示にする	Észlelési részletek elrejtése	Ocultar detalhes da detecção
 gauge_probability_text	Probability:	Probabilité :	Probabilidad:	Πιθανότητα:	Probabilità:	احتمالية:	Wahrscheinlichkeit:	確率:	Valószínűség:	Probabilidade:
-gauge_generic_detection_text										
+gauge_generic_detection_text
 gauge_scale_explanation_link	What do the gauge colors mean?	Que signifient les couleurs de la jauge ?	¿Qué significan los colores del indicador?	Τι σημαίνουν τα χρώματα του μετρητή;	Cosa significano i colori del indicatore?	ماذا تعني ألوان العداد؟	Was bedeuten die Farben der Anzeige?	ゲージの色は何を意味しますか?	Mit jelentenek a mutató színei?	O que as cores do medidor significam?
 gauge_scale_modal_explanation_title	What do the gauge colors mean?	Que signifient les couleurs de la jauge ?	¿Qué significan los colores del indicador?	Τι σημαίνουν τα χρώματα του μετρητή;	Cosa significano i colori del indicatore?	ماذا تعني ألوان العداد؟	Was bedeuten die Farben der Anzeige?	ゲージの色は何を意味しますか?	Mit jelentenek a mutató színei?	O que as cores do medidor significam?
 gauge_download_gauge_button	Download Gauge Chart as jpeg file	Télécharger le graphique de jauge en tant que fichier jpeg	Descargar gráfico de indicadores como archivo jpeg	Λήψη γραφήματος μέτρησης ως αρχείο jpeg	Scarica il grafico della misura come file jpeg	تحميل مخطط القياس كملف jpeg	Downloaden Sie das Messgerätendiagramm als jpeg-Datei	ゲージチャートをjpegファイルとしてダウンロード	Mérődiagram letöltése jpeg fájlként	Baixar gráfico do medidor como arquivo jpeg
