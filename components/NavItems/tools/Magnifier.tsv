@@ -16,4 +16,7 @@ edit_image	Edit Image	Modifier l’image	Editar imagen	Επεξεργασία ε
 download	Download	Télécharger	Descargar	Λήψη	Scarica	تنزيل	Herunterladen	ダウンロード	Letöltés	Baixar
 reverse_search	Reverse search	Recherche inversée	Búsqueda inversa	Αντίστροφη αναζήτηση	Ricerca inversa	البحث العكسي	Rückwärtssuche	画像検索	Fordított keresés	Busca reversa
 cardheader_source	Source of the image	Origine de l'image	Fuente de la imagen	Πηγή της εικόνας	Fonte dell'immagine	مصدر الصورة	Bildquelle	画像の出典	A kép forrása	Fonte da imagem
-cardheader_results	Results	Résultats	Resultados	Αποτελέσματα	Risultati	نتائج	Ergebnisse	結果	Eredmények	Resultados
+cardheader_results	Results	Résultats	Resultados	Αποτελέσματα	Risultati	نتائج	Ergebnisse	結果	Eredmények	Resultados
+crop_image	Crop	Recadrer	Recortar	Περικοπή	Ritaglia	اقتصاص	Zuschneiden	切り抜き	Kivágás	Cortar
+crop_save	Save	Enregistrer	Gardar	Αποθήκευση	Salva	حفظ	Speichern	保存	Mentés	Salvar
+crop_cancel	Cancel	Annuler	Cancelar	Ματαίωση	Annulla	إلغاء	Stornieren	キャンセル	Mégse	Cancelar
