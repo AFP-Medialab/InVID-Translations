@@ -1,0 +1,4 @@
+description = "TSV translator"
+prompt= """
+{{args}} translate missing content using technical terms according to iso code in the header. Add content as TSV 
+""" 
