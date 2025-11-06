@@ -42,4 +42,4 @@ keyframes_advanced_settings_show	Show Advanced Settings	Afficher les paramètres
 keyframes_advanced_settings_hide	Hide Advanced Settings	Cacher les paramètres avancés	Ocultar configuraciones avanzadas	Απόκρυψη για Προηγμένες Ρυθμίσεις	Nascondi Impostazioni Avanzate	إخفاء الإعدادات المتقدمة	Erweiterte Einstellungen ausblenden	詳細設定を非表示にする	Speciális beállítások elrejtése	Ocultar configurações avançadas
 download_max_height	Max height	Hauteur max	Altura máxima	Μέγιστο ύψος	Altezza massima	الارتفاع الأقصى	Maximale Höhe	最大高さ	Maximális magasság	Altura máxima
 process_level	Process level	Niveau de traitement	Nivel de proceso	Επίπεδο επεξεργασίας	Livello di elaborazione	مستوى المعالجة	Verarbeitungsebene	処理レベル	Feldolgozási szint	Nível de processamento
-Process audio	Audio processing	Traitement audio	Procesamiento de audio	Επεξεργασία ήχου	Elaborazione audio	معالجة الصوت	Audioverarbeitung	音声処理	Hangfeldolgozás	Processamento de áudio
+enable_audio_processing	Audio processing	Traitement audio	Procesamiento de audio	Επεξεργασία ήχου	Elaborazione audio	معالجة الصوت	Audioverarbeitung	音声処理	Hangfeldolgozás	Processamento de áudio
