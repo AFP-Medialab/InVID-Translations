@@ -38,3 +38,8 @@ keyframes_error_VIDEO_SIMILARITY	The video search in the DBKF failed and the res
 dbkf_threshold	0.6	0.6	0.6	0.6	0.6	0.6	0.6	0.6	0.6	0.6
 text_detected_title	Text detected	Texte détecté	Texto detectado	Εντοπισμένο κείμενο	Testo rilevato	النص المكتشف	Erkannter Text	検出されたテキスト	Szöveg észlelve	Texto detectado
 faces_detected_title	Faces detected	Visages détectés	Caras detectadas	Εντοπίστηκαν πρόσωπα	Volti rilevati	تم اكتشاف الوجوه	Gesichter erkannt	顔が検出されました	Arcok észlelve	Rostos detectados
+keyframes_advanced_settings_show	Show Advanced Settings	Afficher les paramètres avancés	Mostrar configuraciones avanzadas	Εμφάνιση για Προηγμένες Ρυθμίσεις	Mostra Impostazioni Avanzate	عرض الإعدادات المتقدمة	Erweiterte Einstellungen anzeigen	詳細設定を表示	Speciális beállítások megjelenítése	Mostrar configurações avançadas
+keyframes_advanced_settings_hide	Hide Advanced Settings	Cacher les paramètres avancés	Ocultar configuraciones avanzadas	Απόκρυψη για Προηγμένες Ρυθμίσεις	Nascondi Impostazioni Avanzate	إخفاء الإعدادات المتقدمة	Erweiterte Einstellungen ausblenden	詳細設定を非表示にする	Speciális beállítások elrejtése	Ocultar configurações avançadas
+download_max_height	Max height	Hauteur max	Altura máxima	Μέγιστο ύψος	Altezza massima	الارتفاع الأقصى	Maximale Höhe	最大高さ	Maximális magasság	Altura máxima
+process_level	Process level	Niveau de traitement	Nivel de proceso	Επίπεδο επεξεργασίας	Livello di elaborazione	مستوى المعالجة	Verarbeitungsebene	処理レベル	Feldolgozási szint	Nível de processamento
+Process audio	Audio processing	Traitement audio	Procesamiento de audio	Επεξεργασία ήχου	Elaborazione audio	معالجة الصوت	Audioverarbeitung	音声処理	Hangfeldolgozás	Processamento de áudio
