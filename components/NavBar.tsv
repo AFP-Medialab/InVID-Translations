@@ -58,10 +58,13 @@ quiz_unlock_explanations	Unlock Interactive explanations	Déverrouiller les expl
 cookies_usage	Accept Matomo	Accepter Matomo	Aceptar Matomo	Αποδοχή του Matomo	Accetta Matomo	قبول Matomo	Matomo akzeptieren	Matomoを許可する	Matomo elfogadása	Aceitar Matomo
 storage_usage	Keep my preferences	Conserver mes préférences	Conserver mis preferencias	Κρατήστε τις προτιμήσεις μου	Mantieni le mie preferenze	حافظ على تفضيلاتي	Vorlieben behalten	設定を保存	Beállításaim megtartása	Manter minhas preferências
 drawer_settings_title	Settings	Paramètres	Configuración	Ρυθμίσεις	Impostazioni	الإعدادات	Einstellungen	設定	Beállítások	Configurações
+drawer_settings_appearance	Appearance	Apparence	Apariencia	Εμφάνιση	Aspetto	المظهر	Erscheinungsbild	外観	Megjelenés	Aparência
 drawer_settings_language	Language	Langue	Idioma	Γλώσσα	Lingua	اللغة	Sprache	言語	Nyelv	Idioma
 drawer_settings_theme	Theme	Thème	Tema	Θέμα	Tema	سمة	Thema	テーマ	Téma	Tema
 drawer_settings_font_size	Font size	Taille de police	Tamaño de fuente	Μέγεθος γραμματοσειράς	Dimensione carattere	حجم الخط	Schriftgröße	フォントサイズ	Betűméret	Tamanho da fonte
 drawer_settings_other_preferences	Other preferences	Autres préférences	Otras preferencias	Άλλες προτιμήσεις	Altre preferenze	تفضيلات أخرى	Weitere Einstellungen	その他の設定	Egyéb beállítások	Outras preferências
+drawer_settings_advanced_tools	Advanced tools	Outils Avancés	Herramientas Avanzadas	Προηγμένα εργαλεία	Strumenti avanzati	ادوات متقدمة	Erweiterte Werkzeuge	高度なツール	Haladó eszközök	Ferramentas Avançadas
+drawer_settings_account	Account	Compte	Cuenta	Λογαριασμός	Account	الحساب	Konto	アカウント	Fiók	Conta
 snaRecord_socialMediaSelectlabel	Social media recorded	Médias sociaux enregistrés	Redes sociales registradas	Καταγεγραμμένα κοινωνικά μέσα	Social media registrati	وسائل التواصل المسجلة	Erfasste soziale Medien	記録されたソーシャルメディア	Rögzített közösségi média	Redes sociais registradas
 snaRecording_selectCollectionLabel	Select collection	Sélectionner une collection	Seleccionar colección	Επιλέξτε συλλογή	Seleziona raccolta	اختر المجموعة	Sammlung auswählen	コレクションを選択	Kiválasztás gyűjtemény	K selecionar coleção
 snaTools_newCollectionLabel	New collection	Nouvelle collection	Nueva colección	Nέα συλλογή	Nuova raccolta	مجموعة جديدة	Neue Sammlung	新しいコレクション	Uj gyűjtemény	Nova coleção
