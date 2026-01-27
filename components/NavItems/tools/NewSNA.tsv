@@ -84,3 +84,4 @@ downloadIcon_hover_label	Download the reformated data in CSV or JSON or the raw 
 deletedIcon_hover_label	Delete	Supprimer	Eliminar	Διαγραφή	Elimina	حذف	Löschen	削除	 Törlés	Excluir
 snaTools_showLessBarChartButton	Show less	Afficher moins	Mostrar menos	Εμφάνιση λιγότερων	Mostra meno	عرض أقل	Weniger anzeigen	表示を減らす	Kevesebb megjelenítése	Mostrar menos
 closeDetailModal_button_text	Close	Fermer	Cerrar	Κλείσιμο	Chiudi	إغلاق	Schließen	閉じる	Bezárás	Fechar
+snaTools_noDataSourceSelected	Select dataset	Sélectionner un jeu de données	Seleccionar conjunto de datos	Επιλέξτε σύνολο δεδομένων	Seleziona set di dati	اختر مجموعة البيانات	Datensatz auswählen	データセットを選択	Adatkészlet kiválasztása	Selecionar conjunto de dados
