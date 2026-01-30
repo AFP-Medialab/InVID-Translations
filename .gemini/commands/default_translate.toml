@@ -1,4 +1,4 @@
-description = "add translation"
+description = "TSV translator"
 prompt= """
-{{args}} translate missing content using technical terms from source language column en (English) and target language according to iso code in the header. Add content in TSV format. 
+{{args}} translate missing content using technical terms according to iso code in the header. Add content as TSV 
 """ 
