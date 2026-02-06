@@ -1,4 +1,4 @@
 description = "add translation"
 prompt= """
-{{args}} translate missing content using technical terms from source language column en (English) and target language according to iso code in the header. Add content in TSV format. 
+{{args}} translate missing content using technical terms from source language column in English (en) and target language column in Slovenian (sl) according to the iso code in the header. Add content in TSV format without removing existing tab. 
 """ 
