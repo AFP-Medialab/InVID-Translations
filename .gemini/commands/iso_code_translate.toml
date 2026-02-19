@@ -1,0 +1,4 @@
+description = "TSV column translator"
+prompt= """
+{{args}} translate missing content using technical terms from source language column in English (en) and target language column in {{args}} according to the iso code in the header. Add content in TSV format without removing existing tab. 
+"""
