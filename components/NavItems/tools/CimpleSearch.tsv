@@ -1,0 +1,85 @@
+	en	fr
+button_submit	Search	Rechercher
+cardheader_parameters	Search parameters	Paramètres de recherche
+no_results	No results found	Aucun résultat trouvé
+review_link	View fact-check	Consulter le fact-check
+fact_checks_label	Fact-checks	Fact-checks
+cimple_advanced_filters	Advanced filters	Filtres avancés
+cimple_clear_filters	Clear all filters	Effacer tous les filtres
+
+cimple_text_search	Search keywords (eg. "climate change")	Rechercher des mots-clés (ex. "changement climatique")
+cimple_from_date	From date	Depuis
+cimple_to_date	To date	Jusqu'à
+
+cimple_filter_conspiracyTheory	Conspiracy theory	Théorie du complot
+cimple_filter_emotion	Emotion	Emotion
+cimple_filter_entity	Entity	Entité
+cimple_filter_graph	Graph	Graphe
+cimple_filter_language	Language	Langue
+cimple_filter_organization	Organization	Organisation
+cimple_filter_politicalLeaning	Political leaning	Orientation politique
+cimple_filter_propaganda	Propaganda	Propagande
+cimple_filter_sentiment	Sentiment	Sentiment
+cimple_filter_topic	Topic	Sujet
+cimple_filter_veracity	Veracity	Crédibilité
+
+cimple_language_Albanian	Albanian	Albanais
+cimple_language_Arabic	Arabic	Arabe
+cimple_language_Bangla	Bangla	Bangla
+cimple_language_Bulgarian	Bulgarian	Bulgare
+cimple_language_Catalan	Catalan	Catalan
+cimple_language_Croatian	Croatian	Croate
+cimple_language_Danish	Danish	Danois
+cimple_language_Dutch	Dutch	Néerlandais
+cimple_language_English	English	Anglais
+cimple_language_Filipino	Filipino	Filipino
+cimple_language_French	French	Français
+cimple_language_German	German	Allemand
+cimple_language_Greek	Greek	Grec
+cimple_language_Hindi	Hindi	Hindi
+cimple_language_Indonesian	Indonesian	Indonésien
+cimple_language_Italian	Italian	Italien
+cimple_language_Nepali	Nepali	Népalais
+cimple_language_Norwegian	Norwegian	Norvégien
+cimple_language_Polish	Polish	Polonais
+cimple_language_Portuguese	Portuguese	Portugais
+cimple_language_Romanian	Romanian	Roumain
+cimple_language_Russian	Russian	Russe
+cimple_language_Serbian	Serbian	Serbe
+cimple_language_Serbo_Croatian	Serbo-Croatian	Serbo-Croate
+cimple_language_Slovak	Slovak	Slovaque
+cimple_language_Spanish	Spanish	Espagnol
+cimple_language_Telugu	Telugu	Telugu
+cimple_language_Turkish	Turkish	Turc
+cimple_language_Ukrainian	Ukrainian	Ukrainien
+
+cimple_conspiracyTheory_antivax	antivax conspiracy theory	Théorie du complot antivax
+cimple_conspiracyTheory_behaviour_and_mind_control	behaviour and mind control conspiracy theory	Théorie du complot sur le contrôle du comportement et de l'esprit
+cimple_conspiracyTheory_fake_virus	fake virus conspiracy theory	Théorie du complot du virus factice
+cimple_conspiracyTheory_harmful_radiation	harmful radiation conspiracy theory	Théorie du complot des radiations nocives
+cimple_conspiracyTheory_intentional_pandemic	intentional pandemic conspiracy theory	Théorie du complot de la pandémie intentionnelle
+cimple_conspiracyTheory_new_world_order	new world order conspiracy theory	Théorie du complot du nouvel ordre mondial
+cimple_conspiracyTheory_population_reduction	population reduction conspiracy theory	Théorie du complot de la réduction de la population
+cimple_conspiracyTheory_satanism	satanism conspiracy theory	Théorie du complot du satanisme
+cimple_conspiracyTheory_suppressed_cures	suppressed cures conspiracy theory	Théorie du complot des remèdes supprimés
+
+cimple_emotion_anger	anger	Colère
+cimple_emotion_fear	fear	Peur
+cimple_emotion_happiness	happiness	Bien-être
+cimple_emotion_sadness	sadness	Tristesse
+
+cimple_politicalLeaning_left	left political leaning	Orientation politique de gauche
+cimple_politicalLeaning_other	other political leaning	Autre orientation politique
+cimple_politicalLeaning_right	right political leaning	Orientation politique de droite
+
+cimple_sentiment_negative	negative sentiment	Sentiment négatif
+cimple_sentiment_neutral	neutral sentiment	Sentiment neutre
+cimple_sentiment_positive	positive sentiment	Sentiment positif
+
+cimple_veracity_misinformed_or_potentially_misleading	misinformed or potentially misleading	Misinformé ou potentiellement trompeur
+cimple_veracity_not_misleading	not misleading	Non trompeur
+cimple_veracity_credible	credible	Crédible
+cimple_veracity_mostly_credible	mostly credible	Plutôt crédible
+cimple_veracity_not_credible	not credible	Non crédible
+cimple_veracity_not_verifiable	not verifiable	Non vérifiable
+cimple_veracity_uncertain	uncertain	Incertain
